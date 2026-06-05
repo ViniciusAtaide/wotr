@@ -1,0 +1,27 @@
+# Shaman Spells — Level 4
+*23 spells. Source: GameFAQs WotR Guide (80843).*
+*Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
+
+- **Cape of Wasps** *(Conjuration)* — _See Druid spell list._
+- **Confusion** *(Enchantment)* — T: Target point within medium range, 15' burst | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — Creatures in the area of effect are unable to determine their actions unless they make a successful Will save. Affected creatures will act as follows (equal chance of each):Act normallyDo nothingDo 1d8 + Strength modifier damage to selfAttack nearest creature.
+- **Crushing Despair** *(Enchantment)* — T: All creatures within a 30' cone | Dur: 1 minute / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion, Emotion, Negative Emotion — Creatures in the area of effect take -2 penalties on attack and damage rolls, saving throws, ability checks and skill checks unless they make a successful Will save.
+- **Cure Critical Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 4d8 points of damage + 1 point per caster level. This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
+- **Dismissal** *(Abjuration)* — T: One enemy creature within close range | Save: Will negates | SR — The spell forces an extraplanar creature back to its home plane if it fails a Will save.
+- **Divine Power** *(Evocation)* — T: Personal | Dur: 1 round / level — You gain +1 luck bonus on attack rolls, damage rolls, Strength checks and Strength-based skill checks for every three caster levels. You also gain temporary HP equal to your caster level. When you make a full attack, you gain an extra attack at your full AB.
+- **False Life, Greater** *(Necromancy)* — T: Personal | Dur: 1 hour / level — You gain 2d10 hit points + 1 per caster level.
+- **Fear** *(Necromancy)* — T: All creatures within a 30' cone | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Fear, Emotion — Creatures in the area of effect become frightened for the spell's duration unless they make a successful Will save. If the Will save succeeds, the creature is shaken for 1 round.
+- **Greater Magic Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 hour / level — Gives a weapon an enhancement bonus to attack and damage of +1 per 4 caster levels (maximum +5). The weapon does not bypass DR apart from magic.
+- **Ice Storm** *(Evocation)* — T: All creatures within 40' burst, centred on target point within long range | Dur: 1 round / level | SR | Desc: Cold — Creatures within the area of effect take 3d6 points of bludgeoning damage and 2d6 points of cold damage.For the duration, the area is classed as difficult terrain and creatures take a -4 penalty on Perception checks.
+- **Inflict Critical Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 4d8 points of damage + 1 point per caster level, taking only half damage on a successful Will save. This spell will heal undead by the same amount.
+- **Life Blast** *(Necromancy)* — _See Druid spell list._
+- **Neutralize Poison** *(Conjuration)* — T: One friendly creature within touch range — You remove all poisons from the creature touched. You must make a caster level check against the DC of each poison affecting the target.
+- **Poison** *(Necromancy)* — T: One enemy creature within touch range | Dur: 6 rounds | Save: Fortitude negates | Desc: Poison — Causes 1d3 Constitution damage per round for 6 rounds. The target may make a Fortitude save each round to negate the damage and end the affliction.
+- **Protection from Energy, Communal** *(Abjuration)* — T: All allies within 25' | Dur: 10 minutes | SR — The recipients receive temporary immunity against a chosen damage type. When the spell absorbs 12 points of damage per caster level (maximum 120 points), it is discharged.
+- **Restoration** *(Conjuration)* — T: One friendly creature within close range | Cast: Full round — Restoration cures all temporary ability damage and all points permanently drained from a single ability score. It also dispels temporary negative levels or one permanent negative level. Finally, it removes the effects of fatigue and exhaustion.
+- **Slowing Mud** *(Conjuration)* — _See Druid spell list._
+- **Spike Stones** *(Transmutation)* — _See Druid spell list._
+- **Spit Venom** *(Transmutation)* — T: One enemy creature within close range | Dur: 6 rounds | Save: Fortitude partial | Desc: Poison — You spit venom as a ranged touch attack. If the venom hits, it causes blindness for 1 round. The target must also save or be poisoned by black adder venom (1d2 Constitution damage per round until a successful save; poison DC is spell DC).
+- **Stoneskin** *(Abjuration)* — T: One friendly creature within touch range | Dur: 10 minutes / level | SR — The target gains DR 10/adamantine. When the spell has prevented 150 HP of damage, it dissipates.
+- **Summon Nature's Ally IV** *(Conjuration)* — _See Druid spell list._
+- **Thirsting Entanglement** *(Transmutation)* — _Linked to Druid, but the guide's druid list has no entry for it._
+- **Thorn Body** *(Transmutation)* — _See Druid spell list._

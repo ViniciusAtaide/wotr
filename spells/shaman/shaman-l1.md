@@ -1,0 +1,20 @@
+# Shaman Spells — Level 1
+*16 spells. Source: GameFAQs WotR Guide (80843).*
+*Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
+
+- **Bane** *(Enchantment)* — T: All enemies within 30' | Dur: 1 minute / level | Save: Will negates | Desc: Mind-Affecting, Fear, Compulsion, Emotion, Negative Emotion — Enemies within the area of effect takes a -1 penalty to attack rolls and saving throws against fear effects.
+- **Bless** *(Enchantment)* — T: All allies within 30' | Dur: 1 minute / level — Allies within the area of effect receive a +1 morale bonus to attack rolls and saving throws against fear effects.
+- **Burning Hands** *(Evocation)* — T: 15' cone | Save: Reflex half | SR | Desc: Fire — Any creature in the area of effect takes 1d4 points of fire damage per caster level (maximum 5d4).
+- **Cause Fear** *(Necromancy)* — T: One enemy creature within close range | Dur: 1d4 rounds | Save: Will partial | SR | Desc: Mind-Affecting, Fear, Emotion, Negative Emotion — The affected creature becomes frightened. If the subject succeeds at a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune.
+- **Cure Light Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 1d8 points of damage + 1 point per caster level (maximum +5). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
+- **Doom** *(Necromancy)* — T: One enemy creature within medium range | Dur: 1 minute / level | Save: Will negates | Desc: Mind-Affecting, Fear, Compulsion, Emotion, Negative Emotion — The target of the spell becomes shaken.
+- **Entangle** *(Transmutation)* — _See Druid spell list._
+- **Haze of Dreams** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will negates | Desc: Mind-Affecting, Emotion, Charmed — If the target fails a Will save, it moves at half speed.
+- **Inflict Light Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 1d8 points of damage + 1 point per caster level (maximum +5), taking only half damage on a successful Will save. This spell will heal undead by the same amount.
+- **Magic Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level — Gives a weapon an enhancement bonus to attack and damage of +1. The attack bonus does not stack with the +1 bonus from masterwork weapons.
+- **Protection from Alignment** *(Abjuration)* — T: One friendly creature within touch range | Dur: 1 minute / level — The recipient receives a +2 deflection bonus to AC and a +2 resistance to saves against attacks made by creatures of the corresponding alignment.
+- **Remove Fear** *(Abjuration)* — T: All allies within 30' of close range target | Dur: 10 minutes — Allies within the area of effect receive a +4 morale bonus to saving throws against fear effects. If the subject is affected by fear, the effect is suppressed for the duration of the spell.
+- **Sleep** *(Enchantment)* — T: One enemy creature within close range, 30' burst | Dur: 1 minute / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion, Sleep | Cast: Full round — 4 HD of living creatures in the area of effect fall into a magical slumber leaving them helpless.
+- **Strand of the Tangled Knot** *(Abjuration)* — T: Personal | Dur: 1 round / level — The next attack made against you takes a -10 penalty. If it is a critical hit, it is treated as a normal hit.
+- **Summon Nature's Ally I** *(Conjuration)* — _See Druid spell list._
+- **Unbreakable Heart** *(Enchantment)* — T: One friendly creature within close range | Dur: 1 round / level — The subject receives a +4 morale bonus to saving throws against "negative emotion" spells or effects that would cause them to harm an ally. If he is affected by one of these effects, It is suppressed for the duration of the spell.

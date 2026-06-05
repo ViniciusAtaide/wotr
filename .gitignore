@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Scraped page artifacts (extracted to markdown, then deleted)
+*.html
+*_files/
