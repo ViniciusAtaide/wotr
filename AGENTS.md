@@ -9,9 +9,9 @@ Read README.md for the file manifest. All content is US English, matching in-gam
 ## Agent rules
 
 - Verify BEFORE writing: grep every class feature, feat, revelation, spell, and mythic ability against the local files (see Source Map below) before it appears in a guide.
-- The human-readable section of a build guide must never contain file references, "✓" prereq notes, or "Verified" labels — that's appendix material (see `builds/_template.md`).
-- Prereqs are still *checked*, just reported in the appendix table only.
-- If something can't be found locally, retry with close name variants (rare upstream typos are annotated in place); follow `_See X spell list_` pointers one hop. If still missing, flag it in the appendix under **Unverified** — never invent.
+- Build guides ship **without** a verification appendix: no file references, "✓" prereq notes, "Verified" labels, or evidence tables anywhere in the guide. Verification still happens in full while writing (process in `builds/_template.md`); the player-relevant residue — stacking collisions, quirks, flagged assumptions with fallbacks — goes in the guide's **Fine Print** section.
+- Prereqs are still *checked*, just not reported in the shipped guide.
+- If something can't be found locally, retry with close name variants (rare upstream typos are annotated in place); follow `_See X spell list_` pointers one hop. If still missing, either cut it or flag it in **Fine Print** as unverified with an in-game fallback — never invent.
 - Oracle/Sorcerer-style spontaneous casters MUST get an explicit spells-known plan — picks per spell level, respecting the class's spells-known table.
 - **Ask before assuming party context.** If a build choice's value depends on something only the user knows, ask BEFORE writing (use the AskUserQuestion tool if available; otherwise ask in plain text). Batch the questions, offer concrete options with a recommended default, and only ask when the answer would change a pick. Triggers:
   - **Capstone/feature nullified by a companion** — e.g. a Skald sharing Beast Totem pounce makes Battle Oracle's Final Revelation redundant
