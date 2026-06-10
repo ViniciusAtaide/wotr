@@ -8,3 +8,7 @@ __pycache__/
 # Scraped page artifacts (extracted to markdown, then deleted)
 *.html
 *_files/
+
+# Builds (keep only _-prefixed files like _template.md)
+builds/*
+!builds/_*
