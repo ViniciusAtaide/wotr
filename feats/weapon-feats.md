@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Feats — Weapon Feats
 *48 feats. Source: GameFAQs WotR Guide (80843).*
 

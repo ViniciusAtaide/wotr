@@ -1,12 +1,16 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Magus Spells — Level 5
 *8 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Acidic Spray** *(Conjuration)* — T: All creatures along a 50' line | Save: Reflex partial | SR | Desc: Acid — Each creature in the line of effect takes 1d6 acid damage per caster level (maximum 15d6). The damage is halved on a Reflex saving throw. If an affected creature fails its save, it must make a second Reflex save the next round or take an additional 1d6 acid damage per two caster levels (maximum 7d6).
-- **Baleful Polymorph** *(Transmutation)* — T: One enemy creature within close range | Dur: Permanent | Save: Fortitude negates | SR | Desc: Curse, Polymorph — You turn the target creature into a dog. It can't attack, its mental attributes drop to 1 and it loses any ability to cast spells.
-- **Beast Shape III** *(Transmutation)* — T: Personal | Dur: 1 minute / level | Desc: Polymorph — You become a large bear, gaining +4 Strength, +4 natural AC and +10' movement speed. You gain two 1d6 claw attacks, one 1d6 bite attack and the rend ability.
-- **Cloudkill** *(Conjuration)* — T: Target point within medium range, 20' burst | Dur: 1 round / level | Save: Fortitude partial | Desc: Poison — Living creatures 3HD or less are slain. Creatures with 4 to 6 HD are slain unless they make a Fortitude save; if the save is successful they take 1d4 points of Constitution damage per round. Other creatures take 1d4 points of Constitution damage per round with a successful Fortitude save halving this.
-- **Cone of Cold** *(Evocation)* — T: All creatures within a 50' cone | Save: Reflex half | SR | Desc: Cold — Creatures in the area of effect take 1d6 cold damage per caster level (maximum 15d6).
-- **Elemental Body II** *(Transmutation)* — T: Personal | Dur: 1 minute / level | Desc: Polymorph — You assume the form of a medium air, earth, fire or water elemental.
-- **Fire Snake** *(Evocation)* — T: All creatures along a 50' line | Save: Reflex half | SR | Desc: Fire — Each creature in the line of effect takes 1d6 fire damage per caster level (maximum 15d6).
-- **Vampiric Shadow Shield** *(Necromancy)* — T: Personal | Dur: 1 round / level — Any creature striking you with a melee weapon, unarmed strike or natural attack takes 1d6 points of negative energy damage + 1 per caster level (maximum 15). You receive 25% of the damage inflicted as healing.
+- **Acidic Spray** *(Conjuration)* — _See Wizard spell list._
+- **Baleful Polymorph** *(Transmutation)* — _See Wizard spell list._
+- **Beast Shape III** *(Transmutation)* — _See Wizard spell list._
+- **Cloudkill** *(Conjuration)* — _See Wizard spell list._
+- **Cone of Cold** *(Evocation)* — _See Wizard spell list._
+- **Elemental Body II** *(Transmutation)* — _See Wizard spell list._
+- **Fire Snake** *(Evocation)* — _See Wizard spell list._
+- **Vampiric Shadow Shield** *(Necromancy)* — _See Wizard spell list._

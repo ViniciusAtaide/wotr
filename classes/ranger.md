@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Ranger
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -9,7 +13,7 @@ The Ranger has the following characteristics:
 - Caster level progression from level 4
 - May cast divine spells up to 4th-level
 - Spells are prepared
-- 7 HP per level
+- 10 HP at level 1, then 6 HP per level (d10 hit die)
 - High saving throws for Fortitude and Reflex, low saving throws for Will
 - 4 skill points per level.
 

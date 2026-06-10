@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Oracle
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -9,7 +13,7 @@ The Oracle has the following characteristics:
 - May cast divine spells up to 9th-level
 - Spells are cast spontaneously
 - Uses the Cleric spell list
-- 6 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Will, low saving throws for Fortitude and Reflex
 - 3 skill points per level.
 

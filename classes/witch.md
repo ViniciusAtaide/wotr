@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -8,7 +12,7 @@ The Witch has the following characteristics:
 - Full caster level progression
 - May cast arcane spells up to 9th-level
 - Spells must be prepared in advance
-- 5 HP per level
+- 6 HP at level 1, then 4 HP per level (d6 hit die)
 - High saving throws for Will, low saving throws for Fortitude and Reflex
 - 2 skill points per level.
 

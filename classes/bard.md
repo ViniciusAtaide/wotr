@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Bard
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -8,7 +12,7 @@ The Bard has the following characteristics:
 - Full caster level progression
 - May cast arcane spells up to 6th-level
 - Spells are cast spontaneously
-- 6 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Reflex and Will, low saving throws for Fortitude
 - 4 skill points per level.
 

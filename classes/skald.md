@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Skald
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -9,7 +13,7 @@ The Skald has the following characteristics:
 - May cast arcane spells up to 6th-level
 - Spells are cast spontaneously
 - Uses the Bard spell list
-- 6 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Fortitude and Will, low saving throws for Reflex
 - 3 skill points per level.
 

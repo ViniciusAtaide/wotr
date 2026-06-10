@@ -1,24 +1,28 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch Spells — Level 4
 *20 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
 - **Cape of Wasps** *(Conjuration)* — _See Druid spell list._
-- **Confusion** *(Enchantment)* — T: Target point within medium range, 15' burst | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — Creatures in the area of effect are unable to determine their actions unless they make a successful Will save. Affected creatures will act as follows (equal chance of each):Act normallyDo nothingDo 1d8 + Strength modifier damage to selfAttack nearest creature.
-- **Crushing Despair** *(Enchantment)* — T: All creatures within a 30' cone | Dur: 1 minute / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion, Emotion, Negative Emotion — Creatures in the area of effect take -2 penalties on attack and damage rolls, saving throws, ability checks and skill checks unless they make a successful Will save.
-- **Cure Serious Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 3d8 points of damage + 1 point per caster level (maximum +15). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Curse of Magic Negation** *(Abjuration)* — T: One enemy creature within touch range | Dur: 10 minutes / level | Save: Will negates | Desc: Curse | Cast: Full Round — The target gains spell resistance equal to 10 + your caster level. When they attempt to cast a spell, they must attempt a caster level check (1d20 + caster level) or the spell will fail without consuming the spell slot. If they manage to make the check, their spell resistance is removed until the start of their new turn. Abilities and feats that increase effective caster level work for the check to successfully cast a spell.Dispel checks to remove the effect are made with a -5 penalty.
-- **Death Ward** *(Necromancy)* — T: One friendly creature within touch range | Dur: 1 minute / level — The subject gains a +4 morale bonus to saves vs. death and death effects and is immune to negative energy effects.
-- **Dimension Door** *(Conjuration)* — T: Target point within long range range — Instantly teleport yourself and allies within 10' to the target point.
-- **Enervation** *(Necromancy)* — T: One enemy creature within close range | Dur: 1 hour / level | SR | Desc: Negative Level — If you hit the target with a ranged touch attack, it loses 1d4 levels. The effects from multiple castings stack.
-- **False Life, Greater** *(Necromancy)* — T: Personal | Dur: 1 hour / level — You gain 2d10 hit points + 1 per caster level.
-- **Fear** *(Necromancy)* — T: All creatures within a 30' cone | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Fear, Emotion — Creatures in the area of effect become frightened for the spell's duration unless they make a successful Will save. If the Will save succeeds, the creature is shaken for 1 round.
-- **Ice Storm** *(Evocation)* — T: All creatures within 40' burst, centred on target point within long range | Dur: 1 round / level | SR | Desc: Cold — Creatures within the area of effect take 3d6 points of bludgeoning damage and 2d6 points of cold damage.For the duration, the area is classed as difficult terrain and creatures take a -4 penalty on Perception checks.
-- **Inflict Serious Wounds, Mass** *(Necromancy)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) — Affected creatures rake 3d8 points of damage + 1 point per caster level. A Will save halves this damage. This spell will heal undead by the same amount.
-- **Neutralize Poison** *(Conjuration)* — T: One friendly creature within touch range — You remove all poisons from the creature touched. You must make a caster level check against the DC of each poison affecting the target.
-- **Poison** *(Necromancy)* — T: One enemy creature within touch range | Dur: 6 rounds | Save: Fortitude negates | Desc: Poison — Causes 1d3 Constitution damage per round for 6 rounds. The target may make a Fortitude save each round to negate the damage and end the affliction.
-- **Phantasmal Killer** *(Illusion)* — T: One enemy creature within medium range | Save: Will disbelief then Fortitude partial | SR | Desc: Mind-Affecting, Fear, Emotion, Negative Emotion — The target receives a Will save to perceive the creature attacking it as an illusion. If this fails the target must make a Fortitude save or die. If it makes the Fortitude save, it takes 3d6 damage instead.
-- **Summon Medium Elemental** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a medium fire, water, air or earth elemental.
-- **Summon Monster IV** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon an extraplanar dire wolf, 1d3 extraplanar monitor lizards or 1d4+1 extraplanar wolves.
-- **Symbol of Revelation** *(Divination)* — T: Target point within long range | Dur: 10 minutes / level | SR — The symbol is activated by invisible creatures, creatures affected by an illusion, creatures with the shapechanger subtype and creatures who have magically changed their shape. The creature triggering the symbol is outlined by Faerie Fire. After activation, the symbol remains active for 10 minutes per caster level.
-- **Touch of Slime** *(Conjuration)* — T: One enemy creature within touch range | Save: Fortitude negates | SR | Desc: Disease — When you make a successful melee touch attack, the target is affected by green slime taking 1d3 Constitution damage per round until Remove Disease is cast on it.
-- **Volcanic Storm** *(Evocation)* — T: All creatures within 40' burst, centred on target point within long range | Dur: 1 round / level | SR | Desc: Fire — Creatures within the area of effect take 3d6 points of bludgeoning damage and 2d6 points of fire damage.For the duration, the area is classed as difficult terrain and creatures take a -4 penalty on Perception checks.
+- **Confusion** *(Enchantment)* — _See Wizard spell list._
+- **Crushing Despair** *(Enchantment)* — _See Wizard spell list._
+- **Cure Serious Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Curse of Magic Negation** *(Abjuration)* — _See Wizard spell list._
+- **Death Ward** *(Necromancy)* — _See Cleric spell list._
+- **Dimension Door** *(Conjuration)* — _See Wizard spell list._
+- **Enervation** *(Necromancy)* — _See Wizard spell list._
+- **False Life, Greater** *(Necromancy)* — _See Wizard spell list._
+- **Fear** *(Necromancy)* — _See Wizard spell list._
+- **Ice Storm** *(Evocation)* — _See Wizard spell list._
+- **Inflict Serious Wounds, Mass** *(Necromancy)* — _See Cleric spell list._
+- **Neutralize Poison** *(Conjuration)* — _See Cleric spell list._
+- **Poison** *(Necromancy)* — _See Cleric spell list._
+- **Phantasmal Killer** *(Illusion)* — _See Wizard spell list._
+- **Summon Medium Elemental** *(Conjuration)* — _See Wizard spell list._
+- **Summon Monster IV** *(Conjuration)* — _See Wizard spell list._
+- **Symbol of Revelation** *(Divination)* — _See Wizard spell list._
+- **Touch of Slime** *(Conjuration)* — _See Wizard spell list._
+- **Volcanic Storm** *(Evocation)* — _See Wizard spell list._

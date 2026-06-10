@@ -33,3 +33,9 @@ ITEMS=(items items-inevitable-excess items-lord-of-nothing)
 for i in $ITEMS; do scrape "$i" "../items/$i.md"; done
 
 echo ALL DONE
+
+# A Dance of Masks DLC (missing from repo — run on macOS host):
+#   scrape a-dance-of-masks ../items/items-dance-of-masks.md
+# NOTE: sub-page slugs should be checked on the guide's TOC at
+# gamefaqs.gamespot.com/ps4/324475-pathfinder-wrath-of-the-righteous/faqs/80843
+# before running — the slug above is a guess until verified there.

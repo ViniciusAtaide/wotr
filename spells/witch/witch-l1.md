@@ -1,22 +1,26 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch Spells — Level 1
 *18 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Burning Hands** *(Evocation)* — T: 15' cone | Save: Reflex half | SR | Desc: Fire — Any creature in the area of effect takes 1d4 points of fire damage per caster level (maximum 5d4).
-- **Cause Fear** *(Necromancy)* — T: One enemy creature within close range | Dur: 1d4 rounds | Save: Will partial | SR | Desc: Mind-Affecting, Fear, Emotion, Negative Emotion — The affected creature becomes frightened. If the subject succeeds at a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune.
-- **Command** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round | Save: Will negates — If the targets fails its saving throw, it can be forced to take one of the following actions:ApproachThe targeted creature moves towards you for 1 round. It can do nothing but move and the movement may provoke attacks of opportunity.FallThe targeted creature becomes prone for 1 round.FleeThe targeted creature moves away from you for 1 round. It can do nothing but move and the movement may provoke attacks of opportunity.HaltThe targeted creature stands in place for 1 round and cannot take any actions.
-- **Cure Light Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 1d8 points of damage + 1 point per caster level (maximum +5). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Ear Piercing Scream** *(Evocation)* — T: One enemy creature within close range | Dur: 1 round (dazed) | Save: Fortitude partial | SR | Desc: Sonic — The target is dazed for 1 round and takes 1d6 of sonic damage per two caster levels (maximum 5d6). A successful save negates the daze effect and halves the damage.
-- **Enlarge Person** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 minute / level | SR | Cast: Full round — Increases the target's size by 1 category. The target gains a +2 size bonus to Strength but takes a -2 size penalty to Dexterity and -1 penalties to attack rolls and AC.
-- **Hypnotism** *(Enchantment)* — T: One enemy creature within close range, 30' burst | Dur: 2d4 rounds | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion | Cast: Full round — 2d4 HD of living creatures in the area of effect are mesmerised, causing them not to act.
-- **Inflict Light Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 1d8 points of damage + 1 point per caster level (maximum +5), taking only half damage on a successful Will save. This spell will heal undead by the same amount.
-- **Mage Armor** *(Conjuration)* — T: One friendly creature within touch range | Dur: 1 hour / level — A force surrounds the recipient providing a +4 armour bonus to AC.
-- **Ray of Enfeeblement** *(Necromancy)* — T: One enemy creature within close range | Dur: 1 round per level | Save: Fortitude partial | SR — You must succeed on a ranged touch attack to strike a target. The target takes a Strength penalty equal to 1d6 + 1 per two caster levels (maximum 1d6 + 5). The target's Strength cannot fall below 1 and a successful Fortitude Save halves the penalty.
-- **Ray of Sickening** *(Necromancy)* — T: One enemy creature within close range | Dur: 1 minute / level | Save: Fortitude negates | SR — The target is sickened for the duration unless it makes a Fortitude save.
-- **Reduce Person** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 minute / level | SR | Cast: Full round — Reduces the target's size by 1 category. The target gains a +2 size bonus to Dexterity and gains +1 to attack rolls and AC but takes a -2 size penalty to Strength.
-- **Remove Sickness** *(Conjuration)* — T: One friendly creature within close range | Dur: 10 minutes / level — The subject receives a +4 morale bonus to saving throws against disease, nausea and sickened effects. If he is affected by one of these effects, It is suppressed for the duration of the spell.
-- **Sleep** *(Enchantment)* — T: One enemy creature within close range, 30' burst | Dur: 1 minute / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion, Sleep | Cast: Full round — 4 HD of living creatures in the area of effect fall into a magical slumber leaving them helpless.
-- **Snowball** *(Conjuration)* — T: One enemy creature within close range | Dur: 1 round (staggered condition) | Save: Fortitude partial | SR | Desc: Cold — You must succeed on a ranged touch attack to strike a target. The snowball deals 1d6 cold damage per caster level (maximum 5d6). The target is staggered for 1 round if it fails a Fortitude save.
-- **Strand of the Tangled Knot** *(Abjuration)* — T: Personal | Dur: 1 round / level — The next attack made against you takes a -10 penalty. If it is a critical hit, it is treated as a normal hit.
-- **Summon Monster I** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon an extraplanar dog.
-- **Unbreakable Heart** *(Enchantment)* — T: One friendly creature within close range | Dur: 1 round / level — The subject receives a +4 morale bonus to saving throws against "negative emotion" spells or effects that would cause them to harm an ally. If he is affected by one of these effects, It is suppressed for the duration of the spell.
+- **Burning Hands** *(Evocation)* — _See Wizard spell list._
+- **Cause Fear** *(Necromancy)* — _See Wizard spell list._
+- **Command** *(Enchantment)* — _See Cleric spell list._
+- **Cure Light Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Ear Piercing Scream** *(Evocation)* — _See Wizard spell list._
+- **Enlarge Person** *(Transmutation)* — _See Wizard spell list._
+- **Hypnotism** *(Enchantment)* — _See Wizard spell list._
+- **Inflict Light Wounds** *(Necromancy)* — _See Cleric spell list._
+- **Mage Armor** *(Conjuration)* — _See Wizard spell list._
+- **Ray of Enfeeblement** *(Necromancy)* — _See Wizard spell list._
+- **Ray of Sickening** *(Necromancy)* — _See Wizard spell list._
+- **Reduce Person** *(Transmutation)* — _See Wizard spell list._
+- **Remove Sickness** *(Conjuration)* — _See Cleric spell list._
+- **Sleep** *(Enchantment)* — _See Wizard spell list._
+- **Snowball** *(Conjuration)* — _See Wizard spell list._
+- **Strand of the Tangled Knot** *(Abjuration)* — _See Cleric spell list._
+- **Summon Monster I** *(Conjuration)* — _See Wizard spell list._
+- **Unbreakable Heart** *(Enchantment)* — _See Hunter spell list._

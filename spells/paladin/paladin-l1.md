@@ -1,21 +1,25 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Paladin Spells — Level 1
 *17 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Bless** *(Enchantment)* — T: All allies within 30' | Dur: 1 minute / level — Allies within the area of effect receive a +1 morale bonus to attack rolls and saving throws against fear effects.
+- **Bless** *(Enchantment)* — _See Cleric spell list._
 - **Bless Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level — The blessed weapon is classed as both magic and good for purposes of overcoming DR and critical hits against evil creatures are automatically confirmed.
 - **Challenge Evil** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 minute / level | Save: Will negates | Desc: Mind-Affecting, Compulsion — You gain a +2 sacred attack bonus against the challenged enemy. If the target is not able to attack you, it becomes sickened.Note that you can only target evil enemies which means that just selecting this spell can tell you whether or not an enemy is evil. You can then choose to Smite Evil instead.
-- **Cure Light Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 1d8 points of damage + 1 point per caster level (maximum +5). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Divine Favor** *(Evocation)* — T: Personal | Dur: 1 minute — You gain +1 luck bonus to attack and damage rolls for every three caster levels (maximum +3).
-- **Firebelly** *(Abjuration)* — T: Personal | Dur: 1 minute / level — You gain fire resistance 5. As a standard action, you can breathe a 15' cone of flame that does 1d4 fire damage (and which allows a Reflex half save), reducing the spell's duration by 1 minute.
-- **Grace** *(Abjuration)* — T: Personal | Dur: 1 round | Cast: Swift Action — Until the end of the round, your movement does not provoke attacks of opportunity.
-- **Haze of Dreams** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will negates | Desc: Mind-Affecting, Emotion, Charmed — If the target fails a Will save, it moves at half speed.
-- **Magic Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level — Gives a weapon an enhancement bonus to attack and damage of +1. The attack bonus does not stack with the +1 bonus from masterwork weapons.
+- **Cure Light Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Divine Favor** *(Evocation)* — _See Cleric spell list._
+- **Firebelly** *(Abjuration)* — _See Cleric spell list._
+- **Grace** *(Abjuration)* — _See Cleric spell list._
+- **Haze of Dreams** *(Enchantment)* — _See Cleric spell list._
+- **Magic Weapon** *(Transmutation)* — _See Wizard spell list._
 - **Protection from Chaos / Evil** *(Abjuration)* — _See Wizard spell list ("Protection from Alignment")._
-- **Resistance** *(Abjuration)* — T: One friendly creature within touch range | Dur: 1 minute | SR — The target receives +1 bonus to saves.
-- **Restoration, Lesser** *(Conjuration)* — T: One friendly creature within close range | Cast: Full round — Dispels any temporary magical effects reducing one of the subject's attributes or restores 1d4 points of temporary attribute damage. It also eliminates fatigue.
-- **Stunning Barrier** *(Abjuration)* — T: Personal | Dur: 1 round / level | Save: Will negates stun — You are surrounded by a field providing a +1 deflection bonus to AC and a +1 bonus to saves. Any creature attacking you in melee must make a Will save or be stunned for 1 round. This discharges the field.
-- **Unbreakable Heart** *(Enchantment)* — T: One friendly creature within close range | Dur: 1 round / level — The subject receives a +4 morale bonus to saving throws against "negative emotion" spells or effects that would cause them to harm an ally. If he is affected by one of these effects, It is suppressed for the duration of the spell.
+- **Resistance** *(Abjuration)* — _See Wizard spell list._
+- **Restoration, Lesser** *(Conjuration)* — _See Cleric spell list._
+- **Stunning Barrier** *(Abjuration)* — _See Wizard spell list._
+- **Unbreakable Heart** *(Enchantment)* — _See Hunter spell list._
 - **Veil of Heaven** *(Abjuration)* — T: Personal | Dur: 10 minutes / level | Save: Will half | Desc: Good — You gain a sacred +2 bonus to AC and saves against attacks from evil outsiders. You can dismiss the spell as a swift action to do d8 damage + 1 per caster level to all evil outsiders within 5'.
 - **Veil of Positive Energy** *(Abjuration)* — T: Personal | Dur: 10 minutes / level | Save: Will half | Desc: Good — You gain a sacred +2 bonus to AC and saves against undead. You can dismiss the spell as a swift action to do d8 damage + 1 per caster level to all undead within 5'.
-- **Virtue** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute — The target receives +1 HP.
+- **Virtue** *(Transmutation)* — _See Cleric spell list._

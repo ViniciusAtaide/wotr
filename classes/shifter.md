@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Shifter
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -7,7 +11,7 @@ The Shifter has the following characteristics:
 
 - Primary attributes: Strength, Dexterity, Constitution and Wisdom
 - Full AB progression
-- 6 HP per level
+- 10 HP at level 1, then 6 HP per level (d10 hit die)
 - High saving throws for Fortitude and Reflex, low saving throws for Will
 - Wildshape ability
 - Enhanced natural attacks

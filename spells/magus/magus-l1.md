@@ -1,21 +1,25 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Magus Spells — Level 1
 *17 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Burning Hands** *(Evocation)* — T: 15' cone | Save: Reflex half | SR | Desc: Fire — Any creature in the area of effect takes 1d4 points of fire damage per caster level (maximum 5d4).
-- **Color Spray** *(Illusion)* — T: 15' cone | Dur: Based on targets' HD | Save: Will negates | SR | Desc: Mind-Affecting — Any creature in the area of effect is affected according to its HD:2 or less: blinded, stunned and knocked prone for 2d4 rounds, then blinded and stunned for 1d4 rounds, then stunned for 1 round3 or 4: blinded and stunned for 1d4 rounds, then stunned for 1 round5 or more: stunned for 1 round.Sightless creatures are unaffected.
-- **Corrosive Touch** *(Conjuration)* — T: One creature within touch range | SR | Desc: Acid — Your successful melee touch attack does 1d4 points of acid damage per caster level (maximum 5d4).
-- **Enlarge Person** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 minute / level | SR | Cast: Full round — Increases the target's size by 1 category. The target gains a +2 size bonus to Strength but takes a -2 size penalty to Dexterity and -1 penalties to attack rolls and AC.
-- **Expeditious Retreat** *(Transmutation)* — T: Personal | Dur: 1 minute / level — Increases your base speed by 30'.
-- **Flare Burst** *(Evocation)* — T: One enemy creature within close range, 10' burst | Dur: 1 minute | Save: Fortitude negates | SR — The target and all creatures within a 10' radius are dazzled for 1 minute unless they make a successful Fortitude save.
-- **Grease** *(Conjuration)* — T: One enemy creature within close range, 10' burst | Dur: 1 minute / level | Save: Reflex negates | Desc: Movement Impairing — Covers the area in a 10' radius around the target in a layer of grease. All creatures in the area when the spell is cast and every subsequent round must make a Reflex save or fall prone.
-- **Magic Missile** *(Evocation)* — T: One enemy creature within medium range | SR — A magic missile always hits its target and does 2-5 points of force damage. For every two caster levels beyond the first you gain an additional missile to a maximum of five at 9th level.
-- **Magic Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level — Gives a weapon an enhancement bonus to attack and damage of +1. The attack bonus does not stack with the +1 bonus from masterwork weapons.
-- **Ray of Enfeeblement** *(Necromancy)* — T: One enemy creature within close range | Dur: 1 round per level | Save: Fortitude partial | SR — You must succeed on a ranged touch attack to strike a target. The target takes a Strength penalty equal to 1d6 + 1 per two caster levels (maximum 1d6 + 5). The target's Strength cannot fall below 1 and a successful Fortitude Save halves the penalty.
-- **Reduce Person** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 minute / level | SR | Cast: Full round — Reduces the target's size by 1 category. The target gains a +2 size bonus to Dexterity and gains +1 to attack rolls and AC but takes a -2 size penalty to Strength.
-- **Shield** *(Abjuration)* — T: Personal | Dur: 1 minute / level — You create a magical shield providing a +4 shield bonus to AC.
-- **Shocking Grasp** *(Evocation)* — T: One creature within touch range | SR | Desc: Electricity — Your successful melee touch attack does 1d6 points of electricity damage per caster level (maximum 5d6).
-- **Snowball** *(Conjuration)* — T: One enemy creature within close range | Dur: 1 round (staggered condition) | Save: Fortitude partial | SR | Desc: Cold — You must succeed on a ranged touch attack to strike a target. The snowball deals 1d6 cold damage per caster level (maximum 5d6). The target is staggered for 1 round if it fails a Fortitude save.
-- **Stone Fist** *(Transmutation)* — T: Personal | Dur: 1 minute / level — While the spell is active, your unarmed attacks do not provoke attacks of opportunity and inflict 1d6 damage (1d4 if small size).
-- **True Strike** *(Divination)* — T: Personal | Dur: 1 round — Your next attack roll gains a +20 insight bonus and you are not affected by the miss chance that applies to concealed targets.
-- **Vanish** *(Illusion)* — T: One friendly creature within touch range | Dur: 1 round / level | SR — The target becomes invisible for a short period (maximum five rounds).
+- **Burning Hands** *(Evocation)* — _See Wizard spell list._
+- **Color Spray** *(Illusion)* — _See Wizard spell list._
+- **Corrosive Touch** *(Conjuration)* — _See Wizard spell list._
+- **Enlarge Person** *(Transmutation)* — _See Wizard spell list._
+- **Expeditious Retreat** *(Transmutation)* — _See Wizard spell list._
+- **Flare Burst** *(Evocation)* — _See Wizard spell list._
+- **Grease** *(Conjuration)* — _See Wizard spell list._
+- **Magic Missile** *(Evocation)* — _See Wizard spell list._
+- **Magic Weapon** *(Transmutation)* — _See Wizard spell list._
+- **Ray of Enfeeblement** *(Necromancy)* — _See Wizard spell list._
+- **Reduce Person** *(Transmutation)* — _See Wizard spell list._
+- **Shield** *(Abjuration)* — _See Wizard spell list._
+- **Shocking Grasp** *(Evocation)* — _See Wizard spell list._
+- **Snowball** *(Conjuration)* — _See Wizard spell list._
+- **Stone Fist** *(Transmutation)* — _See Wizard spell list._
+- **True Strike** *(Divination)* — _See Wizard spell list._
+- **Vanish** *(Illusion)* — _See Wizard spell list._

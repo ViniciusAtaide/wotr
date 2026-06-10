@@ -1,27 +1,31 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Warpriest Spells — Level 6
 *23 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Banishment** *(Abjuration)* — T: Target point within close range, 30' burst | Save: Will negates | SR — The spell forces extraplanar creatures back to their home planes if they fail a Will save. Creatures totalling up to 2HD per caster level can be dismissed.
-- **Bear's Endurance, Mass** *(Transmutation)* — T: All allies within 30' burst, centred on target creature within close range | Dur: 1 minute / level | SR — All allies within the area of effect gain a +4 enhancement bonus to Constitution.
-- **Blade Barrier** *(Evocation)* — T: All creatures within 60' of target point within medium range | Dur: 1 minute / level | Save: Reflex half | Desc: Force — An immobile barrier springs up. Creatures passing through take 1d6 points of damage per caster level (maximum 15d6) with a Reflex save for half damage.
-- **Blessing of Luck and Resolve, Mass** *(Enchantment)* — T: Target within close range, 30' burst | Dur: 1 minute / level | Desc: Mind-Affecting, Compulsion — All allies within the area of effect gain a +2 morale bonus to saves against fear effects. If the target fails a save it may reroll again with a +4 morale bonus, ending the spell's effect.
-- **Bull's Strength, Mass** *(Transmutation)* — T: All allies within 30' burst, centred on target creature within close range | Dur: 1 minute / level | SR — All allies within the area of effect gain a +4 enhancement bonus to Strength.
-- **Chains of Light** *(Conjuration)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Reflex negates | SR | Desc: Good — The target is paralysed unless it makes its Reflex save. A paralysed creature may attempt a new save each round.
-- **Cold Ice Strike** *(Evocation)* — T: All creatures along a 50' line | Save: Reflex half | SR | Desc: Cold — Each creature in the line of effect takes 1d6 cold damage per caster level (maximum 15d6).
-- **Create Undead** *(Necromancy)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning, Evil | Cast: Full Round
-- **Cure Moderate Wounds, Mass** *(Conjuration)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) | Desc: Cure — Affected creatures are healed 2d8 points of damage + 1 point per caster level. This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Dispel Magic, Greater** *(Abjuration)* — T: One creature within medium range — Either removes one spell effect from everything within a 20' burst or removes multiple effects from a single creature.
-- **Eagle's Splendor, Mass** *(Transmutation)* — T: All allies within 30' burst, centred on target creature within close range | Dur: 1 minute / level | SR — All allies within the area of effect gain a +4 enhancement bonus to Charisma.
-- **Eaglesoul** *(Conjuration)* — T: Personal | Dur: 1 round / level | Desc: Summoning, Good — You gain a number of benefits:+2 sacred bonus to AC+4 sacred bonus to StrengthResistance to acid and fire 5+5 sacred bonus to Persuasion (intimidate) checks vs. evil creatures+2 bonus to initiative rollsFast Healing 2Automatic critical hit confirmation against evil creatures.
-- **Elemental Assessor** *(Evocation)* — T: One enemy creature within close range | Dur: 1d4+1 rounds | SR | Desc: Fire, Acid, Cold, Electricity — Fire a ray as a ranged touch attack dealing 2d6 points each of fire, acid, cold and electricity damage. The energy type that does the most damage persists doing another 4d6 damage of that type per round for an additional 1d4 rounds.
-- **Harm** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — Deals 1d10 damage per caster level (maximum 15d10) but cannot reduce the target's HP below 1. If used on an undead creature, the spell behaves like Heal.
-- **Inflict Moderate Wounds, Mass** *(Necromancy)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) — Affected creatures rake 2d8 points of damage + 1 point per caster level. A Will save halves this damage. This spell will heal undead by the same amount.
-- **Inspiring Recovery** *(Conjuration)* — T: One creature within medium range | Save: Will half (if used to damage) | Desc: Cure — The target recovers 1d8 damage per two caster levels and can be brought back to life if killed within the last two rounds. If an ally is restored to life in this way, all allies within 30' gain a +2 morale bonus on attack rolls, damage rolls and saving throws. It does not work if the ally was killed by death magic.Alternatively, you may deal 1d8 damage per two caster levels to an undead creature.
-- **Joyful Rapture** *(Conjuration)* — T: All allies within 60' | SR | Desc: Emotion — All allies within the area of effect are freed from any emotion effects and cured of 1d4 points of Intelligence, Wisdom or Charisma damage.
-- **Owl's Wisdom, Mass** *(Transmutation)* — T: All allies within 30' burst, centred on target creature within close range | Dur: 1 minute / level | SR — All allies within the area of effect gain a +4 enhancement bonus to Wisdom.
-- **Plague Storm** *(Necromancy)* — T: All enemies within 20' of target point within medium range | Dur: 1 minute / level | Save: Fortitude negates | Desc: Evil, Disease — Creatures in the area of effect must make a Fortitude save or contract a disease as though affected by Contagion.
-- **Summon Huge Elemental** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a huge fire, water, air or earth elemental.
-- **Summon Monster VI** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon an Axiomite (non-evil) or Soul Eater, 1d3 Bralanis / Redcaps or 1d4+1 extraplanar dire wolves.
-- **True Seeing, Communal** *(Divination)* — T: All allies within 30' of friendly creature within touch range | Dur: 1 minute / level — Allies in the area of effect gain the ability to see through blur, displacement and invisibility effects.
-- **Undeath to Death** *(Necromancy)* — T: Target point within medium range, 40' burst | Save: Will negates | SR — The spells destroys 1d4 HD of undead creatures per caster level. Creatures with less than 9 HD are slain outright unless they make a Will save. Creatures with 9 HD or more must save or take 100 HP damage.
+- **Banishment** *(Abjuration)* — _See Wizard spell list._
+- **Bear's Endurance, Mass** *(Transmutation)* — _See Wizard spell list._
+- **Blade Barrier** *(Evocation)* — _See Cleric spell list._
+- **Blessing of Luck and Resolve, Mass** *(Enchantment)* — _See Cleric spell list._
+- **Bull's Strength, Mass** *(Transmutation)* — _See Wizard spell list._
+- **Chains of Light** *(Conjuration)* — _See Wizard spell list._
+- **Cold Ice Strike** *(Evocation)* — _See Wizard spell list._
+- **Create Undead** *(Necromancy)* — _See Wizard spell list._
+- **Cure Moderate Wounds, Mass** *(Conjuration)* — _See Cleric spell list._
+- **Dispel Magic, Greater** *(Abjuration)* — _See Wizard spell list._
+- **Eagle's Splendor, Mass** *(Transmutation)* — _See Wizard spell list._
+- **Eaglesoul** *(Conjuration)* — _See Cleric spell list._
+- **Elemental Assessor** *(Evocation)* — _See Wizard spell list._
+- **Harm** *(Necromancy)* — _See Cleric spell list._
+- **Inflict Moderate Wounds, Mass** *(Necromancy)* — _See Cleric spell list._
+- **Inspiring Recovery** *(Conjuration)* — _See Cleric spell list._
+- **Joyful Rapture** *(Conjuration)* — _See Wizard spell list._
+- **Owl's Wisdom, Mass** *(Transmutation)* — _See Wizard spell list._
+- **Plague Storm** *(Necromancy)* — _See Wizard spell list._
+- **Summon Huge Elemental** *(Conjuration)* — _See Wizard spell list._
+- **Summon Monster VI** *(Conjuration)* — _See Wizard spell list._
+- **True Seeing, Communal** *(Divination)* — _See Wizard spell list._
+- **Undeath to Death** *(Necromancy)* — _See Wizard spell list._

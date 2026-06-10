@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Items (Lord of Nothing)
 *Source: GameFAQs WotR Guide (80843).*
 

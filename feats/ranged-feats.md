@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Feats — Ranged Feats
 *14 feats. Source: GameFAQs WotR Guide (80843).*
 

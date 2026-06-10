@@ -1,18 +1,22 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch Spells — Level 5
 *14 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Baleful Polymorph** *(Transmutation)* — T: One enemy creature within close range | Dur: Permanent | Save: Fortitude negates | SR | Desc: Curse, Polymorph — You turn the target creature into a dog. It can't attack, its mental attributes drop to 1 and it loses any ability to cast spells.
-- **Break Enchantment** *(Abjuration)* — T: All allies within 30' | Cast: Full Round — Free allies from enchantments, transmutations and curses. For each such effect roll make a caster level check (maximum 15) against a DC of 11 + caster level of the effect. This spell only works against spells of 5th level and lower.
+- **Baleful Polymorph** *(Transmutation)* — _See Wizard spell list._
+- **Break Enchantment** *(Abjuration)* — _See Wizard spell list._
 - **Cave Fangs** *(Conjuration)* — _See Druid spell list._
-- **Cloudkill** *(Conjuration)* — T: Target point within medium range, 20' burst | Dur: 1 round / level | Save: Fortitude partial | Desc: Poison — Living creatures 3HD or less are slain. Creatures with 4 to 6 HD are slain unless they make a Fortitude save; if the save is successful they take 1d4 points of Constitution damage per round. Other creatures take 1d4 points of Constitution damage per round with a successful Fortitude save halving this.
-- **Cure Critical Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 4d8 points of damage + 1 point per caster level. This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Dominate Person** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion | Cast: Full round — Compel the target humanoid creature to fight on your side unless it makes a Will save. The target can attempt a fresh Will save each round.
-- **Feeblemind** *(Enchantment)* — T: One enemy creature within medium range | Dur: Permanent | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — The target creature's Intelligence and Charisma drop to 1 and it is unable to cast spells. A creature that can cast spells (such as a sorcerer or wizard) takes a -4 penalty to its saving throw.
-- **Hold Monster** *(Enchantment)* — T: One enemy creature within medium range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — This spell affects all living creatures. If the target fails its Will save it is paralysed. The target may attempt a new save each round to end the effect.
-- **Inflict Critical Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 4d8 points of damage + 1 point per caster level, taking only half damage on a successful Will save. This spell will heal undead by the same amount.
-- **Mind Fog** *(Enchantment)* — T: Target point within medium range, 20' burst | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — Creatures caught in the fog take a -10 penalty on Wisdom checks and subsequent Will saves unless they make an initial Will saving throw.
-- **Summon Large Elemental** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a large fire, water, air or earth elemental.
-- **Summon Monster V** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a Bralani Azata (non-evil) or Redcap, 1d3 extraplanar dire wolves or 1d4+1 extraplanar monitor lizards.
-- **Waves of Fatigue** *(Necromancy)* — T: All creatures within a 40' cone | SR — All living creatures in the area of effect become fatigued.
-- **Wracking Ray** *(Necromancy)* — T: One enemy creature within medium range | Save: Fortitude half | SR | Desc: Channel Negative Energy Harm — You must succeed on a ranged touch attack to strike a target. The target takes 1d4 points of Strength and Dexterity damage per 3 caster levels (max 5d4). A successful Fortitude save halves the damage.
+- **Cloudkill** *(Conjuration)* — _See Wizard spell list._
+- **Cure Critical Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Dominate Person** *(Enchantment)* — _See Wizard spell list._
+- **Feeblemind** *(Enchantment)* — _See Wizard spell list._
+- **Hold Monster** *(Enchantment)* — _See Wizard spell list._
+- **Inflict Critical Wounds** *(Necromancy)* — _See Cleric spell list._
+- **Mind Fog** *(Enchantment)* — _See Wizard spell list._
+- **Summon Large Elemental** *(Conjuration)* — _See Wizard spell list._
+- **Summon Monster V** *(Conjuration)* — _See Wizard spell list._
+- **Waves of Fatigue** *(Necromancy)* — _See Wizard spell list._
+- **Wracking Ray** *(Necromancy)* — _See Wizard spell list._

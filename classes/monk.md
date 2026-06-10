@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Monk
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -5,7 +9,7 @@ A Monk has the following characteristics:
 
 - Primary attributes: Dexterity, Constitution and Wisdom
 - Full AB progression
-- 7 HP per level
+- 10 HP at level 1, then 6 HP per level (d10 hit die)
 - High saving throws for Fortitude and Reflex, low saving throws for Will
 - 3 skill points per level
 - Alignment must be Lawful.

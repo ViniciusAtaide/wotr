@@ -1,12 +1,16 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Cleric Spells — Level 9
 *8 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Energy Drain** *(Necromancy)* — T: One enemy creature within close range | Dur: 24 hours | Save: Fortitude partial | SR — If you hit the target with a ranged touch attack, it loses 2d4 levels. The effects from multiple castings stack.After 24 hours, the target may make a Fortitude save for each negative level. If the save is successful, the negative level is removed. Otherwise it becomes permanent.
+- **Energy Drain** *(Necromancy)* — _See Wizard spell list._
 - **Heal, Mass** *(Conjuration)* — T: Target point within close range, 30' burst | Save: Will half (if used to damage) | Desc: Cure — All creatures within the area of effect have Heal cast upon them, restoring up to 250 HP (or damaging undead by the same amount).
 - **Implosion** *(Evocation)* — T: One enemy creature within close range | Dur: 1 round / 2 levels | Save: Fortitude negates | Desc: Divine — Each round, you can cause a creature to collapse in on itself, inflicting 10 points of damage per caster level. The target takes no damage if it makes a Fortitude save. Choosing a new target is a move action and you can only target a given creature once. The spell has no effect on incorporeal creatures.
-- **Overwhelming Presence** *(Enchantment)* — T: All enemies within 30' burst centred on target creature within medium range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion, Emotion, Negative Emotion — Affected creatures are forced to prostrate themselves if they fail a Will save. They may make a fresh save attempt each round. If an affected creature manages to shake off the effects, it takes 1d6 points of Wisdom damage and is staggered for 1d4 rounds. A creature making its initial save is staggered for 1 round.
+- **Overwhelming Presence** *(Enchantment)* — _See Wizard spell list._
 - **Polar Midnight** *(Transmutation)* — T: Target point within close range, 30' burst | Dur: 1 round / level | Save: Fortitude partial | Desc: Cold — Creatures in the area of effect take 5d6 points of cold damage and 1d6 points of Dexterity damage per round. A successful fortitude save negates the Dexterity damage but not the cold damage.
-- **Summon Monster IX** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a Ghaele (non-evil) or Thanadaemon, 1d3 Movanic Devas / Frost Giants or 1d4+1 Bogeymen.
-- **Symbol of Vulnerability** *(Abjuration)* — T: Target point within long range | Dur: Until triggered | Cast: Full Round — Scribe a run e that, once activated, remains active for 10 minutes per caster level. Creatures within 30' receive a -4 penalty to spell resistance and saving throws, a -10 penalty to damage reduction (minimum 0) and any energy resistances are suppressed. After a creature leaves the area of effect, the effects of spell persist for 1 round per caster level.
-- **Winds of Vengeance** *(Evocation)* — T: Personal | Dur: 1 minute / level — No Results Found - Close
+- **Summon Monster IX** *(Conjuration)* — _See Wizard spell list._
+- **Symbol of Vulnerability** *(Abjuration)* — _See Wizard spell list._
+- **Winds of Vengeance** *(Evocation)* — _See Wizard spell list._

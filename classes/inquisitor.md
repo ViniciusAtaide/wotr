@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Inquisitor
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -10,7 +14,7 @@ The Inquisitor has the following characteristics:
 - Spells are cast spontaneously
 - Must choose a domain
 - Does not receive bonus domain spells
-- 6 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Fortitude and Will, low saving throws for Reflex
 - 4 skill points per level.
 

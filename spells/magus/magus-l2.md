@@ -1,20 +1,24 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Magus Spells — Level 2
 *16 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Acid Arrow** *(Conjuration)* — T: One enemy creature within close range | Dur: 1 round + 1 round per three levels | Desc: Acid — You must succeed on a ranged touch attack to strike a target. The arrow deals 2d4 acid damage. For every three caster levels you possess, the acid lasts for another round (6 rounds at level 18).
-- **Animal Aspect** *(Transmutation)* — T: Personal | Dur: 1 minute / level | Desc: Polymorph — You can choose one of the following animal types:GorillaGain +4 competence bonus to CMBMonkeyGain +4 competence bonus to Athletics checks and the ability to throw objects as if you had the Throw Anything FeatRaccoonGain +2 competence bonus to Trickery and Stealth checksRaptorGain +20' enhancement bonus to your base speed.
-- **Bear's Endurance** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level | SR — The target receives a +4 enhancement bonus to Constitution.
-- **Blindness** *(Necromancy)* — T: One enemy creature within medium range | Dur: Permanent | Save: Fortitude negates | SR | Desc: Curse — The target is blinded unless it makes a Fortitude save.
-- **Blur** *(Illusion)* — T: One friendly creature within touch range | Dur: 1 minute / level | SR — The target is blurred, granting it concealment (20% miss chance).
-- **Bull's Strength** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level | SR — The target receives a +4 enhancement bonus to Strength.
-- **Cat's Grace** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level | SR — The target receives a +4 enhancement bonus to Dexterity.
-- **Effortless Armor** *(Transmutation)* — T: Personal | Dur: 1 minute / level — Armour you wear no longer reduces your speed. Reduce any armour check penalty by 1 + 1 / five caster levels (maximum 5).
-- **Frigid Touch** *(Evocation)* — T: One enemy creature within touch range | SR | Desc: Cold — Your successful melee touch attack does 4d6 points of cold damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute.
-- **Glitterdust** *(Conjuration)* — T: Target point within medium range, 10' burst | Dur: 1 round / level | Save: Will negates (blinding only) — Creatures in the area of effect are blinded unless they wake a Will save and are also outlined, forcing a -40 penalty on Stealth checks.
-- **Invisibility** *(Illusion)* — T: One friendly creature within touch range | Dur: 1 minute / level | SR — The target becomes invisible for the spell's duration. Attacking an enemy breaks the invisibility.
-- **Mirror Image** *(Illusion)* — T: Personal | Dur: 1 minute / level — You create 1d4 illusory copies of you + 1 per three caster levels (maximum 8). When you are attacked, there is an equal chance that you or one of your copies are targeted. A copy will be destroyed on a successful hit and a near miss (an attack missing by 5 or less).
-- **Molten Orb** *(Evocation)* — T: One enemy creature within close range, 5' burst | Save: Reflex half | SR | Desc: Fire — Throw a grenade which does 2d6 fire damage on a direct hit. Every creature within 5' takes 1d6 fire damage (Reflex half) and additional 1d6 fire damage each round for 1d3 rounds.
-- **Scorching Ray** *(Evocation)* — T: One enemy creature within close range | SR | Desc: Fire — Fire a ray as a ranged touch attack dealing 4d6 points of fire damage. You can create two rays at 7th level and three at 11th level.
-- **Stone Call** *(Conjuration)* — T: Target point within medium range, 40' burst | Dur: 1 round / level — Creatures in the area of effect receive 2d6 bludgeoning damage. For the duration of the spell, the area of effect is treated as difficult terrain.
-- **Web** *(Transmutation)* — T: Target within long range, 20' burst | Dur: 1 minute / level | Save: Reflex partial — Covers the area in a 10' radius around the target in sticky web. All creatures in the area when the spell is cast and every subsequent round must make a Reflex save or become grappled. Affected creatures may make a combat manoeuvre, Athletics or Mobility check against the spell's DC to free themselves. The area is considered difficult terrain and creatures moving through must make a Reflex save or lose their movement for that round and become grappled as above.
+- **Acid Arrow** *(Conjuration)* — _See Wizard spell list._
+- **Animal Aspect** *(Transmutation)* — _See Wizard spell list._
+- **Bear's Endurance** *(Transmutation)* — _See Wizard spell list._
+- **Blindness** *(Necromancy)* — _See Wizard spell list._
+- **Blur** *(Illusion)* — _See Wizard spell list._
+- **Bull's Strength** *(Transmutation)* — _See Wizard spell list._
+- **Cat's Grace** *(Transmutation)* — _See Wizard spell list._
+- **Effortless Armor** *(Transmutation)* — _See Cleric spell list._
+- **Frigid Touch** *(Evocation)* — _See Wizard spell list._
+- **Glitterdust** *(Conjuration)* — _See Wizard spell list._
+- **Invisibility** *(Illusion)* — _See Wizard spell list._
+- **Mirror Image** *(Illusion)* — _See Wizard spell list._
+- **Molten Orb** *(Evocation)* — _See Wizard spell list._
+- **Scorching Ray** *(Evocation)* — _See Wizard spell list._
+- **Stone Call** *(Conjuration)* — _See Wizard spell list._
+- **Web** *(Transmutation)* — _See Wizard spell list._

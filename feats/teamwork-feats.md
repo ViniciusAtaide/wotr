@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Feats — Teamwork Feats
 *12 feats. Source: GameFAQs WotR Guide (80843).*
 

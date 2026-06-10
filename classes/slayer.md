@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Slayer
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -5,7 +9,7 @@ The Slayer has the following characteristics:
 
 - Primary attributes: Strength, Dexterity and Constitution
 - Full AB progression
-- 7 HP per level
+- 10 HP at level 1, then 6 HP per level (d10 hit die)
 - High saving throws for Fortitude and Reflex, low saving throws for Will
 - Gains sneak attacks
 - 3 skill points per level.

@@ -1,17 +1,21 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch Spells — Level 9
 *13 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Cure Critical Wounds, Mass** *(Conjuration)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) | Desc: Cure — Affected creatures are healed 4d8 points of damage + 1 point per caster level. This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Dominate Monster** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion | Cast: Full round — Compel the target creature to fight on your side unless it makes a Will save. The target can attempt a fresh Will save each round.
+- **Cure Critical Wounds, Mass** *(Conjuration)* — _See Cleric spell list._
+- **Dominate Monster** *(Enchantment)* — _See Wizard spell list._
 - **Elemental Swarm** *(Conjuration)* — _See Druid spell list._
-- **Foresight** *(Divination)* — T: One friendly creature within close range | Dur: 10 minutes / level — The subject is never caught flat-footed and receives a +2 insight bonus to AC and reflex saves.
-- **Heroic Invocation** *(Enchantment)* — T: All allies within 30' centred on target point within close range | Dur: 10 minutes / level | SR | Cast: Full round — Affected allies gain a +4 morale bonus on attack and damage rolls, 2d8+4 temporary HP and are immune to fear and charm effects.
-- **Hold Monster, Mass** *(Enchantment)* — T: All enemies within 30' of humanoid creature within medium range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — Creatures in the area of effect are paralyzed unless they make a Will saving throw. The target may attempt a new save each round to end the effect.
-- **Inflict Critical Wounds, Mass** *(Necromancy)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) — Affected creatures rake 4d8 points of damage + 1 point per caster level. A Will save halves this damage. This spell will heal undead by the same amount.
-- **Mind Blank, Communal** *(Abjuration)* — T: Personal | Dur: 4 hours | SR — The spell grants a +8 resistance bonus against all mind-affecting spells and effects to all party members.
-- **Polar Midnight** *(Transmutation)* — T: Target point within close range, 30' burst | Dur: 1 round / level | Save: Fortitude partial | Desc: Cold — Creatures in the area of effect take 5d6 points of cold damage and 1d6 points of Dexterity damage per round. A successful fortitude save negates the Dexterity damage but not the cold damage.
-- **Power Word Kill** *(Enchantment)* — T: One enemy creature within close range | Dur: Varies | SR | Desc: Mind-Affecting, Compulsion, Death — Any creature with 100 or less HP is killed. Creatures with more than 100HP are unaffected.
-- **Summon Monster IX** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a Ghaele (non-evil) or Thanadaemon, 1d3 Movanic Devas / Frost Giants or 1d4+1 Bogeymen.
-- **Symbol of Vulnerability** *(Abjuration)* — T: Target point within long range | Dur: Until triggered | Cast: Full Round — Scribe a run e that, once activated, remains active for 10 minutes per caster level. Creatures within 30' receive a -4 penalty to spell resistance and saving throws, a -10 penalty to damage reduction (minimum 0) and any energy resistances are suppressed. After a creature leaves the area of effect, the effects of spell persist for 1 round per caster level.
-- **Wail of the Banshee** *(Necromancy)* — T: All enemies within 40' burst centred on target point within close range | Save: Fortitude negates | SR | Desc: Death, Sonic — Creatures other than yourself in the area of effect take 10 points of damage per caster level.
+- **Foresight** *(Divination)* — _See Wizard spell list._
+- **Heroic Invocation** *(Enchantment)* — _See Wizard spell list._
+- **Hold Monster, Mass** *(Enchantment)* — _See Wizard spell list._
+- **Inflict Critical Wounds, Mass** *(Necromancy)* — _See Cleric spell list._
+- **Mind Blank, Communal** *(Abjuration)* — _See Wizard spell list._
+- **Polar Midnight** *(Transmutation)* — _See Cleric spell list._
+- **Power Word Kill** *(Enchantment)* — _See Wizard spell list._
+- **Summon Monster IX** *(Conjuration)* — _See Wizard spell list._
+- **Symbol of Vulnerability** *(Abjuration)* — _See Wizard spell list._
+- **Wail of the Banshee** *(Necromancy)* — _See Wizard spell list._

@@ -19,7 +19,7 @@
 | 5 | Cornugon Smash | — | Free demoralise on every Power Attack hit |
 | 7 | Dazzling Display | Revelation: **War Sight** | Roll initiative twice; Uncanny Dodge |
 | 9 | Shatter Defenses | — | Shaken enemies are flat-footed against you |
-| 11 | Wings | Revelation: **Combat Healer** | Swift-action cures on yourself; Wings = +3 dodge AC, immune to ground effects |
+| 11 | Wings | Revelation: **Combat Healer** | Swift-action cures on yourself; Wings = +3 dodge AC vs melee, immune to ground effects |
 | 13 | Armor Focus (Heavy) | — | |
 | 15 | Improved Initiative | Revelation: **Iron Skin** | DR 10/adamantine, 2/day at this level |
 | 17 | Combat Reflexes | — | |

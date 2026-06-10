@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Alchemist
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -8,7 +12,7 @@ The Alchemist has the following characteristics:
 - Full caster level progression
 - May use "extracts" to cast spell-like effects up to 6th-level
 - Spells are prepared
-- 6 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Fortitude and Reflex, low saving throws for Will
 - 3 skill points per level.
 

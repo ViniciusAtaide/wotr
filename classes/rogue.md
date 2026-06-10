@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Rogue
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -5,7 +9,7 @@ The Rogue has the following characteristics:
 
 - Primary attribute: Dexterity
 - Medium (3/4) AB progression
-- 6 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Reflex, low saving throws for Fortitude and Will
 - 5 skill points per level.
 

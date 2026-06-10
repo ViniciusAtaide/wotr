@@ -1,26 +1,30 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch Spells — Level 2
 *22 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Blindness** *(Necromancy)* — T: One enemy creature within medium range | Dur: Permanent | Save: Fortitude negates | SR | Desc: Curse — The target is blinded unless it makes a Fortitude save.
-- **Bone Fists** *(Necromancy)* — T: All allies within 30' of target creature within close range | Dur: 1 minute / level — Allies within the area of effect receive a +1 bonus to natural armour, a +2 bonus to damage rolls with natural weapons and deal an additional 1d6 points of piercing damage with successful grapple checks.
-- **Boneshaker** *(Necromancy)* — T: One enemy creature within medium range | Save: Fortitude half | SR — The target takes 3d6 damage plus 1d6 per two caster levels.
-- **Cure Moderate Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 2d8 points of damage + 1 point per caster level (maximum +10). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Delay Poison** *(Conjuration)* — T: One friendly creature within close range | Dur: 1 hour / level — The subject becomes temporarily immune to poison. If the subject is poisoned, any further effects stop.
-- **False Life** *(Necromancy)* — T: Personal | Dur: 1 hour / level — You gain 1d10 hit points + 1 per caster level (maximum 10)
-- **Fester** *(Necromancy)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Fortitude partial — The target gains SR 12 against healing effects for the duration of the spell. If it makes its save, the effect only lasts 1 round.
-- **Find Traps** *(Divination)* — T: Personal | Dur: 1 minute / level — You gain an insight bonus equal to half your caster level (maximum +10) to Perception checks.
-- **Glitterdust** *(Conjuration)* — T: Target point within medium range, 10' burst | Dur: 1 round / level | Save: Will negates (blinding only) — Creatures in the area of effect are blinded unless they wake a Will save and are also outlined, forcing a -40 penalty on Stealth checks.
-- **Haunting Mists** *(Illusion)* — T: Target point within close range, 20' burst | Dur: 1 round / level | Save: Will partial | Desc: Fear — Attacks made in the mist are affected by total concealment (50% miss chance). All creatures in the area of effect must make a Will save or suffer 1d2 points of Wisdom damage and become shaken for 1d4 rounds.
-- **Hold Person** *(Enchantment)* — T: One enemy humanoid creature within medium range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — If the target fails its Will save it is paralyzed. The target may attempt a new save each round to end the effect.
-- **Inflict Moderate Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 2d8 points of damage + 1 point per caster level (maximum +10), taking only half damage on a successful Will save. This spell will heal undead by the same amount.
-- **Molten Orb** *(Evocation)* — T: One enemy creature within close range, 5' burst | Save: Reflex half | SR | Desc: Fire — Throw a grenade which does 2d6 fire damage on a direct hit. Every creature within 5' takes 1d6 fire damage (Reflex half) and additional 1d6 fire damage each round for 1d3 rounds.
-- **Mortal Terror** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will partial | SR | Desc: Mind-Affecting, Fear, Emotion, Negative Emotion — The target is shaken and the first time each round that it takes damage, it must make a Will save or become frightened. If it fails the save while frightened, it becomes unconscious for the remainder of the spell's duration. If the target makes its initial will save, it is shaken for 1 round with no further effects.
-- **Pernicious Poison** *(Necromancy)* — T: One enemy creature within touch range | Dur: 10 minutes / level | SR | Desc: Poison — The target is afflicted with a -4 penalty on saves against poison.
+- **Blindness** *(Necromancy)* — _See Wizard spell list._
+- **Bone Fists** *(Necromancy)* — _See Wizard spell list._
+- **Boneshaker** *(Necromancy)* — _See Wizard spell list._
+- **Cure Moderate Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Delay Poison** *(Conjuration)* — _See Cleric spell list._
+- **False Life** *(Necromancy)* — _See Wizard spell list._
+- **Fester** *(Necromancy)* — _See Inquisitor spell list._
+- **Find Traps** *(Divination)* — _See Cleric spell list._
+- **Glitterdust** *(Conjuration)* — _See Wizard spell list._
+- **Haunting Mists** *(Illusion)* — _See Wizard spell list._
+- **Hold Person** *(Enchantment)* — _See Wizard spell list._
+- **Inflict Moderate Wounds** *(Necromancy)* — _See Cleric spell list._
+- **Molten Orb** *(Evocation)* — _See Wizard spell list._
+- **Mortal Terror** *(Enchantment)* — _See Wizard spell list._
+- **Pernicious Poison** *(Necromancy)* — _See Wizard spell list._
 - **Pox Pustules** *(Necromancy)* — _See Druid spell list._
-- **Scare** *(Necromancy)* — T: One enemy creature within medium range, 30' burst | Dur: 1 round / level | Save: Will partial | SR | Desc: Mind-Affecting, Fear, Emotion, Negative Emotion — Creatures within the area of effect become frightened. If the subject succeeds at a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune.
-- **See Invisibility** *(Divination)* — T: Personal | Dur: 10 minutes / level — You can see any invisible creatures.
-- **Summon Monster II** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon an extraplanar wolf or 1d3 extraplanar dogs.
-- **Summon Small Elemental** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | SR | Desc: Summoning | Cast: Full Round — Summon a small fire, water, air or earth elemental.
-- **Web** *(Transmutation)* — T: Target within long range, 20' burst | Dur: 1 minute / level | Save: Reflex partial — Covers the area in a 10' radius around the target in sticky web. All creatures in the area when the spell is cast and every subsequent round must make a Reflex save or become grappled. Affected creatures may make a combat manoeuvre, Athletics or Mobility check against the spell's DC to free themselves. The area is considered difficult terrain and creatures moving through must make a Reflex save or lose their movement for that round and become grappled as above.
+- **Scare** *(Necromancy)* — _See Wizard spell list._
+- **See Invisibility** *(Divination)* — _See Wizard spell list._
+- **Summon Monster II** *(Conjuration)* — _See Wizard spell list._
+- **Summon Small Elemental** *(Conjuration)* — _See Wizard spell list._
+- **Web** *(Transmutation)* — _See Wizard spell list._
 - **Winter's Grasp** *(Conjuration)* — _See Druid spell list._

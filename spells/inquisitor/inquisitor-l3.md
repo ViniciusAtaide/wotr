@@ -1,19 +1,23 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Inquisitor Spells — Level 3
 *15 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Cure Serious Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 3d8 points of damage + 1 point per caster level (maximum +15). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Dispel Magic** *(Abjuration)* — T: One creature within medium range — Remove one ongoing spell that has been cast on a creature or one area of effect spell affecting the target point.
+- **Cure Serious Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Dispel Magic** *(Abjuration)* — _See Wizard spell list._
 - **Fester** *(Necromancy)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Fortitude partial — The target gains SR 12 against healing effects for the duration of the spell. If it makes its save, the effect only lasts 1 round.
-- **Greater Magic Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 hour / level — Gives a weapon an enhancement bonus to attack and damage of +1 per 4 caster levels (maximum +5). The weapon does not bypass DR apart from magic.
-- **Heroism** *(Enchantment)* — T: One friendly creature within touch range | Dur: 10 minutes / level — The recipient of the spell gains a +2 morale bonus on attack rolls, saves and skill checks.
-- **Inflict Serious Wounds, Mass** *(Necromancy)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) — Affected creatures rake 3d8 points of damage + 1 point per caster level. A Will save halves this damage. This spell will heal undead by the same amount.
+- **Greater Magic Weapon** *(Transmutation)* — _See Wizard spell list._
+- **Heroism** *(Enchantment)* — _See Wizard spell list._
+- **Inflict Serious Wounds, Mass** *(Necromancy)* — _See Cleric spell list._
 - **Litany of Eloquence** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round | Desc: Mind-Affecting, Charmed | Cast: Swift Action — The target of the spell is fascinated and does nothing for 1 round.
 - **Litany of Entanglement** *(Conjuration)* — T: One enemy creature within close range | Dur: 1 round | Save: Will negates | Cast: Swift Action — The target of the spell is entangled unless it makes a Will save.
-- **Magical Vestment** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 hour / level — Imbue a suit of armour or shield with an enhancement bonus of +1 per four caster levels (maximum +5).
-- **Protection from Energy** *(Abjuration)* — T: One friendly creature within touch range | Dur: 10 minutes / level | SR — The recipient receives temporary immunity against a chosen damage type. When the spell absorbs 12 points of damage per caster level (maximum 120 points), it is discharged.
-- **Remove Curse** *(Abjuration)* — T: One friendly creature within close range | SR — Attempts to remove all curses from the target. Make a caster level check against the DC of each curse affecting a creature. Allows an ally to unequip a cursed item.
-- **Remove Disease** *(Conjuration)* — T: One friendly creature within close range — Attempts to remove all diseases from the target. Make a caster level check against the DC of each disease affecting a creature.
-- **Resist Energy, Communal** *(Abjuration)* — T: All allies within 25' | Dur: 10 minutes | SR — The recipient receives resist energy 10 against a chosen damage type. The resistance increases to 20 points at 7th level and 30 points at 11th level.
-- **Searing Light** *(Evocation)* — T: One enemy creature within medium range — Succeed on a ranged touch attack to strike a target. The damage depends on the target's nature:Living creature: 1d8 damage per two caster levels (maximum 5d8)Undead: 1d6 damage per caster level (maximum 10d6)Construct: 1d6 damage per two caster levels (maximum 5d6).
-- **See Invisibility, Communal** *(Divination)* — T: All allies within 25' | Dur: 10 minutes / level — You and your allies can see any invisible creatures.
+- **Magical Vestment** *(Transmutation)* — _See Cleric spell list._
+- **Protection from Energy** *(Abjuration)* — _See Wizard spell list._
+- **Remove Curse** *(Abjuration)* — _See Wizard spell list._
+- **Remove Disease** *(Conjuration)* — _See Cleric spell list._
+- **Resist Energy, Communal** *(Abjuration)* — _See Wizard spell list._
+- **Searing Light** *(Evocation)* — _See Cleric spell list._
+- **See Invisibility, Communal** *(Divination)* — _See Wizard spell list._

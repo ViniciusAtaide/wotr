@@ -1,25 +1,29 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Witch Spells — Level 7
 *21 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Bestow Curse, Greater** *(Necromancy)* — T: One creature within touch range | Dur: Permanent | Save: Will negates | SR | Desc: Curse — Bestow a curse of your choosing on the target:-12 Constitution-12 Strength and Dexterity-12 Intelligence, Wisdom and Charisma-8 penalty on attack rolls, saves, ability and skill checks.
-- **Chain Lightning** *(Evocation)* — T: One enemy creature within long range | Save: Reflex partial | SR | Desc: Electricity — Casts a lightning bolt that does 1d6 electricity damage per caster level to the primary target (maximum 20d6). After it strikes, it can arc to a secondary target within 30' doing 1d6 electricity damage per caster level to the secondary target. It can arc repeatedly striking a number of targets equal to your caster level but no target may be struck more than once. Affected creatures may attempt a Reflex save for half damage.
-- **Cure Moderate Wounds, Mass** *(Conjuration)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) | Desc: Cure — Affected creatures are healed 2d8 points of damage + 1 point per caster level. This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Harm** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — Deals 1d10 damage per caster level (maximum 15d10) but cannot reduce the target's HP below 1. If used on an undead creature, the spell behaves like Heal.
-- **Heal** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed of 1d10 HP per caster level (maximum 150 HP) and all afflictions apart from negative levels and permanently drained ability points. If used on an undead creature, the spell behaves like Harm.
-- **Hold Person, Mass** *(Enchantment)* — T: All enemies within 30' of humanoid creature within medium range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — Creatures in the area of effect are paralyzed unless they make a Will saving throw. The target may attempt a new save each round to end the effect.
-- **Ice Body** *(Transmutation)* — T: Personal | Dur: 1 minute / level | Desc: Cold, Polymorph — You gain immunity to cold, vulnerability to fire and DR 5/magic. Additionally, you are immune to blindness, critical hits, ability score damage, disease, electricity, poison and stunning and all spells which affect your physiology or respiration.Your unarmed attacks deal damage equivalent to a club (1d4 or 1d6 depending on size) plus 1 point of cold damage.
-- **Inflict Moderate Wounds, Mass** *(Necromancy)* — T: All creatures within 30' of target point within close range | Save: Will half (if used to damage) — Affected creatures rake 2d8 points of damage + 1 point per caster level. A Will save halves this damage. This spell will heal undead by the same amount.
-- **Insanity** *(Enchantment)* — T: One enemy creature within medium range | Dur: Permanent | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — The affected creature suffers a permanent Confusion effect. Heal or Greater Restoration is required to remove the condition.
-- **Legendary Proportions** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 minute / level — The target increases in size by two categories. The target gains a +6 size bonus to Strength and a +4 bonus to Constitution. It gains a +6 bonus to its natural armour and DR 10/adamantine.
-- **Poison Breath** *(Evocation)* — T: All creatures within a 15' cone | Dur: Varies | Save: Fortitude negates | Desc: Poison — Creatures in the area of effect are subjected to the effects of the Poison spell.
-- **Power Word Blind** *(Enchantment)* — T: One enemy creature within close range | Dur: Varies | SR | Desc: Mind-Affecting, Compulsion — Any creature with 50 or less HP is permanently blinded. If the creature's current HP is between 51 and 100, the effect lasts for 1d4+1 minutes. If the current HP is 101-200, the effect lasts for 1d4+1 rounds. Creatures with more than 200HP are unaffected.
+- **Bestow Curse, Greater** *(Necromancy)* — _See Wizard spell list._
+- **Chain Lightning** *(Evocation)* — _See Wizard spell list._
+- **Cure Moderate Wounds, Mass** *(Conjuration)* — _See Cleric spell list._
+- **Harm** *(Necromancy)* — _See Cleric spell list._
+- **Heal** *(Conjuration)* — _See Cleric spell list._
+- **Hold Person, Mass** *(Enchantment)* — _See Wizard spell list._
+- **Ice Body** *(Transmutation)* — _See Wizard spell list._
+- **Inflict Moderate Wounds, Mass** *(Necromancy)* — _See Cleric spell list._
+- **Insanity** *(Enchantment)* — _See Wizard spell list._
+- **Legendary Proportions** *(Transmutation)* — _See Wizard spell list._
+- **Poison Breath** *(Evocation)* — _See Cleric spell list._
+- **Power Word Blind** *(Enchantment)* — _See Wizard spell list._
 - **Primal Regression** *(Enchantment)* — _See Druid spell list._
-- **Summon Greater Elemental** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a greater fire, water, air or earth elemental.
-- **Summon Monster VII** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a Bogeyman, 1d3 Axiomites / Soul Eaters or 1d4 +1 Bralanis / Redcaps.
-- **Symbol of Weakness** *(Necromancy)* — T: Target point within long range | Dur: Until triggered | Cast: Full Round — Scribe a run e that, once activated, remains active for 10 minutes per caster level, dealing 3d6 points of Strength damage to creatures within 30'. A given creature can only be affected by this spell once per day.
-- **True Seeing, Communal** *(Divination)* — T: All allies within 30' of friendly creature within touch range | Dur: 1 minute / level — Allies in the area of effect gain the ability to see through blur, displacement and invisibility effects.
-- **Umbral Strike** *(Necromancy)* — T: One enemy creature within medium range | Dur: 1 round / level | Save: Fortitude partial | SR — Fire a ray as a ranged touch attack dealing 1d6 points of damage per caster level to the target and blinding them for 1 round / level. Half the ray's damage is cold, the other half negative energy. A successful Fortitude save halves the damage and negates the blindness. The ray ignores concealment (but not total concealment).
-- **Walk through Space** *(Conjuration)* — T: Personal | Dur: 1 round / level — While under the effects of the spell, you can teleport up to 30' as a move action. Alternatively, you can use a move action to teleport to a standing position from lying prone. Teleporting does not provoke attacks of opportunity.
-- **Waves of Ecstasy** *(Enchantment)* — T: All creatures within a 30' cone | Dur: 1 round / level | Save: Will partial | SR | Desc: Mind-Affecting, Compulsion, Emotion — All creatures in the area of effect must make a Will save or be stunned for 1 round and staggered for the duration of the spell. A creature that makes its save is only staggered for 1 round.
-- **Waves of Exhaustion** *(Necromancy)* — T: All creatures within a 50' cone | SR — All living creatures in the area of effect become exhausted.
+- **Summon Greater Elemental** *(Conjuration)* — _See Wizard spell list._
+- **Summon Monster VII** *(Conjuration)* — _See Wizard spell list._
+- **Symbol of Weakness** *(Necromancy)* — _See Wizard spell list._
+- **True Seeing, Communal** *(Divination)* — _See Wizard spell list._
+- **Umbral Strike** *(Necromancy)* — _See Wizard spell list._
+- **Walk through Space** *(Conjuration)* — _See Wizard spell list._
+- **Waves of Ecstasy** *(Enchantment)* — _See Wizard spell list._
+- **Waves of Exhaustion** *(Necromancy)* — _See Wizard spell list._

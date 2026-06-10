@@ -1,22 +1,26 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Inquisitor Spells — Level 2
 *18 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Aid** *(Enchantment)* — T: One friendly creature within close range | Dur: 1 minute / level — Grants the target a +1 morale bonus to attack rolls and saves against fear effects plus temporary HP equal to 1d8 + 1 / caster level (maximum 1d8 + 10).
-- **Align Weapon** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 minute / level — The target's equipped weapon becomes good, lawful, evil or chaotic to bypass the relevant damage reduction.
-- **Blessing of Luck and Resolve** *(Enchantment)* — T: One friendly creature within close range | Dur: 1 minute / level | Desc: Mind-Affecting, Compulsion — Grants the target a +2 morale bonus to saves against fear effects. If the target fails a save it may reroll again with a +4 morale bonus, ending the spell's effect.
-- **Boneshaker** *(Necromancy)* — T: One enemy creature within medium range | Save: Fortitude half | SR — The target takes 3d6 damage plus 1d6 per two caster levels.
+- **Aid** *(Enchantment)* — _See Cleric spell list._
+- **Align Weapon** *(Transmutation)* — _See Cleric spell list._
+- **Blessing of Luck and Resolve** *(Enchantment)* — _See Cleric spell list._
+- **Boneshaker** *(Necromancy)* — _See Wizard spell list._
 - **Castigate** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will partial | Desc: Mind-Affecting, Fear, Compulsion, Emotion, Negative Emotion — The targeted enemy must make a Will save or cower with fear. If the attempt succeeds, the creature is merely shaken for 1 round. Each subsequent round, a cowering creature may attempt a new save.
-- **Cure Moderate Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 2d8 points of damage + 1 point per caster level (maximum +10). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Delay Poison** *(Conjuration)* — T: One friendly creature within close range | Dur: 1 hour / level — The subject becomes temporarily immune to poison. If the subject is poisoned, any further effects stop.
-- **Effortless Armor** *(Transmutation)* — T: Personal | Dur: 1 minute / level — Armour you wear no longer reduces your speed. Reduce any armour check penalty by 1 + 1 / five caster levels (maximum 5).
-- **Find Traps** *(Divination)* — T: Personal | Dur: 1 minute / level — You gain an insight bonus equal to half your caster level (maximum +10) to Perception checks.
-- **Hold Person** *(Enchantment)* — T: One enemy humanoid creature within medium range | Dur: 1 round / level | Save: Will negates | SR | Desc: Mind-Affecting, Compulsion — If the target fails its Will save it is paralyzed. The target may attempt a new save each round to end the effect.
-- **Inflict Moderate Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 2d8 points of damage + 1 point per caster level (maximum +10), taking only half damage on a successful Will save. This spell will heal undead by the same amount.
-- **Invisibility** *(Illusion)* — T: One friendly creature within touch range | Dur: 1 minute / level | SR — The target becomes invisible for the spell's duration. Attacking an enemy breaks the invisibility.
-- **Mortal Terror** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 round / level | Save: Will partial | SR | Desc: Mind-Affecting, Fear, Emotion, Negative Emotion — The target is shaken and the first time each round that it takes damage, it must make a Will save or become frightened. If it fails the save while frightened, it becomes unconscious for the remainder of the spell's duration. If the target makes its initial will save, it is shaken for 1 round with no further effects.
-- **Protection from Alignment, Communal** *(Abjuration)* — T: Allies within 30' | Dur: 1 minute — All allies receive a +2 deflection bonus to AC and a +2 resistance to saves against attacks made by creatures of the corresponding alignment.
-- **Remove Paralysis** *(Conjuration)* — T: One friendly creature within close range — Removes paralysis from the target.
-- **Resist Energy** *(Abjuration)* — T: One friendly creature within touch range | Dur: 10 minutes / level | SR — The recipient receives resist energy 10 against a chosen damage type. The resistance increases to 20 points at 7th level at 30 points at 11th level.
-- **Restoration, Lesser** *(Conjuration)* — T: One friendly creature within close range | Cast: Full round — Dispels any temporary magical effects reducing one of the subject's attributes or restores 1d4 points of temporary attribute damage. It also eliminates fatigue.
-- **See Invisibility** *(Divination)* — T: Personal | Dur: 10 minutes / level — You can see any invisible creatures.
+- **Cure Moderate Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Delay Poison** *(Conjuration)* — _See Cleric spell list._
+- **Effortless Armor** *(Transmutation)* — _See Cleric spell list._
+- **Find Traps** *(Divination)* — _See Cleric spell list._
+- **Hold Person** *(Enchantment)* — _See Wizard spell list._
+- **Inflict Moderate Wounds** *(Necromancy)* — _See Cleric spell list._
+- **Invisibility** *(Illusion)* — _See Wizard spell list._
+- **Mortal Terror** *(Enchantment)* — _See Wizard spell list._
+- **Protection from Alignment, Communal** *(Abjuration)* — _See Wizard spell list._
+- **Remove Paralysis** *(Conjuration)* — _See Cleric spell list._
+- **Resist Energy** *(Abjuration)* — _See Wizard spell list._
+- **Restoration, Lesser** *(Conjuration)* — _See Cleric spell list._
+- **See Invisibility** *(Divination)* — _See Wizard spell list._

@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Barbarian
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -5,7 +9,7 @@ The Barbarian has the following characteristics:
 
 - Primary attributes: Strength and Constitution
 - Full AB progression
-- 8 HP per level
+- 12 HP at level 1, then 7 HP per level (d12 hit die)
 - High saving throws for Fortitude, low saving throws for Reflex and Will
 - Rage ability
 - 3 skill points per level

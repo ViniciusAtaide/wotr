@@ -75,7 +75,7 @@
 - **Second Mystery (mythic) for more revelations** — rejected: the mythic-ability budget is fully spent on Ascendant Element + Abundant Casting line + the Enduring pair, which carry both halves of the build's identity.
 - **Sorcerous Reflex over Improved Initiative (Mythic) at rank 8** — defensible (a swift first-spell every fight), but Speed of Light already quickens your spells from the same rank, while going first on Unfair has no substitute.
 - **Selective Spell can be skipped** if your front line carries fire immunity gear by late game — take Toughness instead.
-- **Racial Wings feat (level 11+)** — Angel grants Wings at rank 8 anyway; only worth a feat slot if you want the +3 dodge through Chapters 3–4, at the cost of one metamagic.
+- **Racial Wings feat (level 11+)** — Angel grants Wings at rank 8 anyway; only worth a feat slot if you want the +3 dodge AC vs melee through Chapters 3–4, at the cost of one metamagic.
 
 ---
 

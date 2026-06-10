@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Sorcerer Spells
 *Sorcerers use the Wizard spell list. Source: GameFAQs WotR Guide (80843).*
 

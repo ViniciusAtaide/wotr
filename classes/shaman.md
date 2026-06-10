@@ -1,3 +1,7 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Shaman
 *Source: GameFAQs WotR Guide (80843).*
 
@@ -8,7 +12,7 @@ The Shaman has the following characteristics:
 - Full caster level progression
 - May cast divine spells up to 9th-level
 - Spells must be prepared in advance
-- 5 HP per level
+- 8 HP at level 1, then 5 HP per level (d8 hit die)
 - High saving throws for Will, low saving throws for Fortitude and Reflex
 - 2 skill points per level.
 

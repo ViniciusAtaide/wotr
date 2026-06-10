@@ -1,24 +1,28 @@
+---
+source: GameFAQs WotR Guide 80843
+game_patch: 2.7.0
+---
 # Hunter Spells — Level 4
 *20 spells. Source: GameFAQs WotR Guide (80843).*
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
-- **Animal Growth** *(Transmutation)* — T: One friendly creature within medium range | Dur: 1 minute / level — The target grows to twice its normal size, going up a size category and gaining +8 size bonus to Strength, +4 size bonus to Constitution, +2 natural armour and -2 size penalty to Dexterity.
+- **Animal Growth** *(Transmutation)* — _See Wizard spell list._
 - **Aspect of the Wolf** *(Transmutation)* — _See Druid spell list._
 - **Blessing of the Salamander** *(Transmutation)* — _See Druid spell list._
 - **Call Lightning** *(Conjuration)* — _See Druid spell list._
 - **Cape of Wasps** *(Conjuration)* — _See Druid spell list._
-- **Cure Serious Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 3d8 points of damage + 1 point per caster level (maximum +15). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
-- **Dispel Magic** *(Abjuration)* — T: One creature within medium range — Remove one ongoing spell that has been cast on a creature or one area of effect spell affecting the target point.
-- **Echolocation** *(Transmutation)* — T: Personal | Dur: 10 minutes / level — You gain blindsight to a range of 40'.
-- **Flame Strike** *(Evocation)* — T: All creatures within 10' of target point within medium range | Save: Reflex half | Desc: Fire — All creatures in the area of effect take 1d6 points per caster level (maximum 15d6). Half the damage is divine damage and not subject to fire resistance.
-- **Freedom of Movement** *(Abjuration)* — T: One friendly creature within touch range | Dur: 10 minutes / level — The subject is immune to all magic that hinders movement, including paralysis effects, Slow, Web and Acid Fog. Any attempts to grapple the subject fail.
-- **Ice Storm** *(Evocation)* — T: All creatures within 40' burst, centred on target point within long range | Dur: 1 round / level | SR | Desc: Cold — Creatures within the area of effect take 3d6 points of bludgeoning damage and 2d6 points of cold damage.For the duration, the area is classed as difficult terrain and creatures take a -4 penalty on Perception checks.
-- **Inspiring Recovery** *(Conjuration)* — T: One creature within medium range | Save: Will half (if used to damage) | Desc: Cure — The target recovers 1d8 damage per two caster levels and can be brought back to life if killed within the last two rounds. If an ally is restored to life in this way, all allies within 30' gain a +2 morale bonus on attack rolls, damage rolls and saving throws. It does not work if the ally was killed by death magic.Alternatively, you may deal 1d8 damage per two caster levels to an undead creature.
-- **Obsidian Flow** *(Transmutation)* — T: All creatures within 20' burst, centred on target point within close range | Dur: 1 hour | Save: Reflex partial | Desc: Fire — Turn an area into molten glass. Creatures in the area of effect take 1d6 fire damage per two caster levels and become entangled unless they make a Strength, Athletics or Mobility check against the spell's DC. If a creature makes a Reflex save, it takes half damage and is not entangled.For the duration, the area is classed as difficult terrain and creatures take a -5 penalty on Mobility checks. Charging requires passing a DC15 Mobility check. Creatures that fall in the area take 1d6 damage.
-- **Shield of Dawn** *(Evocation)* — T: Personal | Dur: 1 round / level | Desc: Fire, Good — Creatures striking you with a non-reach melee weapon take 1d6 fire damage + 1 point per caster level (maximum 15).
+- **Cure Serious Wounds** *(Conjuration)* — _See Cleric spell list._
+- **Dispel Magic** *(Abjuration)* — _See Wizard spell list._
+- **Echolocation** *(Transmutation)* — _See Wizard spell list._
+- **Flame Strike** *(Evocation)* — _See Cleric spell list._
+- **Freedom of Movement** *(Abjuration)* — _See Cleric spell list._
+- **Ice Storm** *(Evocation)* — _See Wizard spell list._
+- **Inspiring Recovery** *(Conjuration)* — _See Cleric spell list._
+- **Obsidian Flow** *(Transmutation)* — _See Wizard spell list._
+- **Shield of Dawn** *(Evocation)* — _See Cleric spell list._
 - **Slowing Mud** *(Conjuration)* — _See Druid spell list._
-- **Summon Medium Elemental** *(Conjuration)* — T: Target point within close range | Dur: 1 round / level | Desc: Summoning | Cast: Full Round — Summon a medium fire, water, air or earth elemental.
+- **Summon Medium Elemental** *(Conjuration)* — _See Wizard spell list._
 - **Summon Nature's Ally IV** *(Conjuration)* — _See Druid spell list._
 - **Thorn Body** *(Transmutation)* — _See Druid spell list._
-- **Touch of Slime** *(Conjuration)* — T: One enemy creature within touch range | Save: Fortitude negates | SR | Desc: Disease — When you make a successful melee touch attack, the target is affected by green slime taking 1d3 Constitution damage per round until Remove Disease is cast on it.
-- **Volcanic Storm** *(Evocation)* — T: All creatures within 40' burst, centred on target point within long range | Dur: 1 round / level | SR | Desc: Fire — Creatures within the area of effect take 3d6 points of bludgeoning damage and 2d6 points of fire damage.For the duration, the area is classed as difficult terrain and creatures take a -4 penalty on Perception checks.
+- **Touch of Slime** *(Conjuration)* — _See Wizard spell list._
+- **Volcanic Storm** *(Evocation)* — _See Wizard spell list._
