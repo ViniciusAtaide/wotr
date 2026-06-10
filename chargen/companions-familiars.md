@@ -37,13 +37,13 @@ The options are:
 
 | Type | Size | Speed | AC | Attacks | STR | DEX | CON | INT | WIS | CHA | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dire Bear | Medium | 40' | +6 | Bite (1d6), 2 claws (1d4) | 17 | 13 | 13 | 2 | 13 | 6 | Gains the Grabber ability; when succeeding at a grapple combat manoeuvre, deal 2d6+STR bludgeoning damage |
+| Dire Bear | Medium | 40' | +6 | Bite (1d6), 2 claws (1d4) | 17 | 13 | 13 | 2 | 13 | 6 | Gains the Grabber ability; when succeeding at a grapple combat maneuver, deal 2d6+STR bludgeoning damage |
 | Large | +4 | +4 | -2 | +4 |  |  |  |  |  |  |  |
 | Dire Boar | Medium | 40' | +9 | Gore (1d6) | 13 | 12 | 15 | 2 | 13 | 4 | Scent Gains Ferocity Gore causes 1d6 bleed damage per round (2d6 at 7th level) |
 | Large | +2 | +8 | -2 | +4 |  |  |  |  |  |  |  |
 | Riding Dog | Medium | 40' | +6 | Bite (1d6 plus trip) | 15 | 13 | 15 | 2 | 12 | 6 | Scent Tripped enemies receive a -2 penalty to AC for 1 round (-4 at 7th level) |
 | Large | +2 | +8 | -2 | +4 |  |  |  |  |  |  |  |
-| Elk | Medium | 50' | +6 | Gore (1d8), 2 hooves (1d4) | 12 | 17 | 14 | 2 | 15 | 5 | Gains powerful charge (2d6) Charge attack also attempts a trip combat manoeuvre against the enemy |
+| Elk | Medium | 50' | +6 | Gore (1d8), 2 hooves (1d4) | 12 | 17 | 14 | 2 | 15 | 5 | Gains powerful charge (2d6) Charge attack also attempts a trip combat maneuver against the enemy |
 | Large | +2 | +8 | -2 | +4 |  |  |  |  |  |  |  |
 | Hippogriff | Large | 50' | +4 | Bite (1d4), 2 claws (1d6) | 15 | 15 | 14 | 2 | 12 | 9 | Gains pounce, flying attack and heavy landing |
 | Hissing Centipede | Medium | 40' | +6 | Bite (1d6 plus poison) | 9 | 13 | 13 | - | 10 | 2 | Poison does 1d2 DEX damage / round for 4 rounds At 7th level gains a tail attack (1d2 + trip) |
@@ -76,7 +76,7 @@ A leopard, smilodon or velociraptor companion can perform a full attack at the e
 - **Rake**
 When hitting with both claw attacks, the companion will perform a third claw attack.
 - **Trample**
-A mastodon can perform the Overrun combat manoeuvre, moving through an opponent's square, inflicting damage and knocking it over.
+A mastodon can perform the Overrun combat maneuver, moving through an opponent's square, inflicting damage and knocking it over.
 
 ### Companion Feats
 All companions gain feats at odd-numbered levels just like their masters and may gain bonus feats depending on the chosen archetype.
@@ -85,10 +85,10 @@ All companions gain feats at odd-numbered levels just like their masters and may
 Companions receive 2 skill points / level. Class skills are Athletics, Mobility, Stealth and Perception. You may teach a companion any other skill if you're so inclined.
 
 ### Companion Gear
-An animal companion can equip items in the head, neck, cloak, arm and belt slots. With the right armour feats, they can equip barding as well.
+An animal companion can equip items in the head, neck, cloak, arm and belt slots. With the right armor feats, they can equip barding as well.
 
-### Companion Levelling
-A companion receives a base 5HP / level and has a medium BAB progression and high saving throws for Fortitude and Reflex. Every few levels they gain a bonus to AC, Strength and Dexterity. This is summarised in the table below.
+### Companion Leveling
+A companion receives a base 5HP / level and has a medium BAB progression and high saving throws for Fortitude and Reflex. Every few levels they gain a bonus to AC, Strength and Dexterity. This is summarized in the table below.
 
 | Lvl | AB | Fort | Reflex | Will | AC | STR | DEX |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -185,7 +185,7 @@ The companion can't be flanked.
 The companion gains a +4 morale bonus to Fortitude saves against effects that could not normally affect undead.
 
 #### Fast Movement
-The companion's speed is 10' greater than normal when wearing no armour and carrying a light load. This increases to 20' at 6th level.
+The companion's speed is 10' greater than normal when wearing no armor and carrying a light load. This increases to 20' at 6th level.
 
 #### Destructive Wrecker
 The companion's natural attacks ignore an inanimate object's DR and count as adamantine for the purposes of overcoming a construct's DR.
@@ -213,7 +213,7 @@ All familiars grant a +2 bonus to Perception checks and have the following addit
 | Duck | +3 bonus to Knowledge (World) checks |
 | Hare | +4 bonus to Initiative checks |
 | Jerboa | +3 bonus to Athletics checks |
-| Lizard | +1 natural armour bonus to AC |
+| Lizard | +1 natural armor bonus to AC |
 | Monkey | +3 bonus to Mobility checks |
 | Rabbit | +2 bonus to Reflex saves |
 | Rat | +2 bonus to Fortitude saves |

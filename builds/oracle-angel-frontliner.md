@@ -1,5 +1,5 @@
 # Sword of the Battle Herald
-**Oracle (Battle Mystery) — heavy-armour greatsword frontliner who doubles as the party's strongest divine caster via the Angel merged spellbook**
+**Oracle (Battle Mystery) — heavy-armor greatsword frontliner who doubles as the party's strongest divine caster via the Angel merged spellbook**
 
 ## At a Glance
 | | |
@@ -7,16 +7,16 @@
 | **Race** | Aasimar (Angelkin) — +2 Str, +2 Cha |
 | **Attributes** | Str 18, Dex 12, Con 14, Int 10, Wis 10, Cha 16 (level-ups → Strength) |
 | **Key class choices** | Curse: Lame · Mystery: Battle · Additional Spells: all "cure" spells |
-| **Weapon & armour** | Greatsword + full plate (both from the Skill at Arms revelation) |
+| **Weapon & armor** | Greatsword + full plate (both from the Skill at Arms revelation) |
 | **Mythic Path** | Angel — merged spellbook makes your caster level outrun a pure Cleric's |
 | **Party Fit** | Beast Totem Skald in party — refuse Inspired Rage when you need to cast (it blocks your magic until Skald 20). Outflank partner: Regill, Greybor or Camellia (they take the feat too). This Oracle is the party's primary healer. |
 
-## Levelling Table
+## Leveling Table
 | Level | Feat | Class Feature Choice | Notes |
 | :--- | :--- | :--- | :--- |
-| 1 | Power Attack | Revelation: **Skill at Arms** | Grants martial weapons + heavy armour |
+| 1 | Power Attack | Revelation: **Skill at Arms** | Grants martial weapons + heavy armor |
 | 3 | Toughness | Revelation: **Weapon Mastery** (Greatsword) | Free Weapon Focus now, Improved Critical at 8, Greater Weapon Focus at 12 |
-| 5 | Cornugon Smash | — | Free demoralise on every Power Attack hit |
+| 5 | Cornugon Smash | — | Free demoralize on every Power Attack hit |
 | 7 | Dazzling Display | Revelation: **War Sight** | Roll initiative twice; Uncanny Dodge |
 | 9 | Shatter Defenses | — | Shaken enemies are flat-footed against you |
 | 11 | Wings | Revelation: **Combat Healer** | Swift-action cures on yourself; Wings = +3 dodge AC vs melee, immune to ground effects |
@@ -26,7 +26,7 @@
 | 19 | Outflank | Revelation: **Battlecry** | Partner: Regill, Greybor or Camellia — they must take Outflank too |
 | 20 | — | **Final Revelation** (automatic) | Pounce; crits ignore DR; +4 AC vs crit confirmation |
 
-**Curse milestones (Lame, automatic):** immune to fatigue at 5, armour never slows you at 10, immune to exhaustion at 15.
+**Curse milestones (Lame, automatic):** immune to fatigue at 5, armor never slows you at 10, immune to exhaustion at 15.
 
 ## Spell Selection
 *Oracle is a spontaneous caster — these are your picks per spell level, in learning order. Battle Mystery and Additional Spells grant extras for free; never spend a pick on those.*
@@ -61,7 +61,7 @@
 | 10 | Spell Penetration (Mythic) | Greater Sword of Heaven: Overwhelming Flames; Sword of Holy Healing |
 
 ## How It Plays
-**Levels 1–6:** a sturdy 3/4-BAB bruiser in full plate. Open fights with Divine Favor, lead with Power Attack, and patch yourself with cure spells between rounds. Lame's armour clause means full plate never slows you, and at 5 you stop caring about fatigue entirely.
+**Levels 1–6:** a sturdy 3/4-BAB bruiser in full plate. Open fights with Divine Favor, lead with Power Attack, and patch yourself with cure spells between rounds. Lame's armor clause means full plate never slows you, and at 5 you stop caring about fatigue entirely.
 
 **The spike — mythic rank 3:** merging spellbooks turns your caster level into class level + mythic rank, so you reach 6th-level spells around character 9 and 9th-level spells around 13. Sword of Heaven adds holy damage to your swings while Greater Enduring Spells stretches your buffs (Magical Vestment, Angelic Aspect, eventually Ward Against Harm Communal) to 24 hours — cast once in the morning, fight all day.
 
@@ -72,7 +72,7 @@
 ## Variants & Trade-offs
 - **Everlasting Flame doesn't combine with Greater Enduring Spells** — taken anyway; 1 min/rank covers any fight.
 - **Heavenly Host skipped** — requires Bestow the Divine, which would cost both Improved Sword of Heaven picks.
-- **Nature's Whispers (second-mystery Cha-to-AC) skipped** — it replaces your Dex bonus, which heavy armour already caps; right pick only for a Dex/robes variant.
+- **Nature's Whispers (second-mystery Cha-to-AC) skipped** — it replaces your Dex bonus, which heavy armor already caps; right pick only for a Dex/robes variant.
 - **Spell Resistance (L5 spell) cut for Angelic Aspect** — SR also blocks your own party's buffs in a pinch; Angelic Aspect's DR 5/evil suits a frontliner better.
 - **Winds of Vengeance (L9) skipped** — its description is missing upstream; Energy Drain is a verified, stacking ranged-touch debuff instead.
 - **The party Skald and the Pounce capstone:** Beast Totem song-pounce does *not* make Final Revelation redundant here — Inspired Rage blocks your spellcasting until the Skald reaches 20, so you'll refuse the song most fights and rely on your own Pounce. The capstone's crit-DR-bypass and +4 AC vs confirmation are never duplicated. At Skald 20, Master Skald's Haste overlaps Speed of Light — kept anyway for the ≤7th-level quicken.
@@ -95,10 +95,10 @@
 | :--- | :--- | :--- |
 | Aasimar (Angelkin) +2 Str/+2 Cha, Celestial Resistance, 1/day Lesser Restoration | character-creation.md:222 | Verified |
 | Level-up attribute points at 4/8/12/16/20 | character-creation.md:541 | Verified |
-| Lame curse: −10' speed; fatigue immunity (5), armour speed clause (10), exhaustion immunity (15) | classes/oracle.md:109 | Verified |
+| Lame curse: −10' speed; fatigue immunity (5), armor speed clause (10), exhaustion immunity (15) | classes/oracle.md:109 | Verified |
 | Battle Mystery bonus spell list (Enlarge Person → Overwhelming Presence) | classes/oracle.md:553 | Verified |
 | Additional Spells: all cure spells added to spells known | classes/oracle.md:136–137 | Verified |
-| Skill at Arms: martial weapon + heavy armour proficiency | classes/oracle.md:579 | Verified |
+| Skill at Arms: martial weapon + heavy armor proficiency | classes/oracle.md:579 | Verified |
 | Weapon Mastery: WF now, Imp. Critical @8, Greater WF @12 | classes/oracle.md:585 | Verified |
 | War Sight: initiative twice, Uncanny Dodge @7, three rolls @11 | classes/oracle.md:582 | Verified |
 | Combat Healer: swift-action cure (two slots), Oracle 7+ | classes/oracle.md:588 | Verified |
@@ -111,7 +111,7 @@
 | Dazzling Display (Weapon Focus ✓ via Weapon Mastery) | feats/weapon-feats.md:49 | Verified |
 | Shatter Defenses (WF ✓, Dazzling ✓, BAB 6 ✓ — Oracle +6 at 9; needs iteratives per guide caveat at :56) | feats/weapon-feats.md:53; classes/oracle.md:20 | Verified |
 | Wings (Aasimar, level 10+) | feats/racial-feats.md:56 | Verified |
-| Armor Focus (Heavy) | feats/armour-and-shield-feats.md:20 | Verified |
+| Armor Focus (Heavy) | feats/armor-and-shield-feats.md:20 | Verified |
 | Improved Initiative | feats/miscellaneous-feats.md:51 | Verified |
 | Combat Reflexes | feats/miscellaneous-feats.md:19 | Verified |
 | Outflank (teamwork); requires both flankers to have the feat ("you and an ally with this feat") | feats/teamwork-feats.md:16–18 | Verified |
@@ -150,7 +150,7 @@
 | Master Skald (20): affected allies can cast spells + gain Haste | classes/skald.md:134–135 | Verified |
 
 ## A3. Source Map
-See `wotr-guide.md` A3 for the full hub map. Files used by this build: `classes/oracle.md`, `classes/skald.md`, `mythic/mythic-paths.md`, `mythic/angel.md`, `feats/weapon-feats.md`, `feats/miscellaneous-feats.md`, `feats/racial-feats.md`, `feats/armour-and-shield-feats.md`, `feats/teamwork-feats.md`, `spells/cleric/cleric-l1..9.md`, `character-creation.md`.
+See `wotr-guide.md` A3 for the full hub map. Files used by this build: `classes/oracle.md`, `classes/skald.md`, `mythic/mythic-paths.md`, `mythic/angel.md`, `feats/weapon-feats.md`, `feats/miscellaneous-feats.md`, `feats/racial-feats.md`, `feats/armor-and-shield-feats.md`, `feats/teamwork-feats.md`, `spells/cleric/cleric-l1..9.md`, `character-creation.md`.
 
 Name variants encountered: "Flame Strike" is listed as "Flamestrike" in the guide's cleric summary table (annotated at `spells/cleric/cleric-l5.md:14`); "Restoration, Lesser/Greater" use the comma-inverted form in the spell files.
 
@@ -158,6 +158,6 @@ Name variants encountered: "Flame Strike" is listed as "Flamestrike" in the guid
 - **Divine Favor (luck)** vs **Divine Power (luck)** — same type, do NOT run both; Divine Power supersedes it from L4 on.
 - **Battlecry (morale)** + **Bless/Aid/Prayer (morale)** — morale attack bonuses overlap; Battlecry's +2 covers them. Keep Prayer for the enemy −1 side.
 - **Inspired Rage (Skald)** — attack/damage bonus has no stated type in the source (`classes/skald.md:104`); treat as potentially stacking but verify in-game. Moot in most fights since this character refuses the song to cast.
-- Non-colliding stack: Magical Vestment (enhancement, armour) + Shield of Faith (deflection) + Wings (dodge) + Armor Focus (untyped) + Eaglesoul (sacred) + Frightful Aspect (size/natural) — all distinct types.
+- Non-colliding stack: Magical Vestment (enhancement, armor) + Shield of Faith (deflection) + Wings (dodge) + Armor Focus (untyped) + Eaglesoul (sacred) + Frightful Aspect (size/natural) — all distinct types.
 - Holy Aura (deflection +4) supersedes Shield of Faith when active — drop Shield of Faith from the L8+ rotation.
 - Shatter Defenses requires iterative attacks (`feats/weapon-feats.md:56`) — satisfied from BAB +6 at character 9, exactly when the feat is taken.

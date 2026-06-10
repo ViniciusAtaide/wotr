@@ -125,7 +125,7 @@ You devour a corpse to increase the size of your swarm. The increase is a functi
 You gain fast healing and additional HP depending on the size of your swarm.
 
 #### Swarm Form
-You gain DR 5/- + your swarm size and a bonus to natural armour equal to +4 plus your swarm size. This ability cancels Swarm Feast and Swarm Infest.
+You gain DR 5/- + your swarm size and a bonus to natural armor equal to +4 plus your swarm size. This ability cancels Swarm Feast and Swarm Infest.
 
 #### Swarm Feast
 Enemies within 50' receive a number of 4d6 physical damage per round, increasing by 1d6 for each point of swarm size. If they die, they are automatically devoured. Any ranged attacks against you have a 50% miss chance. This ability cancels Swarm Form and Swarm Infest.

@@ -21,7 +21,7 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 | Display of Power | +6 enhancement bonus to Strength All enemies within 15' suffer a -2 penalty to Will saves | 88000 | Wirlong Black Mask |
 | Lizard Tail | If an animal companion or polymorphed, gain +3 bonus to AC and Reflex saves; +8 circumstance bonus to AC on the first round of combat | 79000 | Herrax |
 | Mangling Frenzy | +4 enhancement bonus to Strength, Dexterity and Constitution DR 3/- On cit: +4d6 slashing damage if enraged | - | Ruined House (Iz) |
-| Specialist's Belt | +1 caster level when using a scroll or potion | 26000 | Vissaliy Rathmus |
+| Specializt's Belt | +1 caster level when using a scroll or potion | 26000 | Vissaliy Rathmus |
 | Timely Assistance | +4 enhancement bonus to Constitution + Wisdom When an ally within 20' strikes a killing blow, the next spell cast by the wearer is extended | 150000 | Storyteller |
 | Unceasing Slaughter | +4 enhancement bonus to Dexterity and Constitution On kill: the wearer gains a +2 bonus to Dexterity and Constitution for 3 rounds | 84000 | Woljif |
 | Windfall | +1 luck bonus to attack rolls and saving throws | - | Willodus |
@@ -43,7 +43,7 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 | Forest Tracker's Boots | +10 competence to Lore (Nature) Animal companions gains +20 hit points | - | Vellaxia's Mansion |
 | Offroad Boots | +4 enhancement bonus to Dexterity Ignore difficult terrain Difficult terrain grants +10' speed for 1 round | - | Thalenicus the Eyeless Deadeye |
 | Perfected Maneuver | +3 competence bonus to CMB and CMD | 33000 | Gesmerha |
-| Rootspeakers' Boots | 30' tremorsense +4 bonus to CMD vs. trip, bull rush, overrun and grapple manoeuvres | - | Cave of Lamentation |
+| Rootspeakers' Boots | 30' tremorsense +4 bonus to CMD vs. trip, bull rush, overrun and grapple maneuvers | - | Cave of Lamentation |
 | Swiftfoot Boots | +10' movement speed | - | Sarkorian Kinslayer |
 
 ### Bracers
@@ -52,17 +52,17 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 | Bracers of Abrupt Onslaught | +5 competence bonus to Trickery checks Sneak attacks deal +1d6 bludgeoning damage | - | Artisan's Tower Ashen Lady |
 | Bracers of Animal Fury | +3 enhancement bonus to attack and damage rolls when polymorphed | 23000 | Arcane Weaver Sarkorian Kinslayer |
 | Bracers of Archery | +2 competence bonus to attack rolls and +1 competence bonus to damage rolls with bows | - | Thalenicus the Eyeless Deadeye Shamira the Ardent Dream |
-| Bracers of Armor +8 | +8 armour bonus to AC | - | Terendelev Alderpash |
+| Bracers of Armor +8 | +8 armor bonus to AC | - | Terendelev Alderpash |
 | Bracers of Balance | +5 bonus to CMD and CMB. If the wearer would be knocked prone, they can avoid it if they make a Fortitude DC 23 save | 72000 | Woljif |
 | Bracers of Bravery | +2 morale bonus to Will saves 1 / day: cast *Greater Heroism* as a 15th level Wizard | - | Midnight Isles |
 | Bracers of Breaching | On crit: target becomes vulnerable to piercing damage for 2 rounds (Fortitude DC 23) | - | Ivory Sanctum |
 | Bracers of Dominance | On crit with two-handed weapon: target is unable to attack for 1 round (Will DC 24) | - | Wintersun (Clan Hall) |
-| Bracers of Eldritch Scholar | +6 armour bonus to AC +5 competence bonus to Knowledge (Arcana) and Use Magic Device checks | - | Tyrant's Minion |
-| Bracers of Harmful Conversion | On being critically hit: attacker suffers a random condition (Blinded, Exhausted, Frightened, Sickened, Paralysed, Prone) and becomes immune to another random condition for 2 rounds (Fortitude DC 29) | - | Fulsome Queen |
+| Bracers of Eldritch Scholar | +6 armor bonus to AC +5 competence bonus to Knowledge (Arcana) and Use Magic Device checks | - | Tyrant's Minion |
+| Bracers of Harmful Conversion | On being critically hit: attacker suffers a random condition (Blinded, Exhausted, Frightened, Sickened, Paralyzed, Prone) and becomes immune to another random condition for 2 rounds (Fortitude DC 29) | - | Fulsome Queen |
 | Bracers of Mighty Boar | +6 enhancement bonus to Strength When charging and using natural attacks, base damage for the first attack is tripled | - | Troubled Merchant |
 | Bracers of Rough Landing | +2 competence bonus to AC, attack and damage rolls vs. flying enemies | 16200 | Wilcer Garms |
-| Bracers of Slaughter | +10 armour bonus to AC Weapon attacks ignore damage reduction and deal +3d10 force damage | - | Echo of Fury Arena |
-| Bracers of the Wizard | +2 armour bonus to AC +3 competence bonus to Knowledge (Arcana) checks | 12000 | Vissaliy Rathmus |
+| Bracers of Slaughter | +10 armor bonus to AC Weapon attacks ignore damage reduction and deal +3d10 force damage | - | Echo of Fury Arena |
+| Bracers of the Wizard | +2 armor bonus to AC +3 competence bonus to Knowledge (Arcana) checks | 12000 | Vissaliy Rathmus |
 | Clear Purpose | Cast healing spells without provoking attacks of opportunity +2 bonus to Concentration checks | - | Heaven's Edge |
 | Engraved Lucky Bracers | +1 luck bonus to AC and saving throws Can only be equipped by the main character | - | Equipped at start |
 | Negotiator's Bracers | +4 bonus to saves vs. mind-affecting conditions +10 competence bonus to Diplomacy | - | Lair of the Echo of Deskari |
@@ -200,18 +200,18 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 ### Necklaces
 | Item | Properties | Cost | Location |
 | --- | --- | --- | --- |
-| Amulet of Apothecary | +1 natural armour enhancement bonus +4 morale bonus to saves vs. poison | - | Leper's Smile (Cave) |
+| Amulet of Apothecary | +1 natural armor enhancement bonus +4 morale bonus to saves vs. poison | - | Leper's Smile (Cave) |
 | Amulet of Blackened Mirror | Hex DC increased by 1 | - | Horgus Gwerm |
 | Amulet of Circulating Blood | Fast healing 5 while under the effects of Bloodrage Can only be equipped by a Bloodrager | - | Jaruunicka |
 | Amulet of Combat Awareness | +3 competence bonus to initiative rolls and Reflex saves | - | Asmazar the Sea Boiler |
-| Amulet of Deep Roots | +5 natural armour enhancement bonus to AC Immunity to bull rush and overrun +3 competence bonus to AC vs. Huge and bigger enemies | - | Gravestone Rock |
+| Amulet of Deep Roots | +5 natural armor enhancement bonus to AC Immunity to bull rush and overrun +3 competence bonus to AC vs. Huge and bigger enemies | - | Gravestone Rock |
 | Amulet of Devouring | Gain temporary HP equal to your character level for 1 minute when landing a killing blow with a natural attack | - | Market Square (Nabasu) |
 | Amulet of Hidden Horrors | All invisibility spells become quickened When attacking for the first time while invisible, the target becomes panicked for 2 rounds (Will DC 30) | - | Undead Marilith |
 | Amulet of Inner Sight | Immune to blindness and gaze attacks | 66000 | Herrax |
 | Amulet of Jousting | When challenging an enemy, gain +3 damage bonus against the challenged enemy | 10000 | Wilcer Garms |
 | Amulet of Agile Fists +4 | +4 enhancement bonus to attack and damage rolls with unarmed attacks and natural weapons If the wearer has the Weapon Finesse feat, they can apply their Dexterity modifier to damage rolls | 100000 | Jewelry Trader |
 | Amulet of Mighty Fists +5 | +5 enhancement bonus to attack and damage rolls with unarmed attacks and natural weapons | - | Jewelry Trader Terendelev Sin Guzzler |
-| Amulet of Natural Armor +6 | +6 natural armour enhancement bonus to AC | - | Crusade mode |
+| Amulet of Natural Armor +6 | +6 natural armor enhancement bonus to AC | - | Crusade mode |
 | Amulet of Quick Draw | +2 insight bonus to attack and damage rolls with ranged weapons against Large and bigger enemies | 55500 | Raggy |
 | Angel's Heart | Allies within 30' gain +1 bonus to AC and ignore demons' damage reduction; the aura can be maintained for a number of rounds per day equal to the wearer's charisma modifier | - | Ineluctable Prison |
 | Aspect of the Asp | +2 DC on poison spells Ray spells deal additional +1d6+5 acid damage | - | Nocticula |
@@ -224,12 +224,12 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 | Heartstone of the Night Hag Queen | +5 natural armor enhancement bonus to AC Spell resistance 38 +3 DC to all spells | - | Echo of Fury Arena |
 | Life Veil | +6 enhancement bonus to Constitution 2/day: Cast Cure Serious Wounds as a 5th level Cleric | - | Storyteller |
 | Menace of Death | Amulet of Natural Armor +3 When a creature dies within 10', the wearer becomes hasted for 2d3 rounds, renewed on each death. When the effect wears off, the wearer cannot make any weapon or unarmed attack for 1d3 rounds | - | Darrazand |
-| Nahyndrian League Collar | +4 natural armour enhancement bonus +4 morale bonus to Reflex and Fortitude saves -4 penalty to Will saves | - | Battlebliss Arena |
+| Nahyndrian League Collar | +4 natural armor enhancement bonus +4 morale bonus to Reflex and Fortitude saves -4 penalty to Will saves | - | Battlebliss Arena |
 | Reckless Vengeance | -4 penalty to AC When an ally within 30' is knocked unconscious, the wielder gains +2 attacks per round for 2 rounds | 45000 | Xarra |
 | Sarzaksys Payza | Immunity to Necromancy spells while in Demonic Rage | - | Sarzaksys's Interpreter |
 | Scarab of Protection | Spell resistance 20 Confers *Death Ward* | - | Kenabres Festival |
 | Swarmbane Clasp | Weapons, unarmed attacks and natural attacks deal full damage to swarms When damaged by a swarm, the wearer automatically succeeds on their save against the swarm's distraction ability | 12500 | Ulbrig Arysen Krei |
-| Vellexia's Magnifying Amulet | +5 natural armour enhancement bonus to AC +2 bonus to highest current ability score | - | Vellexia |
+| Vellexia's Magnifying Amulet | +5 natural armor enhancement bonus to AC +2 bonus to highest current ability score | - | Vellexia |
 | Voracious Spirit | On kill: gain one of several stacking bonuses until the next rest: +10 temporary HP (max 50), +1 AC (max +5), +1 bonus to Fortitude saves (max +5), +1 bonus to Will saving throws (max +5) | - | Gwerm's Mansion |
 | Ward Master's Amulet | Abilities and spells with "ward" in their names grant +1 AC and last twice as long | - | Gesmerha |
 | Wind Breath | +4 morale bonus to Initiative | - | Willodus Fallen Time Guardian |
@@ -248,7 +248,7 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 | Flawless Ring of Protection +7 | +7 deflection bonus to AC Moderate fortification | - | Martyr Zacharius's Cemetery^1 |
 | Flow of Water | +1 bonus to saves against cold spells +1 DC with cold spells | - | The Shield Maze |
 | Herbal Ring | +4 morale bonus to saves vs. disease, sickened and nauseated | - | Crusade mode Arysen Krei |
-| Icy Protector | Cold resistance 10 +2 natural armour bonus to AC if the wearer has the Iceplant hex | 9300 | Vissaliy Rathmus |
+| Icy Protector | Cold resistance 10 +2 natural armor bonus to AC if the wearer has the Iceplant hex | 9300 | Vissaliy Rathmus |
 | Magician's Ring | +5 competence bonus to Use Magic Device checks +2 DC with Illusion spells | - | Crusade mode |
 | Martyr's Testament | Vulnerable to fire +4 bonus to Will saves Immune to mind-affecting | - | Angler of Vices |
 | Merciless Shot | +1 bonus to attack when using Point-Blank Shot | - | Neathholm |
@@ -290,7 +290,7 @@ _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-a
 | --- | --- | --- | --- |
 | Grandmaster's Rod | 3 / day: spells are maximized and empowered, ignore spell resistance and magic immunity | - | Bladesmith's Workshop |
 | Rod of Mortiferous Blizzard | 3 / day: convert elemental damage to cold; enemy struck by a converted spell must make a Reflex save (DC = spell DC) or be slowed for 1d4 rounds as well emitting a 15' aura that slows other enemies for 1d4 rounds (Reflex; DC = spell DC) | - | Defender's Heart^1 |
-| Rod of Magical Affinity | 5 charges: spells are empowered, heightened, bolstered and maximised | - | The-Last-Sound-You-Hear |
+| Rod of Magical Affinity | 5 charges: spells are empowered, heightened, bolstered and maximized | - | The-Last-Sound-You-Hear |
 | Rod of Mysticism | 3 / day: spells from the Cleric / Oracle list of 6th level and lower are maximized | - | Drezen (Temple) |
 | Rod of Power Source | +4 bonus to Conjuration DC 5 / day: spells of 6th level and lower are empowered | - | Suspicious House |
 

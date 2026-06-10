@@ -44,7 +44,7 @@ The Signifer must choose one of the seven Hellknight orders.
 If the Signifier has the Arcane Armor Training feat, he receives Arcane Armor Mastery as a bonus feat.
 
 #### Signifer Armor Training
-At 3rd level, a Signifer's speed is not reduced while wearing medium or heavy armour. In addition, any armour check penalty is reduced by 1 and the chance of arcane spell failure is reduced by 5%. At 8th level, the armour check penalty is reduced by 1 again and the chance of arcane spell failure is reduced by another 5%.
+At 3rd level, a Signifer's speed is not reduced while wearing medium or heavy armor. In addition, any armor check penalty is reduced by 1 and the chance of arcane spell failure is reduced by 5%. At 8th level, the armor check penalty is reduced by 1 again and the chance of arcane spell failure is reduced by another 5%.
 
 #### Assiduous Gaze
 At 4th level, a Signifer gains the benefits of *True Seeing* for a number of rounds per day equal to his class level. At 7th level, he can use this ability twice per day.
@@ -59,6 +59,6 @@ At 9th level, a Signifer gains DR 5/chaotic and immunity to poison.
 At 10th level, a Signifer becomes immune to blindness, gazes and vision-based effects and receives a +2 bonus to Persuasion checks.
 
 ##### Playing a Hellknight Signifer
-The upfront benefits are very good if you want to play some sort of armoured caster. Two levels gives you Arcane Armor Mastery while a third level gives an additional -5% arcane failure chance and armour training. Order of the Gate also gives -5% arcane failure. This allows an arcane caster to use, say, the Hide Armor of Elemental Carnage and the Coldbite light shield with 0% chance of arcane spell failure.
+The upfront benefits are very good if you want to play some sort of armored caster. Two levels gives you Arcane Armor Mastery while a third level gives an additional -5% arcane failure chance and armor training. Order of the Gate also gives -5% arcane failure. This allows an arcane caster to use, say, the Hide Armor of Elemental Carnage and the Coldbite light shield with 0% chance of arcane spell failure.
 
 Past third level, however, the class doesn't buy much besides caster and AB progression. Wizard 6 / Hellknight Signifer 4 / Eldritch Knight 10 is a good split for an Eldritch Knight.

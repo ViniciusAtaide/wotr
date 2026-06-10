@@ -39,7 +39,7 @@ For three rounds per day, any spells you cast ignore spell resistance. Creatures
 You can change any elemental damage into negative energy. For 1 round per 2 mythic ranks, you can convert any incoming elemental damage into negative energy.
 
 ##### Death Rush
-When charging or using a combat manoeuvre, a successful attack inflicts 1d6 points of damage per mythic level.
+When charging or using a combat maneuver, a successful attack inflicts 1d6 points of damage per mythic level.
 
 ##### Decaying Touch
 Your touch attacks, unarmed attacks and natural attacks deal an additional 1d6 + 1 / mythic rank unholy damage. The affected creature suffers 1 point of Strength damage per hit. Plant creatures take an additional 2d6 + 1 / mythic rank unholy damage.
@@ -75,13 +75,13 @@ When a living creature takes damage from one of your spells, it also takes abili
 At 3rd level, you gain a Skeletal Champion as a companion:
 
 ##### Skeletal Marksman
-The skeletal champion specialises in archery.
+The skeletal champion specializes in archery.
 
 ##### Skeletal Assassin
 The skeletal champion attacks with two weapons.
 
 ##### Skeletal Vanguard
-The skeletal champion is defence-focused.
+The skeletal champion is defense-focused.
 
 ##### Skeletal Executioner
 The skeletal champion attacks with two-handed weapons.
@@ -105,7 +105,7 @@ The skeletal champion gets Dirge of Doom, Lingering Performance and number of le
 The skeletal champion can channel negative energy, gets the Death and Destruction domains and knows all Cleric spells.
 
 ##### Skeletal Fighter I
-The skeletal champion gains a bonus combat feat, armour training, weapon training and its BAB is equal to its full HD.
+The skeletal champion gains a bonus combat feat, armor training, weapon training and its BAB is equal to its full HD.
 
 ##### Skeletal Inquisitor I
 The skeletal champion gets Judgment twice per day, Bane and a teamwork feat.
@@ -137,7 +137,7 @@ At 9th rank, you can summon a Ravener Dragon for 1 minute.
 ##### Playing a Lich
 The obvious way into the Lich mythic path is playing a Charisma-based Sorcerer. This is because you get the option to merge spellbooks, giving you huge power at ranks 3 and 4. Even better for a Sorcerer, rather than a Wizard or Arcanist, say, is that Charisma takes over the role of Constitution so it's win-win. Lich abilities have something for most classes (even a bomb throwing Alchemist) but especially for martial classes (Indestructible Bones and Weapon of Death). This suggests that the perfect route to Lich is an Eldritch Knight.
 
-You gain a minion from the off and can add other unique party members as you progress. Taking the Bard upgrade for your skeletal champion synergises nicely with the Fear Control ability.
+You gain a minion from the off and can add other unique party members as you progress. Taking the Bard upgrade for your skeletal champion synergizes nicely with the Fear Control ability.
 
 The spellbook - unsurprisingly - consists mostly of Necromancy spells. *Repurpose* is great for turning enemies into thralls.
 
@@ -171,7 +171,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | When used against an enemy, the spell deals 4d8 + caster level damage to living targets and 2d8 + caster level damage to undead targets. When used against allies, it heals undead targets for 4d8 + caster level damage and living targets for 2d8 + caster level damage. |  |
 
 ##### Power from Death (Necromancy)
-| Target | All creatures within a 30' burst centred on caster |
+| Target | All creatures within a 30' burst centered on caster |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | N/A |
@@ -194,7 +194,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| You siphon power from the target undead creature. If it as an enemy, it takes 1d8 damage per caster level and you are healed for the same amount. If the creature is an ally, the damage is maximised. |  |
+| You siphon power from the target undead creature. If it as an enemy, it takes 1d8 damage per caster level and you are healed for the same amount. If the creature is an ally, the damage is maximized. |  |
 
 ##### Eyes of the Bodak (Necromancy)
 | Target | Personal |
@@ -225,7 +225,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | Repurpose | Necromancy |
 
 ##### Bone Explosion (Necromancy)
-| Target | All creatures within a 20' burst centred on target creature within medium range |
+| Target | All creatures within a 20' burst centered on target creature within medium range |
 | --- | --- |
 | Saving Throw | Fortitude partial / Reflex half |
 | Spell Resistance | N/A |
@@ -241,7 +241,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| For the duration of the effect, the target of the spell will be paralysed until the end of battle if it would otherwise die. |  |
+| For the duration of the effect, the target of the spell will be paralyzed until the end of battle if it would otherwise die. |  |
 
 ##### Exsanguinate (Necromancy)
 | Target | Creature within medium range |
@@ -281,7 +281,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | For the duration of the effect, you receive a +6 shield bonus to AC and immunity to critical hits. |  |
 
 ##### False Grace (Necromancy)
-| Target | All creatures within a 30' burst centred on caster |
+| Target | All creatures within a 30' burst centered on caster |
 | --- | --- |
 | Duration | 1 hour / level |
 | Saving Throw | N/A |
@@ -301,7 +301,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | Your ranged touch attack drains 1d6 HP per caster level. You gain temporary HP equal to the damage dealt for 1 hour. |  |
 
 ##### Siphon Time (Transmutation)
-| Target | All creatures within a 30' burst centred on target creature within medium range |
+| Target | All creatures within a 30' burst centered on target creature within medium range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | None |
@@ -328,7 +328,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | For the duration of the effect, the target of the spell gains undead immunities, negative energy affinity and DR 5/bludgeoning. |  |
 
 ##### Feast of Blood (Necromancy)
-| Target | All creatures with a 20' burst centred on target creature within medium range |
+| Target | All creatures with a 20' burst centered on target creature within medium range |
 | --- | --- |
 | Saving Throw | Fortitude partial / Reflex half |
 | Spell Resistance | N/A |
@@ -337,7 +337,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | This spell behaves like *Exsanguinate* but affects enemies in an AoE and grants the caster temporary HP equal to the maximum damage dealt. |  |
 
 ##### Restore Undead (Necromancy)
-| Target | All allies within a 100' burst centred on caster |
+| Target | All allies within a 100' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -352,7 +352,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | Embrace of Death | Necromancy |
 
 ##### Domain of the Hungry Flesh (Conjuration)
-| Target | All creatures with a 20' burst centred on target point within medium range |
+| Target | All creatures with a 20' burst centered on target point within medium range |
 | --- | --- |
 | Duration | 1 round level |
 | Saving Throw | None |
@@ -397,7 +397,7 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | The target is affected by *Repurpose* but takes 2d6 damage per round. If it fails a Fortitude save, it also takes 10 damage per caster level. |  |
 
 ##### Negative Eruption (Necromancy)
-| Target | All creatures with a 30' burst centred on target point within medium range |
+| Target | All creatures with a 30' burst centered on target point within medium range |
 | --- | --- |
 | Saving Throw | Will half |
 | Spell Resistance | N/A |
@@ -431,14 +431,14 @@ These are the Lich's unique mythic spells. When you choose to merge spellbooks, 
 | The target receives 1d6 unholy damage per two caster levels (Fortitude negates) and then 1d6 unholy damage per caster level until it dies and becomes an undead creature under your control. |  |
 
 ##### Pit of Despair (Conjuration)
-| Target | All creatures with a 20' burst centred on target point within medium range |
+| Target | All creatures with a 20' burst centered on target point within medium range |
 | --- | --- |
 | Duration | 1 round level |
 | Saving Throw | None |
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| The spell works as Create Pit but additionally does 1d6 negative energy damage per caster level per round and creates a Nightshade Nightcrawler in the centre. |  |
+| The spell works as Create Pit but additionally does 1d6 negative energy damage per caster level per round and creates a Nightshade Nightcrawler in the center. |  |
 
 ### Lich Spells (Unmerged)
 #### Level 1 (Unmerged)

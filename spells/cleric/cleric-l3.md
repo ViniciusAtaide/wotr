@@ -15,8 +15,8 @@ game_patch: 2.7.0
 - **Delay Poison, Communal** *(Conjuration)* — T: All allies within 30' | Dur: 1 hour — All allies become temporarily immune to poison. If an ally is poisoned, any further effects stop.
 - **Dispel Magic** *(Abjuration)* — _See Wizard spell list._
 - **Inflict Serious Wounds** *(Necromancy)* — T: One creature within touch range | Save: Will half (if used to damage) — The target receives 3d8 points of damage + 1 point per caster level (maximum +15), taking only half damage on a successful Will save. This spell will heal undead by the same amount.
-- **Magical Vestment** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 hour / level — Imbue a suit of armour or shield with an enhancement bonus of +1 per four caster levels (maximum +5).
-- **Prayer** *(Enchantment)* — T: 40' burst centred on caster | Dur: 1 round / level — Allies within the area of effect receive a +1 morale bonus to attack rolls, weapon damage rolls, saves and skill checks while enemies take a -1 penalty to all such rolls.
+- **Magical Vestment** *(Transmutation)* — T: One friendly creature within close range | Dur: 1 hour / level — Imbue a suit of armor or shield with an enhancement bonus of +1 per four caster levels (maximum +5).
+- **Prayer** *(Enchantment)* — T: 40' burst centered on caster | Dur: 1 round / level — Allies within the area of effect receive a +1 morale bonus to attack rolls, weapon damage rolls, saves and skill checks while enemies take a -1 penalty to all such rolls.
 - **Protection from Energy** *(Abjuration)* — _See Wizard spell list._
 - **Remove Blindness** *(Conjuration)* — T: One friendly creature within close range — Removes blindness from the target.
 - **Remove Curse** *(Abjuration)* — _See Wizard spell list._

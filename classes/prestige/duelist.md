@@ -5,7 +5,7 @@ game_patch: 2.7.0
 # Duelist
 *Prestige class. Source: GameFAQs WotR Guide (80843).*
 
-The Duelist specialises in defensive combat. The class has the following characteristics:
+The Duelist specializes in defensive combat. The class has the following characteristics:
 
 - Required feats: Combat Mobility, Weapon Finesse
 - Required skills: Mobility (2)
@@ -34,7 +34,7 @@ The Duelist has the following level progression:
 Most Duelist abilities assume a light or one-handed piercing weapon. If you have the Slashing Grace feat, the selected weapon will also qualify.
 
 #### Canny Defense
-When wearing light or no armour, a Duelist adds 1 point of Intelligence bonus per class level as a dodge bonus to her armour class.
+When wearing light or no armor, a Duelist adds 1 point of Intelligence bonus per class level as a dodge bonus to her armor class.
 
 #### Precise Strike
 When armed with a light or one-handed piercing weapon with her offhand free, the Duelist adds her Duelist level to damage rolls unless the opponent is immune to critical hits.
@@ -46,7 +46,7 @@ At 2nd level, the Duelist gains a +2 bonus on initiative checks. This increases 
 At 2nd level, when the Duelist makes a full attack she may forego an attack. When an opponent attacks the Duelist or an adjacent ally, she may make an attack roll using the same AB as the attack held back. If the attack roll is greater than the opponent's. the attack misses. The Duelist takes a -4 penalty for each size category that the attacking creature is larger than the Duelist. She also takes -4 penalty when attempting to parry an attack made against an ally.
 
 #### Enhanced Mobility
-At 3rd level, when wearing light or no armour, the Duelist receives a +4 AC bonus against attacks of opportunity made when she moves out of a threatened square.
+At 3rd level, when wearing light or no armor, the Duelist receives a +4 AC bonus against attacks of opportunity made when she moves out of a threatened square.
 
 #### Grace
 At 4th level, the Duelist gains a +2 competence bonus on all Reflex saves.

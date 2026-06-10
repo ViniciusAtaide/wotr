@@ -11,7 +11,7 @@ game_patch: 2.7.0
 - **Cloak of Dreams** *(Enchantment)* — _See Wizard spell list._
 - **Cure Light Wounds, Mass** *(Conjuration)* — _See Cleric spell list._
 - **Dispel Magic, Greater** *(Abjuration)* — _See Wizard spell list._
-- **Heaven's Wing Strike** *(Evocation)* — T: All creatures within a 30' cone | Dur: 1d4 rounds | Save: Fortitude negates | SR | Desc: Good, Sonic | Cast: Standard action — Creatures in the area of effect must make a Fortitude save or become paralysed for 1d4 rounds.
+- **Heaven's Wing Strike** *(Evocation)* — T: All creatures within a 30' cone | Dur: 1d4 rounds | Save: Fortitude negates | SR | Desc: Good, Sonic | Cast: Standard action — Creatures in the area of effect must make a Fortitude save or become paralyzed for 1d4 rounds.
 - **Heroism, Greater** *(Enchantment)* — _See Wizard spell list._
 - **Joyful Rapture** *(Conjuration)* — _See Wizard spell list._
 - **Ki Shout** *(Evocation)* — _See Wizard spell list._

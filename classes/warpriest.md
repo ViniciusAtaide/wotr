@@ -70,7 +70,7 @@ The standard Warpriest has the following level progression:
 | 20 | - | - | Aspect of War | Sacred Weapon +5 | - |
 
 #### Warpriest Proficiencies
-Warpriests are proficient with all simple and martial weapons, all types of armour and shields (except tower shields).
+Warpriests are proficient with all simple and martial weapons, all types of armor and shields (except tower shields).
 
 For the purposes of unlocking class-specific feats, Warpriest levels count as Fighter levels. Even though Warpriest is a 3/4 BAB class, it counts as full BAB for the purpose of unlocking feats with a BAB prerequisite.
 
@@ -151,9 +151,9 @@ At 1st level, you can touch an ally and allow them to roll twice on ability chec
 At 10th level, you can curse an enemy, forcing it to take the worse of two rolls on ability checks, attack rolls, saving throws and skill checks for 1 round.
 
 ##### Madness
-At 1st level, as a swift action, target a frightened, panicked or paralysed creature within 30' and make them confused for 1 round instead. The confused action will be "attack self" or "attack nearest enemy".
+At 1st level, as a swift action, target a frightened, panicked or paralyzed creature within 30' and make them confused for 1 round instead. The confused action will be "attack self" or "attack nearest enemy".
 
-At 10th level, you can direct the behaviour of all confused creatures within 30' for 1 round (so that, for example. all affected creatures attack themselves).
+At 10th level, you can direct the behavior of all confused creatures within 30' for 1 round (so that, for example. all affected creatures attack themselves).
 
 ##### Magic
 At 1st level, you can throw your melee weapon at a target within 30', adding your Wisdom modifier to the attack roll.
@@ -176,9 +176,9 @@ At 1st level, you can strike a target with a melee touch attack and cause it to 
 At 10th level, as a swift action, when using channel energy to heal creatures you can deal damage to undead creatures simultaneously. The damage inflicted is equal to half the amount of damage healed.
 
 ##### Strength
-At 1st level, gain an enhancement bonus equal to half your class level on all rolls that rely on Strength (attack rolls, combat manoeuvre checks, skill checks, ability checks) for 1 round.
+At 1st level, gain an enhancement bonus equal to half your class level on all rolls that rely on Strength (attack rolls, combat maneuver checks, skill checks, ability checks) for 1 round.
 
-At 10th level, ignore movement penalties caused by wearing medium or heavy armour for 1 minute. During this time, add your Strength modifier to saving throws against effects that would cause you to be become staggered, entangled or paralysed.
+At 10th level, ignore movement penalties caused by wearing medium or heavy armor for 1 minute. During this time, add your Strength modifier to saving throws against effects that would cause you to be become staggered, entangled or paralyzed.
 
 ##### Sun
 At 1st level, you can blind an opponent for 1 round. If it makes a Reflex save, it is dazzled instead.
@@ -219,7 +219,7 @@ A Warpriest can use this ability a number of times per day equal to half his cla
 From 4th level, a Warpriest can channel energy at a cost of two uses of Fervor. He heals (or inflicts) 1d6 damage + 1d6 for every 3 class levels above 2nd (maximum 7d6 at 20th level).
 
 #### Sacred Weapon
-At 1st level, a Warpriest gains *Weapon Focus* as a bonus feat in a weapon of his choosing. Alongside, his deity's favoured weapon, this weapon becomes blessed and the weapon does damage as a function of class level, as follows:
+At 1st level, a Warpriest gains *Weapon Focus* as a bonus feat in a weapon of his choosing. Alongside, his deity's favored weapon, this weapon becomes blessed and the weapon does damage as a function of class level, as follows:
 
 | Lvl | Damage |
 | --- | --- |
@@ -250,7 +250,7 @@ From 4th level, a Warpriest can enhance a sacred weapon as a swift action. He ca
 | Brilliant Energy | +4 |
 
 #### Sacred Armor
-From 7th level, a Warpriest can additionally enchant his armour for a total number of minutes per day equal to his class level. As an alternative to an enhancement bonus, he can add additional properties which come with an enhancement cost, as follows:
+From 7th level, a Warpriest can additionally enchant his armor for a total number of minutes per day equal to his class level. As an alternative to an enhancement bonus, he can add additional properties which come with an enhancement cost, as follows:
 
 | Property | Amount | Cost |
 | --- | --- | --- |
@@ -268,7 +268,7 @@ From 7th level, a Warpriest can additionally enchant his armour for a total numb
 "Fortification" confers the ability to ignore sneak attacks and critical hits. Fortification 50 means that there is a 50% chance of treating a sneak attack or a critical hit as a normal attack. The description of the ability also lists "glamered" at a cost of +1 point which - in case you're interested - means the ability to appear like a set of normal clothing.
 
 #### Aspect of War
-Once per day, as a swift action, the Warpriest's BAB increases to 20, he gains DR 10/- and can move at full speed regardless of armour and encumbrance. The effect lasts for 1 minute and during this time, calling upon blessings does not count towards your daily total.
+Once per day, as a swift action, the Warpriest's BAB increases to 20, he gains DR 10/- and can move at full speed regardless of armor and encumbrance. The effect lasts for 1 minute and during this time, calling upon blessings does not count towards your daily total.
 
 ##### Playing a Warpriest
 A Warpriest has quite a lot going for it: bonus feats, access to Fighter-only feats, easier access to feats with BAB requirements, and weapons with the base damage of enlarged greatswords. The Fervor ability allow a Warpriest to self-buff as a swift action which is by far the best way to use it since the healing it provides is comparatively weak.
@@ -328,7 +328,7 @@ A Champion of the Faith must choose one of law, good, chaos or evil as his chose
 #### Smite
 At 4th level, once per day, a Warpriest may Smite as a swift action. If the target is of the opposed alignment, the Warpriest adds his Charisma modifier to attack rolls and his class level to damage rolls until the enemy dies. Smite bypasses any DR the foe might possess and the Warpriest also gains an AC bonus equal to her Charisma modifier against attacks made by the target of the smite.
 
-The Warpriest gains an additional use of Smite every four levels beyond 4th (maximum 5/day at 20th level). Using this ability consumes two uses of Fervour.
+The Warpriest gains an additional use of Smite every four levels beyond 4th (maximum 5/day at 20th level). Using this ability consumes two uses of Fervor.
 
 #### Sacred Weapon - Aligned Weapon
 At 4th level, any weapon wielded by a Champion of the Faith counts as having his chosen alignment for the purposes of damage reduction.
@@ -370,7 +370,7 @@ His level progression is as follows:
 | 20 | - | - | Aspect of War | Sacred Weapon +5 | - |
 
 #### Cult Leader Proficiencies
-Cult Leaders are proficient with simple weapons, light armour and light shields along with rapiers, shortswords and shortbows. They do not get the free Weapon Focus that other Warpriest archetypes receive.
+Cult Leaders are proficient with simple weapons, light armor and light shields along with rapiers, shortswords and shortbows. They do not get the free Weapon Focus that other Warpriest archetypes receive.
 
 #### Well Hidden
 A Cult Leader gains +2 bonus on Stealth checks.
@@ -385,7 +385,7 @@ At 4th level, a Cult Leader can try to fascinate all enemies within 30'. If the 
 At 12th level, a Cult Leader can use the Stealth skill while being observed.
 
 ### Disenchanter
-A Disenchanter specialises in battling sorcery.
+A Disenchanter specializes in battling sorcery.
 
 - Gains anti magic abilities
 - Less effective in combat.
@@ -434,7 +434,7 @@ A Feral Champion is a Warpriest of nature.
 
 - May only select deities of nature (Erastil, Gozreh, Green Faith)
 - Gains wild shape
-- Cannot enchant his armour.
+- Cannot enchant his armor.
 
 His level progression is as follows:
 
@@ -476,7 +476,7 @@ A Mantis Zealot is a devotee of the god of assassins.
 - May only select Achaekek as a deity
 - Gains special abilities with his deity's sacred weapon
 - Cannot channel energy
-- Cannot enchant his armour.
+- Cannot enchant his armor.
 
 His level progression is as follows:
 
@@ -505,7 +505,7 @@ His level progression is as follows:
 | 20 | - | - | Aspect of the Mantis | Sacred Weapon +5 |
 
 #### Mantis Zealot Proficiencies
-Zealots are proficient with all simple and martial weapons, the Sawtooth Saber exotic weapon and light armour.
+Zealots are proficient with all simple and martial weapons, the Sawtooth Saber exotic weapon and light armor.
 
 #### Red Shroud
 At 1st level, as a move action, a Mantis Zealot can summon a cloud of flying mantises, granting him a +1 dodge bonus to AC and fast healing equal to his BAB. The AC bonus increases by +1 every four levels up to a maximum of +6 at 20th level. He can use this ability for a number of minutes per day equal to his Dexterity modifier (minimum 1 minute). At 7th level, the zealot can create the shroud as a swift action. At 13th level, creating the shroud becomes a free action.
@@ -514,7 +514,7 @@ At 1st level, as a move action, a Mantis Zealot can summon a cloud of flying man
 At 1st level, a Mantis Zealot gains Weapon Focus (Sawtooth Saber) as a bonus feat. At 4th level, he gains Weapon Specialization. At 8th level, he gains Greater Weapon Focus. Finally, at 12th level, he gains Greater Weapon Specialization.
 
 #### Deadly Fascination
-From 3rd level, whenever a Mantis Zealot kills an enemy, other enemies within 30' must make a Will save (DC = 10 + class level / 2 + Dexterity modifier) or become fascinated. If he is wielding two sabres, the DC increases by +2. If Red Shroud is active, the difficulty increases by an additional +2. Fascinated enemies may attempt a new save each time they take damage. This is a mind-affecting ability for purposes of determining immunity.
+From 3rd level, whenever a Mantis Zealot kills an enemy, other enemies within 30' must make a Will save (DC = 10 + class level / 2 + Dexterity modifier) or become fascinated. If he is wielding two sabers, the DC increases by +2. If Red Shroud is active, the difficulty increases by an additional +2. Fascinated enemies may attempt a new save each time they take damage. This is a mind-affecting ability for purposes of determining immunity.
 
 #### Mantis Swarm
 From 5th level, when using Red Shroud, enemies within 5' must make a Fortitude save (DC = 10 + class level / 2 + Wisdom modifier) or begin taking 1d6 bleed damage per turn. Multiple applications stack but affected creatures may attempt a new save each round to stop the bleeding. Bleeding may also be stopped by any effect which restores HP. When wielding sawtooth sabers, the Zealot deals +1d6 damage to bleeding enemies. This increases by an additional +1d6 at 11th and 18th levels.
@@ -564,9 +564,9 @@ At 2nd level, as a swift action, a Proclaimer can spend a use of Fervor to deal 
 At 4th level, as a move action, a Proclaimer can spend two uses of Fervor to create a no-go area with the same radius as the Cleanser of Evil ability. Evil outsiders in the zone must make a Will save (DC = 10 + half class level + Wisdom modifier) or be pushed out of the area.
 
 ### Shieldbearer
-A Shieldbearer specialises in use of shields.
+A Shieldbearer specializes in use of shields.
 
-- Trades armour bonuses for shield bonuses.
+- Trades armor bonuses for shield bonuses.
 
 His level progression is as follows:
 
@@ -598,7 +598,7 @@ His level progression is as follows:
 A Shieldbearer adds his shield bonus to concentration checks when casting defensively.
 
 #### Sacred Shield
-A Shieldbearer's shield is classed as a sacred weapon and Warpriest damage scaling applies to the shield but not to other weapons. From 4th level, he can add a +1 enhancement bonus to his shield as a swift action gaining an additional +1 enhancement bonus every four levels thereafter (maximum +5 at 20th level). The enhancement bonus only applies to defence - it is not added to attack and damage rolls when shield bashing. A Shieldbearer can also add the Spell Resistance and Fortification properties to his shield (for an enhancement cost of +1 to +5).
+A Shieldbearer's shield is classed as a sacred weapon and Warpriest damage scaling applies to the shield but not to other weapons. From 4th level, he can add a +1 enhancement bonus to his shield as a swift action gaining an additional +1 enhancement bonus every four levels thereafter (maximum +5 at 20th level). The enhancement bonus only applies to defense - it is not added to attack and damage rolls when shield bashing. A Shieldbearer can also add the Spell Resistance and Fortification properties to his shield (for an enhancement cost of +1 to +5).
 
 #### Channel Energy (Shieldbearer)
 A Shieldbearer can only channel energy when wielding a shield and the effect is a 30' cone.

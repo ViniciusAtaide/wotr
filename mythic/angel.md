@@ -62,7 +62,7 @@ Sword of Heaven now lasts for 1 minute per mythic rank.
 Note that this ability does not work with Greater Enduring Spells.
 
 ##### Grand Blessing
-Additional damage and healing from the Sword of Heaven are maximised.
+Additional damage and healing from the Sword of Heaven are maximized.
 
 ##### Guide the Faithful
 Attacks with the imbued weapon mark the target for 1 minute, making it visible and giving it a -40 penalty to Stealth and a -4 penalty to AC.
@@ -212,7 +212,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Undead creatures, evil outsiders and priests of evil deities must make a Will save or become frightened for 1 round per caster level. If the save is successful, the creature is shaken for 1 round. This spell ignores immunity to fear effects. |  |
 
 ##### Ward Against Disease, Communal (Abjuration)
-| Target | All allies with a 20' burst centred on the caster |
+| Target | All allies with a 20' burst centered on the caster |
 | --- | --- |
 | Duration | 10 minutes |
 | Saving Throw | N/A |
@@ -239,7 +239,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Ward Against Impurity, Communal | Abjuration |
 
 ##### Cleansing Flames (Abjuration)
-| Target | All creatures with a 20' burst centred on the caster |
+| Target | All creatures with a 20' burst centered on the caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -258,7 +258,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | The target gains immunity to the sickened and nauseated conditions, diseases, poisons, ability damage and ability drain for 10 minutes per caster level. |  |
 
 ##### Ward Against Impurity, Communal (Abjuration)
-| Target | All allies with a 20' burst centred on the caster |
+| Target | All allies with a 20' burst centered on the caster |
 | --- | --- |
 | Duration | 10 minutes |
 | Saving Throw | N/A |
@@ -296,7 +296,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | You launch a bolt that does 1d6 holy damage per caster level to the target. In addition, the target must make a Reflex save or be knocked prone.If the target is evil, the spell does 1d8 damage per level and if the creature fails its reflex save, it also suffers a -2 penalty to AC, attack rolls and saving throws.If the target is undead or an evil outsider, the spell does 1d10 damage per level and if the creature fails its reflex save, it also suffers a -4 penalty to AC, attack rolls and saving throws.If the target is a demon lord, evil dragon or a powerful undead creature like a lich, the spell does 1d12 damage per level and the target suffers a -4 penalty to AC, attack rolls and saving throws. In addition, the target must make a Reflex save or be knocked prone. |  |
 
 ##### Holy Hymn (Abjuration)
-| Target | All creatures with a 40' burst centred on the caster |
+| Target | All creatures with a 40' burst centered on the caster |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | None |
@@ -306,7 +306,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Allies in the area of effect gain a +2 luck bonus to attack rolls, damage rolls, saves and skill checks while enemies receive a -2 penalty to the same rolls. |  |
 
 ##### Ward Against Harm, Communal (Abjuration)
-| Target | All allies with a 20' burst centred on the caster |
+| Target | All allies with a 20' burst centered on the caster |
 | --- | --- |
 | Duration | 10 minutes |
 | Saving Throw | N/A |
@@ -334,7 +334,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Ward Against Weakness, Communal | Abjuration |
 
 ##### Radiant Ground (Abjuration)
-| Target | All creatures with a 20' burst centred on a target point within medium range |
+| Target | All creatures with a 20' burst centered on a target point within medium range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | N/A |
@@ -364,7 +364,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | You create a wall of light which does 1d6 points of holy damage per caster level to evil creatures going through it. It grants any non-evil creature the ability to deal an additional 2d6 holy damage with their next attack. If a non-evil creature *charges* through the wall, they deal an additional 1d6 holy damage per caster level with their next attack. |  |
 
 ##### Ward Against Weakness, Communal (Abjuration)
-| Target | All allies with a 20' burst centred on the caster |
+| Target | All allies with a 20' burst centered on the caster |
 | --- | --- |
 | Duration | 10 minutes |
 | Saving Throw | N/A |
@@ -392,7 +392,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | For the duration of the effect, the target gains the effects of Divine Power, Holy Aura and Greater Heroism. |  |
 
 ##### Gale of Life (Conjuration)
-| Target | All allies with a 20' burst centred on the caster |
+| Target | All allies with a 20' burst centered on the caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -408,10 +408,10 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Spell Resistance | N/A |
 | Spell Descriptors | Good |
 | Casting Time | Standard action |
-| If the target fails its Reflex save, it is paralysed for the duration of the effect. |  |
+| If the target fails its Reflex save, it is paralyzed for the duration of the effect. |  |
 
 ##### Storm of Justice (Conjuration)
-| Target | All enemies within a 30' burst centred on target point within Long range |
+| Target | All enemies within a 30' burst centered on target point within Long range |
 | --- | --- |
 | Saving Throw | Reflex partial |
 | Spell Resistance | N/A |
@@ -437,7 +437,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Restore 10 HP / caster level. If the target died within 1 round, the healing is applied and can restore it to life. |  |
 
 ##### Fortress of the Faithful (Abjuration)
-| Target | All allies within a 20' burst centred on the caster |
+| Target | All allies within a 20' burst centered on the caster |
 | --- | --- |
 | Duration | 1 hour |
 | Saving Throw | N/A |
@@ -457,7 +457,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | For the duration of the spell, you become incorporeal and can shoot holy fire as a swift action, inflicting 1d6 damage per caster level (half fire, half holy). |  |
 
 ##### Wrath of the Righteous (Conjuration)
-| Target | All enemies within a 40' burst centred on target point within Long range |
+| Target | All enemies within a 40' burst centered on target point within Long range |
 | --- | --- |
 | Saving Throw | Will partial |
 | Spell Resistance | N/A |
@@ -474,7 +474,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Rekindle | Conjuration |
 
 ##### Army of Heaven (Enchantment)
-| Target | All allies within a 30' burst centred on the caster |
+| Target | All allies within a 30' burst centered on the caster |
 | --- | --- |
 | Duration | 1 hour |
 | Saving Throw | N/A |
@@ -484,7 +484,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | For the duration of the spell, allies in the area of effect gain the effects of Avenger's Blessing, Mind Blank and Holy Sword. |  |
 
 ##### Eye of the Sun (Conjuration)
-| Target | All enemies with a 30' burst centred on the caster |
+| Target | All enemies with a 30' burst centered on the caster |
 | --- | --- |
 | Saving Throw | Reflex half |
 | Spell Resistance | N/A |
@@ -503,7 +503,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | For the duration of the effect, if the target would be brought below 0 HP, it is instead healed to maximum and deals 1d6 fire damage / caster level to all enemies in a 20' radius |  |
 
 ##### Rekindle (Conjuration)
-| Target | All allies within a 30' burst centred on the caster |
+| Target | All allies within a 30' burst centered on the caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -553,7 +553,7 @@ If you choose to merge spellbooks, the following spells are added to your list o
 | Blade of the Sun | Evocation |
 | Cure Critical Wounds | Conjuration |
 | Divine Power | Evocation |
-| Neutralise Poison | Conjuration |
+| Neutralize Poison | Conjuration |
 | Repel the Profane | Necromancy |
 | Restoration | Conjuration |
 | Ward Against Disease, Communal | Abjuration |

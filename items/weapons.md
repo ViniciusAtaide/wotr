@@ -115,7 +115,7 @@ Add Dexterity modifier to weapon damage.
 - **Bleed**
 Target takes an additional 1d6 bleed damage per round.
 - **Brilliant Energy**
-Ignores physical armour and shields (but not natural armour); cannot harm undead or constructs.
+Ignores physical armor and shields (but not natural armor); cannot harm undead or constructs.
 - **xx Burst**
 +1d6 elemental damage, +1d10 on critical hit. If the weapon has a x3 critical multiplier, the damage is +2d10. If the weapon has a x4 critical multiplier, the damage is +3d10.
 - **Caustic**
@@ -190,7 +190,7 @@ Note that a prefix of "Elder" on an elemental property (e.g., "Elder Flame") mea
 | Attrition Dagger | +1 | - | Deals 1 Constitution damage on hit (can't reduce CON below 5) | 7700 | Joran Vhane |
 | Cruel Fate | +5 | Cruel Bleed | On first hit: target becomes vulnerable to piercing damage for 2 rounds (Fortitude DC 30) | - | Yozz |
 | Dagger of the Betrayer | +5 | Cruel Anarchic | +2 DC with all spells +4 DC with fused spells | 132000 | Shopkeeper (Kenabres) |
-| Deep Rip | +5 | - | When hitting a target after hitting them with the Soft Cut dagger, inflict +2d6 + Str modifier slashing damage On first hit in a round: double damage vs. paralysed or prone creatures | 88000 | Herrax |
+| Deep Rip | +5 | - | When hitting a target after hitting them with the Soft Cut dagger, inflict +2d6 + Str modifier slashing damage On first hit in a round: double damage vs. paralyzed or prone creatures | 88000 | Herrax |
 | Edge of Force | +2 | Cold Iron | +2 damage per die rolled with force spells | - | Crusade mode |
 | Hasty Eradicator | +2 | - | Two additional attacks during a full attack action; does not stack with Haste | - | Hellknights Outpost |
 | Lethal Conductor | +5 | Shock | +5 competence bonus to Use Magic Device +4 competence bonus to touch attack rolls | - | Mage's Tower |
@@ -280,7 +280,7 @@ Note that a prefix of "Elder" on an elemental property (e.g., "Elder Flame") mea
 | Composite Longbow |  |  |  |  |  |
 | Deadeye | +4 | Axiomatic | When first hitting an enemy more than 30' distant, inflict a -2 penalty to AC for 3 rounds | - | Intoxicated Demons' Leader |
 | Delamere's Bow | +2 | Holy | On hit: target is entangled for 1 round (Fortitude DC 22) Can only be equipped by good-aligned characters | - | Temple of the Good Hunt |
-| Longbow of Leeching Strike | +5 | Bleed | On crit: target takes 1d6 direct damage for every 5' travelled for 2 rounds | 101000 | Wirlong Black Mask |
+| Longbow of Leeching Strike | +5 | Bleed | On crit: target takes 1d6 direct damage for every 5' traveled for 2 rounds | 101000 | Wirlong Black Mask |
 | Savamelekh Spine | +5 | Vicious | On hit: target suffers -2 penalty to all ability scores | - | Savamelekh |
 | Wicked Longbow | +2 | - | Target saving throws lowered (Will DC 20) | - | Market Square |
 | Handaxe |  |  |  |  |  |
@@ -331,7 +331,7 @@ Note that a prefix of "Elder" on an elemental property (e.g., "Elder Flame") mea
 | Mind Piercer | +2 | Cold Iron | +1d6 piercing vs. enemies with mind-affecting conditions | - | Leper's Smile (Cave) |
 | Reeking Heart of the Arcane | +3 | - | When affected by a magical effect that grants an enhancement bonus, the bonus is increased by +1 | - | Wintersun (Village) |
 | Tender Touch | +2 | Necrotic | Vampiric Touch spell does d8 damage rather than d6 | - | Drezen (Citadel) |
-| Translucent Needle of Astonishment | +5 | Evil Outsider Bane | On first hit: target is paralysed for 2 rounds (Will DC 31); on a successful save, they are staggered instead | - | Horgus Gwerm |
+| Translucent Needle of Astonishment | +5 | Evil Outsider Bane | On first hit: target is paralyzed for 2 rounds (Will DC 31); on a successful save, they are staggered instead | - | Horgus Gwerm |
 | Scimitar |  |  |  |  |  |
 | Abrupt Force | +1 | Cold Iron | On hit: target is stunned for 1 round (Fortitude DC 13) | - | Market Square |
 | Blade of Order | +2 | - | Applies a -1 stacking penalty (max -5) to damage rolls of a Chaotic Evil target | 26900 | Wilcer Garms |
@@ -344,7 +344,7 @@ Note that a prefix of "Elder" on an elemental property (e.g., "Elder Flame") mea
 | Falchion |  |  |  |  |  |
 | Holy Blare | +2 | Holy | On crit: evil creatures within 15' become confused and suffer 1d4 holy damage per round for 1d4 rounds (Will DC 20) | 66000 | Skeletal Salesman |
 | Jinx | +2 | Cold Iron | Deals +base damage to a target under the effect of a hex | 25000 | Wilcer Garms Arysen Krei |
-| Rumbling Falchion | +5 | Thundering | +5 competence bonus to CMB +1 circumstance bonus to AC for 1 round when succeeding at a Sunder Armor manoeuvre No AC penalty when using Cleave | - | Middle City |
+| Rumbling Falchion | +5 | Thundering | +5 competence bonus to CMB +1 circumstance bonus to AC for 1 round when succeeding at a Sunder Armor maneuver No AC penalty when using Cleave | - | Middle City |
 | Touch of Mercy | +4 | Bleed | On crit: instantly kill a bleeding enemy with < 80 HP | - | Ivory Sanctum |
 | Greatsword |  |  |  |  |  |
 | Blood Red Cleaver | +5 | Oversized Vicious | +6d6 slashing damage to enemies with <30% HP remaining | 168000 | Blacksmith |
@@ -420,12 +420,12 @@ Note that a prefix of "Elder" on an elemental property (e.g., "Elder Flame") mea
 | Kapao | +1 | Heartseeker | When wielded by a Monk: +5 enhancement bonus to CMB and CMD | - | Malkari the Strangled |
 | Odds Evener | +4 | Axiomatic | +10 competence bonus to Athletics Immune to flanking +1d6 bludgeoning damage when there is more than 1 enemy within 5' | 102000 | Wirlong Black Mask |
 | Sai |  |  |  |  |  |
-| Electric Rose | +5 | Elder Greater Shock | On sneak attack: target is paralysed for 3 rounds (Fortitude DC 30) | 189000 | Woljif |
+| Electric Rose | +5 | Elder Greater Shock | On sneak attack: target is paralyzed for 3 rounds (Fortitude DC 30) | 189000 | Woljif |
 | Ghost Sting | +2 | Keen | On crit: grants Greater Invisibility for 1d3 rounds | - | Woljif |
 | Grasping Frost | +3 | Frost | On hit: enemy is slowed for 1d4 rounds and suffers -1 AC for each round of the effect (once per enemy) | - | Chapter 3 (unknown) |
 | Impending Demise | +5 | Axiomatic | Critical range of 18-20 Automatically confirms critical hits against flanked enemies | 90000 | Wirlong Black Mask |
 | Bastard Sword |  |  |  |  |  |
-| Frostbite | +5 | Frost Icy Burst | On attack of opportunity: target is paralysed for 1 round (Reflex DC 30) | 121000 | Wirlong Black Mask |
+| Frostbite | +5 | Frost Icy Burst | On attack of opportunity: target is paralyzed for 1 round (Reflex DC 30) | 121000 | Wirlong Black Mask |
 | Howling Doom | +5 | Furious | On kill: cast Greater Shout as an 18th level Wizard | - | Ineluctable Prison |
 | Dueling Sword |  |  |  |  |  |
 | Blood Freezer | +5 | Bleed Frost Icy Burst | On crit: target is unable to attack with weapons for 2 rounds (Fortitude DC 31) | - | Laughing Caves |
@@ -444,8 +444,8 @@ Note that a prefix of "Elder" on an elemental property (e.g., "Elder Flame") mea
 | Pain Channeler | +1 | - | +2 bonus to attack rolls for all touch attacks | 7400 | Joran Vhane |
 | Sawtooth Saber |  |  |  |  |  |
 | Crimson Verdict | +4 | Evil Outsider Bane | Take a -2 penalty to AC to gain a +4 bonus to attack rolls and CMB checks | 55000 | Wilcer Garms |
-| Praying Killer | +4 | Axiomatic | When hitting a target after hitting it with That Which Bathes in Blood, make a demoralise check as a free action | 80000 | Blacksmith (Kenabres) |
-| That Which Bathes in Blood | +4 | Necrotic | Chaotic enemies are considered flat-footed When attacking an enemy after attacking it with Praying Killer, ignore armour and shield bonuses to AC | 80000 | Blacksmith (Kenabres) |
+| Praying Killer | +4 | Axiomatic | When hitting a target after hitting it with That Which Bathes in Blood, make a demoralize check as a free action | 80000 | Blacksmith (Kenabres) |
+| That Which Bathes in Blood | +4 | Necrotic | Chaotic enemies are considered flat-footed When attacking an enemy after attacking it with Praying Killer, ignore armor and shield bonuses to AC | 80000 | Blacksmith (Kenabres) |
 | Ultrathin Edge | +4 | - | When engaged in melee with 2 or more enemies or when attacking a flat-footed enemy, deal +3d6 points of precision damage | 37000 | Wilcer Garms |
 | Tongi |  |  |  |  |  |
 | Dissolution | +2 | Corrosive | On crit: +2 acid damage (stacking) | 26700 | Woljif |
@@ -500,9 +500,9 @@ Finnean is a sentient (and talking) item and can assume any weapon form that a c
 - **Chapter 1**
 You find Finnean in the Ancientries and Wonders Shop in Kenabres. He is a +1 weapon with the **Cold Iron** and **Ghost Touch** properties.
 - **Chapter 3**
-You will have an encounter with Baphomet Cultists demanding the return of Specimen 367 while travelling on the world map. Speak to Finnean after dealing with them and he will receive his first upgrade, becoming a **+3 Ghost Touch Heartseeker** weapon.
+You will have an encounter with Baphomet Cultists demanding the return of Specimen 367 while traveling on the world map. Speak to Finnean after dealing with them and he will receive his first upgrade, becoming a **+3 Ghost Touch Heartseeker** weapon.
 - **Chapter 5**
-You can go to the Bladesmith Workshop any time after capturing the Castle of Desires. Refuse to hand Finnean over and defeat the Bladesmith and collection of animated weapons and armour. Speak to Finnean afterwards and he will receive his final upgrade, becoming a **+5 Brilliant Energy Heartseeker** weapon.
+You can go to the Bladesmith Workshop any time after capturing the Castle of Desires. Refuse to hand Finnean over and defeat the Bladesmith and collection of animated weapons and armor. Speak to Finnean afterwards and he will receive his final upgrade, becoming a **+5 Brilliant Energy Heartseeker** weapon.
 
 ### Radiance
 Radiance is a holy longsword.

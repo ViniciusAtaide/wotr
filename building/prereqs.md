@@ -58,7 +58,7 @@ These are also easy to forget. Dexterity requirements, in particular, can be pun
 | 13 | Power Attack, Raging Brutality |
 | 15 | Dragon Style, Dreadful Carnage |
 | Dexterity |  |
-| 13 | Aldori Duelling Mastery, Deadly Aim, Deflect Arrows, Dodge, Fencing Grace, Missile Shield, Piranha Strike, Precise Strike, Slashing Grace |
+| 13 | Aldori Dueling Mastery, Deadly Aim, Deflect Arrows, Dodge, Fencing Grace, Missile Shield, Piranha Strike, Precise Strike, Slashing Grace |
 | 15 | Double Slice, Ray Shield, Slayer's Feint, Two-Weapon Feint, Two-Weapon Fighting |
 | 17 | Greater Snap Shot, Improved Two-Weapon Fighting |
 | 19 | Greater Two-Weapon Fighting, Improved Precise Shot |
@@ -102,6 +102,6 @@ If you're building any sort of martial character (i.e. what you mostly do during
 - Outflank. Flanking is easy to achieve (simply have two characters attack the same enemy) and the bonuses are good. The best thing is triggering allied attacks of opportunity when you get a critical hit. The attack bonus is why I choose this rather the similar Seize the Opportunity feat.
 - Combat Reflexes. If you don't take this feat, you are limited to one AOO per round.
 - Shatter Defenses. Inflated enemy AC can be brought right down if you have this feat. The Shaken condition is easy to apply via *Dirge of Doom*, *Frightful Presence*, Cornugon Smash or Dreadful Carnage. It has two prerequisites, one of which (Dazzling Display) is quite bad.
-- Improved Critical. In most cases, this is a massive boost to lethality. You can consider this optional if you're specialising in a weapon that does double damage on a 20 (for example, Quarterstaff Master). It is a prerequisite for Mythic Improved Critical which is another big boost to lethality.
+- Improved Critical. In most cases, this is a massive boost to lethality. You can consider this optional if you're specializing in a weapon that does double damage on a 20 (for example, Quarterstaff Master). It is a prerequisite for Mythic Improved Critical which is another big boost to lethality.
 - Power Attack if your damage boosting attribute is Strength. Losing 1 AB for +2 damage is not a particularly good trade. However, the damage bonus increases to +3 if you don't use a shield and this is a much better trade which becomes even better with the Mythic Power Attack feat.
 

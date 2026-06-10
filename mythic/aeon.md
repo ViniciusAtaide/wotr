@@ -56,7 +56,7 @@ Allies able to make more than one attack of opportunity per turn gain an additio
 Allies receive a bonus to caster level equal to 1 + 1 per 3 mythic ranks. The caster level of enemies failing their save is reduced by the same amount.
 
 ##### Enforcing Gaze - Combat Maneuvers
-Allies receive a bonus to CMB equal to 1 + mythic rank / 2 when attempting combat manoeuvres. The CMB of enemies failing their save is reduced by the same amount.
+Allies receive a bonus to CMB equal to 1 + mythic rank / 2 when attempting combat maneuvers. The CMB of enemies failing their save is reduced by the same amount.
 
 ##### Enforcing Gaze - Damage
 Allies receive a bonus to damage rolls equal to 1 + 1 per two mythic ranks. Enemies who fail their saves suffer an equivalent penalty.
@@ -261,7 +261,7 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 | Hold Person | Enchantment |
 | Litany of Eloquence | Enchantment |
 | Magical Vestment | Transmutation |
-| Neutralise Poison | Conjuration |
+| Neutralize Poison | Conjuration |
 | Protection From Arrows, Communal | Abjuration |
 | Protection from Energy | Abjuration |
 | Relativity | Transmutation |
@@ -282,7 +282,7 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 | If the target fails its Will save, it becomes dazed for 1 round / caster level. |  |
 
 ##### Relativity (Transmutation)
-| Target | All creatures within a 30' burst centred on target creature within medium range |
+| Target | All creatures within a 30' burst centered on target creature within medium range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | Will negates |
@@ -382,7 +382,7 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 | Zero State | Abjuration |
 
 ##### Absolute Order (Enchantment)
-| Target | All enemies within a 30' burst centred on target enemy within close range |
+| Target | All enemies within a 30' burst centered on target enemy within close range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | Will negates |
@@ -402,7 +402,7 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 | For the duration of the effect, negative effects on the target are suppressed. |  |
 
 ##### Supernova (Evocation)
-| Target | All enemies within a 20' burst centred on target point within medium range |
+| Target | All enemies within a 20' burst centered on target point within medium range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | See below |
@@ -412,7 +412,7 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 | Enemies in the area of effect must make a Fortitude save or be blinded for the duration of the spell. Each round, enemies remaining in the area of effect receive 2d6 + caster level fire and divine damage (Reflex half). |  |
 
 ##### Zero State (Abjuration)
-| Target | All creatures within a 30' burst centred on caster |
+| Target | All creatures within a 30' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -468,10 +468,10 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 | Spell Resistance | N/A |
 | Spell Descriptors | Cold |
 | Casting Time | Standard action |
-| If the target fails its Reflex save, it is encased in ice and paralysed. If it makes its save, it is entangled and cannot cast spells. The target takes 2d6 cold damage and 2d6 divine damage every round it is paralysed or entangled. Each round, the target can make a Strength check (DC = 15 + caster level) to break the ice. |  |
+| If the target fails its Reflex save, it is encased in ice and paralyzed. If it makes its save, it is entangled and cannot cast spells. The target takes 2d6 cold damage and 2d6 divine damage every round it is paralyzed or entangled. Each round, the target can make a Strength check (DC = 15 + caster level) to break the ice. |  |
 
 ##### Zone of Predetermination (Abjuration)
-| Target | All creatures within a 20' burst centred on caster |
+| Target | All creatures within a 20' burst centered on caster |
 | --- | --- |
 | Duration | 1 round / 4 caster levels |
 | Saving Throw | N/A |
@@ -506,7 +506,7 @@ The obvious class to go with the Aeon mythic path is some sort of Inquisitor bec
 An interface bug causes this spell to be displayed without a name. You can still select it, however.
 
 ##### Black Hole (Conjuration)
-| Target | All enemies within a 20' burst centred on target point within medium range |
+| Target | All enemies within a 20' burst centered on target point within medium range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | See below |
@@ -516,7 +516,7 @@ An interface bug causes this spell to be displayed without a name. You can still
 | Any Huge creature or smaller within 20' of the black hole must make a Reflex save to jump out of harm's way. Any creature failing its Reflex save must make a Fortitude save or be disintegrated. |  |
 
 ##### Edict of Invulnerability (Abjuration)
-| Target | All allies within 30' burst centred on the caster |
+| Target | All allies within 30' burst centered on the caster |
 | --- | --- |
 | Duration | 1 round / 5 caster levels |
 | Saving Throw | N/A |

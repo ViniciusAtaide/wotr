@@ -21,11 +21,11 @@ game_patch: 2.7.0
 | Falchion |  |  |  |  |  |
 | Butcher's Cleaver | +2 | Cruel | On crit: Make another attack against the same target (max 1 / round) | - | Hill Giant Butcher |
 | Greatsword |  |  |  |  |  |
-| Explosive Enthusiasm | +1 | Flaming | On crit: 6d6 fireball centred on the target (Reflex DC 21 for half damage) | - | Wizard's Tower |
+| Explosive Enthusiasm | +1 | Flaming | On crit: 6d6 fireball centered on the target (Reflex DC 21 for half damage) | - | Wizard's Tower |
 | Flail |  |  |  |  |  |
 | Midnight Flail | +3 | Vicious, Druchite | +1d6 unholy damage vs. enemies with fewer HP than the wielder | - | Shadow World |
 
-#### Armour
+#### Armor
 | Name | Ench. | Properties | Special | Cost | Where / How to Get |
 | --- | --- | --- | --- | --- | --- |
 | Full Plate |  |  |  |  |  |
@@ -43,7 +43,7 @@ game_patch: 2.7.0
 | Belt of Alacrity | +4 enhancement bonus to Dexterity +4 competence bonus to Reflex saves | 26000 | Sister Kerismei |
 | Belt of Improved Protection | +10 competence bonus to Mobility checks | 17000 | Sister Kerismei |
 | Belt of Lesser Shadowform | +2 enhancement bonus to Dexterity 5 rounds / day: Become incorporeal | 40000 | Trader |
-| Heart of Ice | +4 armour bonus to AC +4 enhancement bonus to Constitution 1 / day: Cast Ice Cascade | - | Barsag |
+| Heart of Ice | +4 armor bonus to AC +4 enhancement bonus to Constitution 1 / day: Cast Ice Cascade | - | Barsag |
 
 #### Boots
 | Item | Properties | Cost | Location |
@@ -79,7 +79,7 @@ game_patch: 2.7.0
 | Item | Properties | Cost | Location |
 | --- | --- | --- | --- |
 | Amulet of Alchemical Knowledge | +4 alchemical bonus to saving throws vs. poison +2 alchemical bonus to Intelligence +3 bombs / day | - | Old Mo |
-| Amulet of Epic Songs | +2 enhancement bonus to natural armour +6 rounds of Bardic Performance / day | 14000 | Sister Kerismei |
+| Amulet of Epic Songs | +2 enhancement bonus to natural armor +6 rounds of Bardic Performance / day | 14000 | Sister Kerismei |
 | Amulet of Evil Doom | DR 10/good | 45000 | Sister Kerismei |
 | Burning Amulet | +4 effective caster level with *Burning Hands*, *Scorching Ray*, *Fireball*, *Controlled Fireball*, *Fire Snake*, *Flame Strike*, *Hellfire Ray*, *Firestorm* | 34680 | Sister Kerismei |
 | Eye of the Storm | +1 effective caster level and +1 spell DC when casting spells with the Electricity descriptor | - | Hall of Trials |

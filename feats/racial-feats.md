@@ -51,7 +51,7 @@ You gain a +2 racial bonus on saving throws against poison and attacks which cau
 
 ## Ironhide
 **Prereq:** Dwarf, Half-Orc
-You gain a +1 natural armour bonus to AC.
+You gain a +1 natural armor bonus to AC.
 
 ## Razortusk
 **Prereq:** Half-Orc
@@ -75,7 +75,7 @@ You gain a +2 racial bonus to Mobility checks and ignore difficult terrain while
 
 ## Blood Drinker
 **Prereq:** Dhampir
-You may drink blood from unconscious, helpless, sleeping or paralysed living creatures (or from corpses of living creatures) three times per day, gaining +1 bonus to Fortitude saving throws and 5 temporary HP + 5 for every three hit dice you have. The effect lasts for 1 hour.
+You may drink blood from unconscious, helpless, sleeping or paralyzed living creatures (or from corpses of living creatures) three times per day, gaining +1 bonus to Fortitude saving throws and 5 temporary HP + 5 for every three hit dice you have. The effect lasts for 1 hour.
 
 ## Blood Feaster
 **Prereq:** Blood Drinker

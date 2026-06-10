@@ -85,7 +85,7 @@ Treat Affliction removes not only poisons and diseases but any negative conditio
 You are under the constant effect of *See Invisibility*.
 
 ##### Persuasion I
-Any enemy beginning combat against you is automatically affected by your demoralise ability.
+Any enemy beginning combat against you is automatically affected by your demoralize ability.
 
 ##### Infuse Magic Device
 The caster level of any ability from magical items that you use is increased by your mythic rank.
@@ -126,7 +126,7 @@ This mythic trick does not allow you to take the *Domain Zealot* and *Impossible
 You automatically detect creatures who attempt to use Stealth. You and your companions can now select feats from the Trickster feat list.
 
 ##### Persuasion II
-Enemies affected by your demoralise ability become paralysed unless they make a Will save (DC = 10 + Persuasion rank). They may attempt another saving throw against this condition each round.
+Enemies affected by your demoralize ability become paralyzed unless they make a Will save (DC = 10 + Persuasion rank). They may attempt another saving throw against this condition each round.
 
 ##### Reuse Magic Device
 Using a wand doesn't consume a charge and you can equip any magical items regardless of requirements.
@@ -159,7 +159,7 @@ You gain spell resistance equal to your Stealth bonus - 10.
 Every item that you identify gets an additional random major effect.
 
 ##### Knowlege (World) III
-You and your allies can ignore feat prerequisites when levelling up.
+You and your allies can ignore feat prerequisites when leveling up.
 
 ##### Lore (Nature) III
 Every time you hunt, you find random magic items.
@@ -173,7 +173,7 @@ You can select two additional domains.
 You gain two rank 1 mythic tricks that you can change daily.
 
 ##### Persuasion III
-Enemies failing their saving throw against your demoralise ability must spend their first round making a Coup de Grace against themselves.
+Enemies failing their saving throw against your demoralize ability must spend their first round making a Coup de Grace against themselves.
 
 ##### Use Magic Device III
 You gain a spellbook and can copy spells from scrolls into it as if you were a wizard of your character level.
@@ -190,7 +190,7 @@ At 9th rank, you can summon a Wild Hunt battle party for 1 minute.
 ##### Playing a Trickster
 Whichever mythic path you intend to take, Creative Approach is the best 2nd rank ability so you'll generally want to start off down the Trickster route.
 
-If you choose to take things further, plan the mythic path around which of the Mythic Tricks are most important to you. I suggest that you decide which greater tricks you want and work backwards. Persuasion III is obviously one to go for and Athletics III gives you as much as +10 BAB. Use Magic Device III can be really strong if you're an Intelligence-based caster (for example, most Witch archetypes). The really strong improved tricks are Perception (II), which you'll probably want at rank 4, Knowledge (World) II, Trickery II and Lore (Religion) II. Knowledge Arcana (I) doesn't just increase the enhancement bonuses of weapons and armour but also of equipment that boosts attributes, allowing you to take advantage of odd-numbered ability scores.
+If you choose to take things further, plan the mythic path around which of the Mythic Tricks are most important to you. I suggest that you decide which greater tricks you want and work backwards. Persuasion III is obviously one to go for and Athletics III gives you as much as +10 BAB. Use Magic Device III can be really strong if you're an Intelligence-based caster (for example, most Witch archetypes). The really strong improved tricks are Perception (II), which you'll probably want at rank 4, Knowledge (World) II, Trickery II and Lore (Religion) II. Knowledge Arcana (I) doesn't just increase the enhancement bonuses of weapons and armor but also of equipment that boosts attributes, allowing you to take advantage of odd-numbered ability scores.
 
 Not all tricks require investment in the skill itself. However, if you're going to build around the Mobility and Trickery tricks, for example, you need to invest them in heavily.
 
@@ -326,7 +326,7 @@ Beer Elementals have the same capabilities as Water Elementals of the same size.
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| The beard grants a +2 natural armour bonus to AC and DR 5/slashing. |  |
+| The beard grants a +2 natural armor bonus to AC and DR 5/slashing. |  |
 
 ##### Hallucinogenic Cloud (Illusion)
 | Target | Target point within medium range |
@@ -393,7 +393,7 @@ Beer Elementals have the same capabilities as Water Elementals of the same size.
 | The target of the spell is reduced in size by two size categories, gaining a +6 size bonus to Dexterity. |  |
 
 ##### Phantasmal Healer (Transmutation)
-| Target | All creatures within a 30' burst centred on target point within medium range |
+| Target | All creatures within a 30' burst centered on target point within medium range |
 | --- | --- |
 | Duration | 1 round / 4 caster levels |
 | Saving Throw | Will half |
@@ -403,7 +403,7 @@ Beer Elementals have the same capabilities as Water Elementals of the same size.
 | For the duration of the effect, all living creatures are healed by 1d6 points per four caster levels. A Will save halves the healing received. |  |
 
 ##### Rain of Halberds (Conjuration)
-| Target | All creatures within a 20' burst centred on target point within medium range |
+| Target | All creatures within a 20' burst centered on target point within medium range |
 | --- | --- |
 | Saving Throw | None |
 | Spell Resistance | N/A |

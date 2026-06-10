@@ -5,7 +5,7 @@ game_patch: 2.7.0
 # Aldori Swordlord
 *Prestige class. Source: GameFAQs WotR Guide (80843).*
 
-The Aldori Swordlord is a specialist with the Dueling Sword. She has the following characteristics:
+The Aldori Swordlord is a specializt with the Dueling Sword. She has the following characteristics:
 
 - Required feats: Dazzling Display, Weapon Finesse, Weapon Focus (Dueling Sword)
 - Required skills: Mobility (3), Knowledge: World (3), Perception (3), Persuasion (5)
@@ -45,7 +45,7 @@ At 4th level, the Swordlord reduces the attack penalty for fighting defensively 
 At 8th level, the defensive attack penalty is reduced by 2.
 
 #### Shatter Confidence
-At 5th level, the Swordlord may make a Persuasion check as a free action to demoralise an opponent after landing a critical hit, disarming an opponent or sundering the opponent's armour.
+At 5th level, the Swordlord may make a Persuasion check as a free action to demoralize an opponent after landing a critical hit, disarming an opponent or sundering the opponent's armor.
 
 If the opponent is already shaken, the Swordlord may attempt to demoralize him further every round. If the Swordlord is successful, the opponent suffers an additional -1 penalty to attack rolls and saving throws and loses any morale bonuses.
 
@@ -59,7 +59,7 @@ At 7th level, standing up from prone does not provoke an attack of opportunity.
 At 9th level, the Swordlord has a 50% chance of reducing a melee critical hit against her to a normal damage roll and a 25% chance of doing the same for a ranged attack.
 
 #### Confounding Duelist
-If the Swordlord demoralises an opponent through Shatter Confidence, the opponent suffers a penalty to attack rolls and saving throws and loses morale, insight and competence bonuses.
+If the Swordlord demoralizes an opponent through Shatter Confidence, the opponent suffers a penalty to attack rolls and saving throws and loses morale, insight and competence bonuses.
 
 ##### Playing an Aldori Swordlord
 The obvious route is five levels of Aldori Defender. However, a Sword Saint taking Dueling Sword as her chosen weapon qualifies for the Weapon Focus requirement, so five levels of Sword Saint might be better.

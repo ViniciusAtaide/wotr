@@ -43,7 +43,7 @@ The Student of War gains a +1 insight bonus to AC and saving throws against the 
 The Student of War gains a +1 insight bonus to attack and damage rolls against the target. At 6th level, he gets a +3 bonus to critical confirmation rolls.
 
 ##### Tactical Stance
-The Student of War gains a +1 insight bonus to CMB when attempting a combat manoeuvre and to CMD when defending against a manoeuvre.
+The Student of War gains a +1 insight bonus to CMB when attempting a combat maneuver and to CMD when defending against a maneuver.
 
 A Student of War can switch stance as a move action. The bonus increases to +2 at 4th level and +3 at 7th level. In Addition, this ability becomes a swift action at 7th level.
 
@@ -51,7 +51,7 @@ A Student of War can switch stance as a move action. The bonus increases to +2 a
 At 2nd, 5th and 8th levels, a Student of War may select any combat feats for which he meets the prerequisites.
 
 #### Mind Over Metal
-At 2nd level, a Student of War can use his Intelligence modifier in place of Dexterity to determine his AC. The armour's normal maximum Dexterity bonus still applies.
+At 2nd level, a Student of War can use his Intelligence modifier in place of Dexterity to determine his AC. The armor's normal maximum Dexterity bonus still applies.
 
 #### Anticipate
 At 3rd level, if a Student of War makes a successful Will save against an attack that normally deals half damage on a successful save, he instead takes no damage.

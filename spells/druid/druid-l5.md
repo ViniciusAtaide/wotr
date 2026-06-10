@@ -7,7 +7,7 @@ game_patch: 2.7.0
 *Format: **Name** *(School)* — T: target | Dur | Save | SR | Desc | Cast — Description. Fields omitted if empty/default.*
 
 - **Animal Growth** *(Transmutation)* — _See Wizard spell list._
-- **Aspect of the Wolf** *(Transmutation)* — T: Personal | Dur: 1 minute / level | Desc: Polymorph — You gain a +4 enhancement bonus to Strength and Dexterity, a +2 enhancement bonus on trip attacks and can make a trip combat manoeuvre as a swift action.
+- **Aspect of the Wolf** *(Transmutation)* — T: Personal | Dur: 1 minute / level | Desc: Polymorph — You gain a +4 enhancement bonus to Strength and Dexterity, a +2 enhancement bonus on trip attacks and can make a trip combat maneuver as a swift action.
 - **Baleful Polymorph** *(Transmutation)* — _See Wizard spell list._
 - **Blessing of the Salamander** *(Transmutation)* — T: One friendly creature within touch range | Dur: 1 round / level | SR — The target gains fast healing 5, fire resistance 20 and a +2 competence bonus to CMD.
 - **Call Lightning Storm** *(Evocation)* — T: One creature within long range | Dur: 1 minute / level | Save: Reflex half | SR | Desc: Electricity | Cast: Full round — On completion and each subsequent round, you may call down a 6' wide bolt of lightning that deals 5d6 points of electricity damage to a creature in the target square. On subsequent rounds you may call down another bolt as a standard action. Each time you call a bolt, the duration is reduced by one minute.

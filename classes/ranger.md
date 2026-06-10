@@ -73,14 +73,14 @@ The standard Ranger has the following level progression:
 | 20 | - | Master Hunter | Favored Enemy |
 
 #### Ranger Proficiencies
-Rangers are proficient with all simple and martial weapons, light and medium armour and shields.
+Rangers are proficient with all simple and martial weapons, light and medium armor and shields.
 
 #### Favored Enemy
-The Ranger selects a creature type from the favoured enemies list and gains +2 bonus on attack and damage rolls against them. At 5th, 10th, 15th and 20th level, the Ranger selects an additional favoured enemy. At this point he may also select one of his favoured enemies and increase the bonus by another +2.
+The Ranger selects a creature type from the favored enemies list and gains +2 bonus on attack and damage rolls against them. At 5th, 10th, 15th and 20th level, the Ranger selects an additional favored enemy. At this point he may also select one of his favored enemies and increase the bonus by another +2.
 
 The categories that you can choose are: Aberrations (e.g. Oozes), Animals, Constructs (i.e. Golems), Demons of Magic, Demons of Slaughter, Demons of Strength, Dragons, Dwarves, Elves, Fey, Giant Humanoids, Gnomes, Goblins, Halflings, Humans, Magical Beasts (e.g. Hydra, Owlbear), Monstrous Humanoids (e.g. Centaurs), Outsiders (e.g. Elementals), Plants, Reptilian Humanoids, Undead and Vermin.
 
-You will want to pick the various classes of demon as favoured enemies. Rather than trying to cover all three categories evenly, pick one category every time you select a favoured enemy so that you end up with +10 attack and damage against it. You can use the *Instant Enemy* spell to transfer this bonus to any enemy.
+You will want to pick the various classes of demon as favored enemies. Rather than trying to cover all three categories evenly, pick one category every time you select a favored enemy so that you end up with +10 attack and damage against it. You can use the *Instant Enemy* spell to transfer this bonus to any enemy.
 
 For your other slots, Constructs, Monstrous Humanoids and Undead are useful. For all intents and purposes, other enemy types either don't exist or are sufficiently rare that Instant Enemy can take care of them.
 
@@ -105,12 +105,12 @@ At 2nd level, the Ranger can select from Shield Bash, Shield Focus and Two-Weapo
 It is possible to take Greater Two-Weapon Fighting at level 10 without having taken Improved Two-Weapon Fighting at level 6. However, you only gain one off-hand attack rather than two.
 
 #### Favored Terrain
-At 3rd level, a Ranger may select a type of terrain and gains +2 bonus to initiative, Lore (Nature), Perception and Stealth skill checks when in that terrain. At 8th, 13th and 18th levels, the Ranger may select an additional terrain type. When doing so, the bonuses for one favoured terrain may be increased by +2. Choices are: Abyss, Desert, Forest, Highlands, Underground and Urban.
+At 3rd level, a Ranger may select a type of terrain and gains +2 bonus to initiative, Lore (Nature), Perception and Stealth skill checks when in that terrain. At 8th, 13th and 18th levels, the Ranger may select an additional terrain type. When doing so, the bonuses for one favored terrain may be increased by +2. Choices are: Abyss, Desert, Forest, Highlands, Underground and Urban.
 
 #### Hunter's Bond
-The Ranger may bond with his companions. As a move action, he can grant half his favoured enemy bonus to all allies within 30' for a number of rounds equal to the Ranger's Wisdom modifier.
+The Ranger may bond with his companions. As a move action, he can grant half his favored enemy bonus to all allies within 30' for a number of rounds equal to the Ranger's Wisdom modifier.
 
-Alternatively, he may choose an Animal Companion. The companion shares the Ranger's favoured enemy and terrain bonuses. For companion capabilities, the Ranger's effective level is his class level - 3.
+Alternatively, he may choose an Animal Companion. The companion shares the Ranger's favored enemy and terrain bonuses. For companion capabilities, the Ranger's effective level is his class level - 3.
 
 #### Evasion
 At 9th level, if the Ranger makes a Reflex save against an attack that normally deals half damage on a successful save, he instead takes no damage.
@@ -119,7 +119,7 @@ At 9th level, if the Ranger makes a Reflex save against an attack that normally 
 At 11th level, the Ranger can designate a target as his quarry as a standard action. He receives a +2 insight bonus to attack rolls made against the quarry and all critical hits are automatically confirmed. Only one creature at a time may be designated as a quarry.
 
 #### Camouflage
-At 12th level, the Ranger can use his Stealth skill to hide in any of his favoured terrains as a move action and may do so even in combat.
+At 12th level, the Ranger can use his Stealth skill to hide in any of his favored terrains as a move action and may do so even in combat.
 
 #### Improved Evasion
 At 16th level, if the Ranger fails a Reflex save against an attack that normally deals half damage on a successful save, he takes only half damage.
@@ -128,7 +128,7 @@ At 16th level, if the Ranger fails a Reflex save against an attack that normally
 At 19th level, the Ranger may designate a quarry as a free action and the insight bonus to attack rolls increases to +4.
 
 #### Master Hunter
-At 20th level, the Ranger can make an attack against a favoured enemy as a standard action at full bonus. If the attack hits, the target must make a Fortitude save (DC 20 + Wisdom modifier) or die. The Ranger can use this ability five times per day but not against the same creature.
+At 20th level, the Ranger can make an attack against a favored enemy as a standard action at full bonus. If the attack hits, the target must make a Fortitude save (DC 20 + Wisdom modifier) or die. The Ranger can use this ability five times per day but not against the same creature.
 
 ##### Playing a Ranger
 The Ranger is a very balanced class, gaining large bonuses against whole rafts of enemy types, and benefits from being played as a more-or-less pure class. I'd suggest choosing the Archery or Menacing combat styles. An Animal Companion is probably the better use of Hunter's Bond unless you're only taking a few Ranger levels for some reason. If you do choose an Animal Companion, take Boon Companion at 5th level.
@@ -137,7 +137,7 @@ However, there is no reason to play the base class because in *this* game, the D
 
 Unfortunately, most other Ranger archetypes are not better than the base class and the Espionage Expert is a case in point, trading the very useful animal companion for a couple of somewhat useful skill check bonuses. At least an Espionage Expert keeps the somewhat useful Ranger's Bond ability which is more than you can say for the Flamewarden. I'm not quite sure what the point of the class is. Abilities that require you to *die* are not very good abilities.
 
-A Freebooter can give the whole party decent bonuses against single powerful enemies. However, so can a Vanguard (Slayer) and Vanguard is the better class. The USP of a Ranger is favoured enemies and an animal companion and the Freebooter gets neither.
+A Freebooter can give the whole party decent bonuses against single powerful enemies. However, so can a Vanguard (Slayer) and Vanguard is the better class. The USP of a Ranger is favored enemies and an animal companion and the Freebooter gets neither.
 
 If you're planning on playing an archer anyway, a Nomad is strictly better than the base class, gaining a companion at 1st level and a bonus feat into the bargain. However, a horse is wasted if you're going to sit on it and shoot arrows rather than using it to charge down fools.
 
@@ -149,7 +149,7 @@ A Stormwalker gives up an animal companion for some questionable abilities. Bein
 A Demonslayer does what it says on the tin.
 
 - Gains exceptional abilities against demon enemies
-- Cannot select other enemy types as favoured enemies.
+- Cannot select other enemy types as favored enemies.
 
 He has the following level progression:
 
@@ -178,7 +178,7 @@ He has the following level progression:
 | 20 | - | Master Hunter | Demonslayer Favored Enemy |
 
 #### Demonslayer Favored Enemy
-A Demonslayer treats all three categories of demons as favoured enemies, gaining a +2 bonus to attack and damage at 1st level and an additional +2 at 5th, 10th, 15th and 20th levels.
+A Demonslayer treats all three categories of demons as favored enemies, gaining a +2 bonus to attack and damage at 1st level and an additional +2 at 5th, 10th, 15th and 20th levels.
 
 #### Demonologist
 At 3rd level, a Demonslayer can add half his class level to knowledge (Arcana) skill checks.
@@ -235,7 +235,7 @@ At 3rd level, an Espionage Expert adds half his class level to Bluff and Stealth
 An Espionage Expert uses Charisma as his casting attribute.
 
 #### Espionage Master
-At 20th level, the Espionage Expert can make an attack against a favoured enemy as a standard action at full bonus. If the attack hits, the target must make a Fortitude save (DC 20 + Charisma modifier) or die. The Ranger can use this ability five times per day but not against the same creature.
+At 20th level, the Espionage Expert can make an attack against a favored enemy as a standard action at full bonus. If the attack hits, the target must make a Fortitude save (DC 20 + Charisma modifier) or die. The Ranger can use this ability five times per day but not against the same creature.
 
 ### Flamewarden
 A Flamewarden is a guardian of nature and an enemy of corruption in all its forms.
@@ -290,7 +290,7 @@ At 20th level, the Flamewarden gains immunity to fire and once per day, if kille
 ### Freebooter
 A Freebooter is the leader of a pirate crew.
 
-- No favoured enemies
+- No favored enemies
 - May not select an Animal Companion
 - Gains teamwork abilities instead.
 
@@ -327,7 +327,7 @@ The Freebooter can, as a move action, designate an enemy and have his allies foc
 At 4th level, the Freebooter can expend a move action to grant allies within 30' an additional +2 bonus to attack rolls when flanking for 1 minute.
 
 ### Nomad
-A Nomad is a mounted archery specialist.
+A Nomad is a mounted archery specializt.
 
 - Gains a horse
 - Can only select Archery style feats.
@@ -400,13 +400,13 @@ His level progression is as follows:
 A Sable Company Marine gains a hippogriff companion at 1st level. When mounted, the marine attacks the target of the hippogriff's flying attack as a full-round action. The target is considered flat-footed against these attacks and ranged attacks do not provoke attacks of opportunity.
 
 #### The Strongest Wings
-From 3rd level, as a standard action, a Sable Company Marine's companion can use its wings to attempt a bull rush combat manoeuvre against targets in a 30' cone. When doing so, it receives a bonus to CMB equal to half its level. Targets affected the combat manoeuvre are flat-footed against the next attack.
+From 3rd level, as a standard action, a Sable Company Marine's companion can use its wings to attempt a bull rush combat maneuver against targets in a 30' cone. When doing so, it receives a bonus to CMB equal to half its level. Targets affected the combat maneuver are flat-footed against the next attack.
 
 #### Feathered Confusion
 From 12th level, a Sable Company Marine's companion receives a +3 dodge bonus to AC against melee attacks. While mounted, the marine receives this bonus as well. Enemies treat a 5' area around the hippogriff as difficult terrain.
 
 #### Sable Strike
-At 20th level, when using a flying attack against a favoured enemy, the first attacks made by the marine and his companion are automatic critical hits with +1 added to the critical multiplier.
+At 20th level, when using a flying attack against a favored enemy, the first attacks made by the marine and his companion are automatic critical hits with +1 added to the critical multiplier.
 
 ### Stormwalker
 A Stormwalker is a guardian of nature who can draw upon the power of storms.

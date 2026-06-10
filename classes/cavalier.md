@@ -68,7 +68,7 @@ The standard Cavalier has the following level progression:
 | 20 | - | - | Supreme Charge | - |
 
 #### Cavalier Proficiencies
-Cavaliers are proficient with all simple and martial weapons, all types of armour and shields (excluding tower shields).
+Cavaliers are proficient with all simple and martial weapons, all types of armor and shields (excluding tower shields).
 
 #### Order
 A Cavalier may belong to one of five orders: Order of the Cockatrice, Order of the Lion, Order of the Shroud, Order of the Star or Order of the Sword. These play like subclasses and are detailed below
@@ -327,7 +327,7 @@ A Cavalier receives bonus teamwork feats and the ability to grant allies the occ
 
 When choosing an order, the Order of the Shroud grants some powerful abilities against undead enemies. Alternatively, the Order of the Sword and Order of the Cockatrice grant free feats. The latter gives you Dazzling Display which is otherwise a feat tax for Shatter Defenses.
 
-A Beast Rider is more or less identical to the base Cavalier. You lose proficiency in heavy armour, which is neither here nor there, and receive a choice of animal companion which is better than only being able to select a horse. Unless you're a gnome or halfling, you won't be able to ride your companion until it grows at 7th level.
+A Beast Rider is more or less identical to the base Cavalier. You lose proficiency in heavy armor, which is neither here nor there, and receive a choice of animal companion which is better than only being able to select a horse. Unless you're a gnome or halfling, you won't be able to ride your companion until it grows at 7th level.
 
 A halfling Beast Rider could choose a dog mount which is better than choosing Cavalier of the Paw, simply because a choice of order is better than the Order of the Paw.
 
@@ -335,7 +335,7 @@ A Disciple of the Pike loses the animal companion altogether in exchange for som
 
 A Fearsome Leader gives up a bunch of stuff for ... not very much. You can get free Dazzling Display by choosing Order of the Cockatrice. Even with a Good Hope effect, spending a full round using Dazzling Display is a poor use of your time.
 
-A Gendarme makes a very favourable trade of all the Tactician nonsense for five additional combat feats. This makes a Gendarme quite easy to build. Unfortunately, it doesn't gain anything like Weapon Specialization which means that you're not getting much more damage than the base class. This changes at 20th level; triple damage on a charge is quite formidable.
+A Gendarme makes a very favorable trade of all the Tactician nonsense for five additional combat feats. This makes a Gendarme quite easy to build. Unfortunately, it doesn't gain anything like Weapon Specialization which means that you're not getting much more damage than the base class. This changes at 20th level; triple damage on a charge is quite formidable.
 
 A Ghost Rider's special mount is just a paint job on a normal horse. The abilities that the archetype loses (Tactician and Banner) are nothing special but the class doesn't replace them with anything all that special either. The Frightful Gaze ability which replaces Tactician is a poor use of a front-line fighter's time.
 
@@ -344,10 +344,10 @@ A Knight of the Wall tries to make wielding a shield a thing. It doesn't really 
 Finally, a Standard Bearer pretends that Banner is something you can build around. Getting your Banner at 1st level and your mount at fifth basically means that you're going to have a rougher time in the early part of the game and then waste a feat on Boon Companion. The capstone ability gives morale bonuses which are easily replicated.
 
 ### Beast Rider
-A Beast Rider is a specialist in taming many different animal types.
+A Beast Rider is a specializt in taming many different animal types.
 
 - Can choose any type of animal companion
-- Loses heavy armour proficiency.
+- Loses heavy armor proficiency.
 
 Her level progression is as follows:
 
@@ -376,7 +376,7 @@ Her level progression is as follows:
 | 20 | - | - | Supreme Charge | - |
 
 #### Beast Rider Proficiencies
-Beast Riders are proficient with all simple and martial weapons, light and medium armour and shields (excluding tower shields).
+Beast Riders are proficient with all simple and martial weapons, light and medium armor and shields (excluding tower shields).
 
 #### Animal Companion (Beast Rider)
 A Beast Rider can choose any type of animal companion, not just a horse.
@@ -426,13 +426,13 @@ The Cavalier can choose between a Dog and a Wolf.
 At 2nd level, as a standard action, the Cavalier can ready all allies within 30' for danger. If an ally fails a saving throw within the next minute, they can reroll it with a +4 competence bonus as an immediate action. She can use this ability three times per day.
 
 #### Canine Ferocity
-At 8th level, when the Cavalier uses her mount to perform a bull rush or overrun manoeuvre, it receives a +4 bonus to its CMB. The Cavalier also receives a bonus mounted combat feat. Note that she must satisfy any prerequisites of the selected feat.
+At 8th level, when the Cavalier uses her mount to perform a bull rush or overrun maneuver, it receives a +4 bonus to its CMB. The Cavalier also receives a bonus mounted combat feat. Note that she must satisfy any prerequisites of the selected feat.
 
 #### Giant Slayer
 At 15th level, when challenging a creature of large size or greater, the Cavalier gains a bonus to damage rolls equal to half her class level. This damage is multiplied on a critical hit.
 
 ### Disciple of the Pike
-A Disciple of the Pike is a specialist monster hunter.
+A Disciple of the Pike is a specializt monster hunter.
 
 - Gains bonuses against large enemies
 - Gains bonuses with spears and polearms
@@ -593,7 +593,7 @@ He has the following level progression:
 | 20 | - | - | Supreme Charge | - |
 
 #### Frightful Gaze
-As a standard action, a Ghost Rider can fix her gaze on an opponent within 30' causing it to become paralysed for 1 round unless it makes a Will save (DC = 10 + class level / 2 + CHA). This is a mind-affecting fear effect and the Ghost Rider can use it a number of times per day equal to her Charisma modifier.
+As a standard action, a Ghost Rider can fix her gaze on an opponent within 30' causing it to become paralyzed for 1 round unless it makes a Will save (DC = 10 + class level / 2 + CHA). This is a mind-affecting fear effect and the Ghost Rider can use it a number of times per day equal to her Charisma modifier.
 
 From 9th level, this ability can affect creatures which are immune to fear or mind-affecting effects and creatures making their saving throws are staggered.
 
@@ -619,7 +619,7 @@ At 14th level, a Ghost Rider can create a link with her mount as a free action. 
 At 16th level, once per round, when the Ghostly Mount fails a Will saving throw, the Ghost Rider can attempt a Will save against the effect's DC. If the rider's save is successful, the effect is negated.
 
 ### Knight of the Wall
-A Knight of the Wall is a specialist with a shield.
+A Knight of the Wall is a specializt with a shield.
 
 - Gains shield bonuses
 - Loses all teamwork abilities.

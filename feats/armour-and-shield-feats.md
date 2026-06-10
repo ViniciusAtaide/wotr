@@ -2,7 +2,7 @@
 source: GameFAQs WotR Guide 80843
 game_patch: 2.7.0
 ---
-# Feats — Armour and Shield Feats
+# Feats — Armor and Shield Feats
 *18 feats. Source: GameFAQs WotR Guide (80843).*
 
 ## Armor Proficiency (Light Armor)
@@ -13,17 +13,17 @@ All classes apart from Arcanists (all), Instinctual Warriors, Ecclesitheurges, M
 Prerequisites:
 Armor Proficiency (Light Armor)
 You become proficient with Medium Armor.
-Barbarians (not Instinctual Warrior), Bloodragers (all), Cavaliers (all), Clerics (not Ecclesitheurge), Druids (all), Fighters (all), Hunters (all), Inquisitors (all), Armored Battlemages, Oracles (all), Paladins (all), Rangers (all), Shamans (all), Shifters (all), Skalds (all), Slayers (not Stygian Slayer) and Warpriests (not Cult Leader) gain this proficiency automatically. Maguses other than Spelldancers and Sword Saints gain the ability to wear medium armour at level 7.
+Barbarians (not Instinctual Warrior), Bloodragers (all), Cavaliers (all), Clerics (not Ecclesitheurge), Druids (all), Fighters (all), Hunters (all), Inquisitors (all), Armored Battlemages, Oracles (all), Paladins (all), Rangers (all), Shamans (all), Shifters (all), Skalds (all), Slayers (not Stygian Slayer) and Warpriests (not Cult Leader) gain this proficiency automatically. Maguses other than Spelldancers and Sword Saints gain the ability to wear medium armor at level 7.
 
 ## Armor Proficiency (Heavy Armor)
 Prerequisites:
 Armor Proficiency (Medium Armor)
 You become proficient with Heavy Armor.
-Armored Hulks, Steelbloods, Cavaliers (not Beast Rider), Fighters (all), Paladins (not Divine Hunter), Warpriests (not Cult Leader) and the Hellknight Signifer prestige class gain this proficiency automatically. An Armored Battlemage gains the ability to wear heavy armour at level 7 while most other Magus archetypes gain the ability at level 13.
+Armored Hulks, Steelbloods, Cavaliers (not Beast Rider), Fighters (all), Paladins (not Divine Hunter), Warpriests (not Cult Leader) and the Hellknight Signifer prestige class gain this proficiency automatically. An Armored Battlemage gains the ability to wear heavy armor at level 7 while most other Magus archetypes gain the ability at level 13.
 
 ## Armor Focus
 **Prereq:** Armor Proficiency (Light. Medium or Heavy), Base Attack Bonus: 1
-Select one type of armour (light, medium, or heavy) and gain +1 AC when wearing that type of armour.
+Select one type of armor (light, medium, or heavy) and gain +1 AC when wearing that type of armor.
 
 ## Armor Proficiency (Light Barding)
 Your companion becomes proficient with Light Barding.
@@ -89,7 +89,7 @@ Shield Bash
 Shield Focus
 Stumbling Bash
 Fighter level 8 or Base Attack Bonus: 11
-Once per round when you hit a creature with shield bash, you can make a trip combat manoeuvre at -5 penalty. This does not provoke an attack of opportunity.
+Once per round when you hit a creature with shield bash, you can make a trip combat maneuver at -5 penalty. This does not provoke an attack of opportunity.
 
 ## Shield Master
 Prerequsities:

@@ -16,7 +16,7 @@ game_patch: 2.7.0
 - **Freedom of Movement** *(Abjuration)* — _See Cleric spell list._
 - **Greater Invisibility** *(Illusion)* — _See Wizard spell list._
 - **Hold Monster** *(Enchantment)* — _See Wizard spell list._
-- **Neutralise Poison** *(Conjuration)* — _See Cleric spell list ("Neutralize Poison")._
+- **Neutralize Poison** *(Conjuration)* — _See Cleric spell list ("Neutralize Poison")._
 - **Rainbow Pattern** *(Illusion)* — _See Wizard spell list._
 - **See Invisibility, Communal** *(Divination)* — _See Wizard spell list._
 - **Serenity** *(Enchantment)* — _See Wizard spell list._

@@ -68,7 +68,7 @@ The standard Slayer has the following level progression:
 | 20 | - | Slayer Talents | Master Slayer |
 
 #### Slayer Proficiencies
-Slayers are proficient with all simple and martial weapons, light and medium armour and shields.
+Slayers are proficient with all simple and martial weapons, light and medium armor and shields.
 
 #### Studied Target
 The Slayer can study a target as a move action, gaining a +1 bonus on weapon attacks and damage rolls against it as well as +1 to DCs of any Slayer class abilities. At 5th, 10th, 15th and 20th levels, the bonuses increase by +1 (maximum +5).
@@ -80,7 +80,7 @@ From 2nd level, the Slayer may select abilities from Rogue Talents, counting his
 The Slayer gains Trickery as a class skill along with the Rogue's Trapfinding ability, using his class level as his effective Rogue level.
 
 ##### Slayer Camouflage
-Requires Terrain Mastery and Advanced Talents. A Slayer can use the Stealth skill to hide in a favoured terrain even if the terrain doesn't grant cover.
+Requires Terrain Mastery and Advanced Talents. A Slayer can use the Stealth skill to hide in a favored terrain even if the terrain doesn't grant cover.
 
 Although the slayer can choose from Combat Style Feats, he can only do so three times in total and at certain levels: 2 or 4, 6 or 8 and 10 or greater.
 
@@ -380,7 +380,7 @@ The attack, damage and DC bonuses from Studied Target are increased by an additi
 A creature that takes sneak damage must make a Fortitude save (DC = 10 + class level / 2 + Intelligence modifier) or become sickened for 1d4 rounds.
 
 #### Assassinate
-At 10th level and outside combat, an Executioner may deliver a Coup de Grace attack to a studied target. At 14th level, when an Executioner assassinates a target, enemies within 30' become demoralised. At 19th level, an enemy surviving an assassinate attempt takes 2d6 bleed damage.
+At 10th level and outside combat, an Executioner may deliver a Coup de Grace attack to a studied target. At 14th level, when an Executioner assassinates a target, enemies within 30' become demoralized. At 19th level, an enemy surviving an assassinate attempt takes 2d6 bleed damage.
 
 ### Imitator
 Imitators are experts in a number of martial styles.
@@ -427,7 +427,7 @@ The Imitator gains +1 to attack and damage rolls, increasing by +1 every five cl
 The Imitator gains temporary HP equal to his class level. He gains Uncanny Dodge at 4th level and DR 1/- at 7th level. The damage reduction increases by +1 every three additional class levels (max 5/- at 19th level).
 
 ##### Monk Stance
-The Imitator gains Improved Unarmed Strike. At 2nd level, while unarmoured, he adds half his Intelligence modifier to his AC. At 4th level, he gains Evasion. At 8th level, his unarmed attacks count as magic and cold iron for the purposes of overcoming damage reduction. At 11th level, he gains an extra unarmed attack while unarmoured and a second additional attack at 20th level.
+The Imitator gains Improved Unarmed Strike. At 2nd level, while unarmored, he adds half his Intelligence modifier to his AC. At 4th level, he gains Evasion. At 8th level, his unarmed attacks count as magic and cold iron for the purposes of overcoming damage reduction. At 11th level, he gains an extra unarmed attack while unarmored and a second additional attack at 20th level.
 
 ##### Rogue Stance
 The Imitator gains 1d6 sneak attack plus 1d6 every additional three class levels (max 7d6 at 19th level). He gains Evasion at 4th level and Uncanny Dodge at 8th level.
@@ -496,7 +496,7 @@ A Stygian Slayer emerges from the shadows and goes "woo". Or something. He has t
 | 20 | - | Slayer Talents | Master Slayer |
 
 #### Stygian Slayer Proficiencies
-A Stygian Slayer can use all simple and martial weapons and light armour.
+A Stygian Slayer can use all simple and martial weapons and light armor.
 
 #### Invisibility
 At 4th level, a Stygian Slayer can cast invisibility once per day, using his class level as his caster level. He gains an additional use at 8th level and every 4 additional class levels (max 5 times at 20th level).

@@ -68,7 +68,7 @@ The standard Monk has the following level progression:
 | 20 | - | - | Ki Power | - | Ki Power: Perfect Self |
 
 #### AC Bonus
-When wearing no armour and shield and carrying a light load, the monk adds her Wisdom bonus to her AC and CMD. The Monk gains a +1 bonus to AC and CMD at 4th level and this increases by 1 for every 4 class levels (maximum +5 at 20th level).
+When wearing no armor and shield and carrying a light load, the monk adds her Wisdom bonus to her AC and CMD. The Monk gains a +1 bonus to AC and CMD at 4th level and this increases by 1 for every 4 class levels (maximum +5 at 20th level).
 
 #### Unarmed Strike
 A Medium-sized monk's unarmed attack damage increases with level:
@@ -162,15 +162,15 @@ The front-loading means that Monk varieties are the dip class par-excellence. A 
 
 A Drunken Master is similar to the base class - you punch things - but superior in every way because of the bonuses, resistances and immunities that they get from having ki points. Many of these are untyped or alchemical meaning they stack with everything else. Replenishing the ki pool is just a matter of drinking alcohol which you find everywhere and which you can buy in large quantities in case you start running short. The capstone is pretty decent as well.
 
-A Quarterstaff Master is better than the base class in most respects because a two-handed weapon benefits more from Strength bonuses and Power Attack. Combat manoeuvres are a poor use of a standard action, but having them added to your attacks for free is fantastic. A quarterstaff is another weapon with bad critical parameters so the damage isn't top tier. However, a Quarterstaff Master puts out damage comparable to a Two-Handed Fighter (or at least one armed with a quarterstaff) and Quarterstaff Master (12) / Two-Handed Fighter (8) is a decent combination (but be aware that most quarterstaffs in the game are for spellcasters).
+A Quarterstaff Master is better than the base class in most respects because a two-handed weapon benefits more from Strength bonuses and Power Attack. Combat maneuvers are a poor use of a standard action, but having them added to your attacks for free is fantastic. A quarterstaff is another weapon with bad critical parameters so the damage isn't top tier. However, a Quarterstaff Master puts out damage comparable to a Two-Handed Fighter (or at least one armed with a quarterstaff) and Quarterstaff Master (12) / Two-Handed Fighter (8) is a decent combination (but be aware that most quarterstaffs in the game are for spellcasters).
 
 A Sensei is not a good choice for the main character - you want to be punching fools, not making the rest of the party a little bit better. However, it is a good mercenary class; the ability to cast True Strike, Barkskin and Restoration on the entire party is very useful.
 
-A Sohei gives up very little for quite a lot: an animal companion, good weapon proficiencies, an initiative bonus and weapon training. Being able to use (Greater) Flurry with, say, a fauchard is incredible. However, until receive your first rank of weapon training, you can only use Flurry with quarterstaffs since you don't get proficiency in other monk weapons. Note, also, that although a Sohei is proficient with light armour, wearing any armour cancels the Wisdom AC bonus.
+A Sohei gives up very little for quite a lot: an animal companion, good weapon proficiencies, an initiative bonus and weapon training. Being able to use (Greater) Flurry with, say, a fauchard is incredible. However, until receive your first rank of weapon training, you can only use Flurry with quarterstaffs since you don't get proficiency in other monk weapons. Note, also, that although a Sohei is proficient with light armor, wearing any armor cancels the Wisdom AC bonus.
 
 Student of Stone is a race-specific archetype and not a very good one. You give up Fast Movement and (Improved) Evasion for ... not enough. Strength of Stone is decent because it basically gives you an untyped +1 bonus to attack and damage. But that's it. The designers clearly want you to explore the new unarmed feats with this archetype but Elemental Fist and Shaitan Style are awful.
 
-Zen Archer is quite a stacked class: improved damage dice with bows, Flurry with bows and a bunch of bonus archery feats. It's not as MAD as other Monk archetypes since you only need Dexterity OR Wisdom rather than Dexterity AND Wisdom. The reason is that both attributes boost the same things: AB and AC. You'll also need decent Strength to prevent your damage output from being pathetic. Note that Flurry of Blows does not stack with Rapid Shot / Manyshot. However, since Flurry gives you bonus attacks at Full AB rather than at a penalty, it is much better. Finally, be aware that Zen Archer is not the most damaging ranged class. That honour goes to a Slayer specialised in Archery. On the flip side, Zen Archer is an incredible three or four level dip for a ranged character
+Zen Archer is quite a stacked class: improved damage dice with bows, Flurry with bows and a bunch of bonus archery feats. It's not as MAD as other Monk archetypes since you only need Dexterity OR Wisdom rather than Dexterity AND Wisdom. The reason is that both attributes boost the same things: AB and AC. You'll also need decent Strength to prevent your damage output from being pathetic. Note that Flurry of Blows does not stack with Rapid Shot / Manyshot. However, since Flurry gives you bonus attacks at Full AB rather than at a penalty, it is much better. Finally, be aware that Zen Archer is not the most damaging ranged class. That honor goes to a Slayer specialized in Archery. On the flip side, Zen Archer is an incredible three or four level dip for a ranged character
 
 ### Drunken Master
 The Drunken Master archetype requires the *Dance of Masks* DLC.
@@ -364,7 +364,7 @@ This gives the Sensei the same capabilities as Bardic Performance and benefits f
 This is identical to the Bard's ability.
 
 #### Insightful Strike
-At 2nd level, a Sensei may use her Wisdom bonus in lieu of her Strength or Dexterity on attack rolls and combat manoeuvre checks with unarmed strikes and monk weapons.
+At 2nd level, a Sensei may use her Wisdom bonus in lieu of her Strength or Dexterity on attack rolls and combat maneuver checks with unarmed strikes and monk weapons.
 
 #### Inspire Competence
 Gained at 3rd level, this is identical to the Bard's ability.
@@ -388,7 +388,7 @@ Gained at 9th level, this is identical to the Bard's ability.
 At 10th level, the Sensei may expend one point from her ki pool to provide a single ally within 30' Evasion, Fast Movement or Purity of Soul. At 14th level, she may expend 2 points to grant an ability to all allies within 30' or else provide Improved Evasion to a single ally. The imparted abilities function at the Sensei's class level and last for 1 minute.
 
 ### Sohei
-A Sohei is a mounted specialist.
+A Sohei is a mounted specializt.
 
 - Loses most unarmed attack bonuses
 - Gains a mount
@@ -421,7 +421,7 @@ She has the following level progression:
 | 20 | - | - | Ki Power | - | Ki Power: Perfect Self |
 
 #### Sohei Proficiencies
-A Sohei is proficient with simple and martial weapons and light armour. From 3rd level, she may spend 1 point from her Ki Pool to grant her mount temporary HP equal to twice her class level for one hour per level.
+A Sohei is proficient with simple and martial weapons and light armor. From 3rd level, she may spend 1 point from her Ki Pool to grant her mount temporary HP equal to twice her class level for one hour per level.
 
 #### Skills
 A Sohei gains Lore (Nature) as a class skill.
@@ -435,7 +435,7 @@ A Sohei receives a bonus to initiative rolls equal to half her class level. At 2
 #### Flurry of Blows (Sohei)
 A Sohei can use Flurry of Blows with quarterstaffs and weapons that she is trained in.
 
-A Sohei can use Flurry of Blows while wearing light armour but only with trained weapons, not with quarterstaffs.
+A Sohei can use Flurry of Blows while wearing light armor but only with trained weapons, not with quarterstaffs.
 
 #### Bonus Feat (Sohei)
 Besides the normal Monk bonus feats a Sohei may select any mounted combat feats.

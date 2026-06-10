@@ -2,7 +2,7 @@
 source: GameFAQs WotR Guide 80843
 game_patch: 2.7.0
 ---
-# Feats — Combat Manoeuvres
+# Feats — Combat Maneuvers
 *14 feats. Source: GameFAQs WotR Guide (80843).*
 
 ## Defensive Combat Training
@@ -41,16 +41,16 @@ When you score a critical hit with a melee attack, you can additionally disarm y
 
 ## Sunder Armor
 **Prereq:** Power Attack
-You are able to perform the sunder armor combat manoeuvre with a +2 to CMB. If successful, your opponent loses its bonuses from armour for 1 round. For every 5 points by which your attack exceeds your opponent's CMD, the penalty lasts an additional round.
-You also gain +2 CMD when defending against this manoeuvre.
+You are able to perform the sunder armor combat maneuver with a +2 to CMB. If successful, your opponent loses its bonuses from armor for 1 round. For every 5 points by which your attack exceeds your opponent's CMD, the penalty lasts an additional round.
+You also gain +2 CMD when defending against this maneuver.
 
 ## Greater Sunder Armor
 **Prereq:** Sunder Armor, Base Attack Bonus: 6
-You receive an additional +2 to CMB when performing the manoeuvre and the duration increases to 1-4 rounds + 1 round for every 5 points by which your attack exceeds your opponent's CMD.
+You receive an additional +2 to CMB when performing the maneuver and the duration increases to 1-4 rounds + 1 round for every 5 points by which your attack exceeds your opponent's CMD.
 
 ## Trip
 **Prereq:** Combat Expertise or Kinetic Warrior + Intelligence 13
-Attempt to trip an opponent in place of a melee attack. If your attack is successful, the opponent is knocked prone. If the opponent has more than two legs, add +2 DC to the combat manoeuvre attack roll for each additional leg. Flying creatures, or creatures without legs cannot be tripped.
+Attempt to trip an opponent in place of a melee attack. If your attack is successful, the opponent is knocked prone. If the opponent has more than two legs, add +2 DC to the combat maneuver attack roll for each additional leg. Flying creatures, or creatures without legs cannot be tripped.
 The feat grants a +2 bonus to CMB when performing this feat and +2 bonus to CMD when defending against it.
 
 ## Fury's Fall

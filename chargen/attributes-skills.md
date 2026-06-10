@@ -70,7 +70,7 @@ Because of the non-linear cost of high attribute values, 18 Dexterity compared t
 
 An important thing to note is that bonuses accrue on even values above 10 (i.e. 12, 14, 16, etc.) so if you're going to buy one point, you may as well buy two. On the other hand, penalties accrue on odd values below 10 (i.e. 9, 7, 5). Therefore, if you're going to dock one point, you may as well dock two. However, docking *three* is disproportionately harmful since you can't buy a +2 bonus with four points.
 
-That said, there are circumstances under which you may want to select an odd-valued attribute. For example, the Combat Expertise feat has a pre-requisite of 13 Intelligence but Intelligence is of limited use to many combat-focused builds. In this case, it may better to spend the two points elsewhere than take 14 Intelligence. You may also want to select an odd-numbered value for attributes that you are intending to raise with your attribute points gained from levelling up.
+That said, there are circumstances under which you may want to select an odd-valued attribute. For example, the Combat Expertise feat has a pre-requisite of 13 Intelligence but Intelligence is of limited use to many combat-focused builds. In this case, it may better to spend the two points elsewhere than take 14 Intelligence. You may also want to select an odd-numbered value for attributes that you are intending to raise with your attribute points gained from leveling up.
 
 ### Attribute Bonuses
 The following table shows the bonuses at various attribute values. It also shows the the number of additional spells that you cast per day for a given spell level.
@@ -92,7 +92,7 @@ The following table shows the bonuses at various attribute values. It also shows
 | 28 | +9 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
 | 30 | +10 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 |
 
-The spellcasting attribute depends on the class. Note that you need 10 + *x* in an attribute to cast a level *x* spell so that, say, a Wizard with 10 Intelligence would only be able to memorise cantrips while he would require 19 Intelligence to memorise 9th level spells.
+The spellcasting attribute depends on the class. Note that you need 10 + *x* in an attribute to cast a level *x* spell so that, say, a Wizard with 10 Intelligence would only be able to memorize cantrips while he would require 19 Intelligence to memorize 9th level spells.
 
 ### Strength
 Strength contributes to the following:
@@ -140,7 +140,7 @@ Dexterity contributes to the following:
 - Mobility, Stealth and Trickery skills.
 
 **Do you need Strength?**
-For the purposes of melee attack and damage, you can use Dexterity but it costs you three feats: Weapon Finesse, Weapon Focus and Fencing / Slashing Grace. You'll need Agile Maneuvers as well if you want to use combat manoeuvres. Do not dump Strength, however. Otherwise you'll be burdened easily and lose all your Dexterity benefits. You'll also want to be able to unlock the necessary feats by level 2; level 3 (when Rogues get Dexterity to damage for free) is quite a long time to be doing scratch damage. Besides taking a while to get going, Dexterity builds are married to a single weapon type and have fewer ways to increase their damage output.
+For the purposes of melee attack and damage, you can use Dexterity but it costs you three feats: Weapon Finesse, Weapon Focus and Fencing / Slashing Grace. You'll need Agile Maneuvers as well if you want to use combat maneuvers. Do not dump Strength, however. Otherwise you'll be burdened easily and lose all your Dexterity benefits. You'll also want to be able to unlock the necessary feats by level 2; level 3 (when Rogues get Dexterity to damage for free) is quite a long time to be doing scratch damage. Besides taking a while to get going, Dexterity builds are married to a single weapon type and have fewer ways to increase their damage output.
 
 Do not take a Strength penalty if you are creating a bow user since you'll do reduced damage with each arrow.
 
@@ -164,7 +164,7 @@ Skills are useful which makes Intelligence useful on any character. 14 is suffic
 ### Wisdom
 Wisdom contributes to the following:
 
-- AC and CMD (Monk and Instinctual Warrior, no armour, no shield)
+- AC and CMD (Monk and Instinctual Warrior, no armor, no shield)
 - Will save
 - Lore and Perception skills.
 
@@ -173,7 +173,7 @@ Another relatively unimportant stat for non-spellcasters. The AC bonus is a comp
 ### Charisma
 Charisma contributes to the following:
 
-- AC and CMD (Scaled Fist, no armour, no shield)
+- AC and CMD (Scaled Fist, no armor, no shield)
 - Saving throws (Divine Favor Paladin feat)
 - Persuasion and Use Magic Device skills.
 
@@ -200,7 +200,7 @@ The following table shows the skills and which attributes they're driven off (no
 | Persuasion | - | - | - | - | ✓ | Diplomacy, intimidation, bluffing |
 | Use Magic Device | - | - | - | - | ✓ | Using wands and scrolls |
 
-Knowledge skills have a secondary role for analysing enemies: Knowledge (World) is used for humanoid enemies, Lore (Nature) for beasts and magical beasts, Knowledge (Arcana) for outsiders, constructs and the like and Lore (Religion) for undead.
+Knowledge skills have a secondary role for analyzing enemies: Knowledge (World) is used for humanoid enemies, Lore (Nature) for beasts and magical beasts, Knowledge (Arcana) for outsiders, constructs and the like and Lore (Religion) for undead.
 
 Persuasion is extremely important to the player character and Perception is useful on all party members (since each party member makes a separate Perception check). Athletics and Mobility are important for frontline characters but not so important for casters or ranged attackers. You will always want all other skills covered by your party.
 
@@ -265,7 +265,7 @@ The following table is an at-a-glance reference to how many skill points per lev
 | Wizard | 2 | - | - | - | - | ✓ | ✓ | ✓ | ✓ | - | - | - |
 | Scroll Savant | 2 | - | - | - | - | ✓ | ✓ | ✓ | ✓ | - | - | ✓ |
 
-*Pathfinder: WotR* is not forgiving of half measures. Select some skills to invest in and keep investing in them. If you spread yourself thin you will quickly start failing skill checks. There is, however, one reason to dip into certain skills. Various prestige classes require a minimum *rank* in one or more skills. Note that "rank" is the number of points you've invested through levelling up, not the bonus to a skill check which will also take into account attributes, racial bonuses, feats and so forth.
+*Pathfinder: WotR* is not forgiving of half measures. Select some skills to invest in and keep investing in them. If you spread yourself thin you will quickly start failing skill checks. There is, however, one reason to dip into certain skills. Various prestige classes require a minimum *rank* in one or more skills. Note that "rank" is the number of points you've invested through leveling up, not the bonus to a skill check which will also take into account attributes, racial bonuses, feats and so forth.
 
 | Class | ATH | MOB | TRI | STE | KNA | KNW | LON | LOR | PCP | PER | UMD |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -279,8 +279,8 @@ The following table is an at-a-glance reference to how many skill points per lev
 | Mystic Theurge | - | - | - | - | 3 | - | - | 3 | - | - | - |
 | Winter Witch | - | - | - | - | 5 | - | - | - | - | - | - |
 
-### Armour Penalties
-Skills which require agility and silence are penalised when wearing most armour: Athletics, Mobility and Stealth.
+### Armor Penalties
+Skills which require agility and silence are penalized when wearing most armor: Athletics, Mobility and Stealth.
 
 ### Trained Only
 Skills which require education may only be used if you have one or more ranks in that skill: Trickery, Knowledge (Arcana), Knowledge (World), Lore (Nature), Lore (Religion) and Use Magic Device.

@@ -67,7 +67,7 @@ The standard Rogue has the following level progression:
 | 20 | - | Rogue Talent | Master Strike | - |
 
 #### Rogue Proficiencies
-Rogues are proficient with all simple weapons, rapier, short sword and short bow. They are proficient with light armour but not with shields.
+Rogues are proficient with all simple weapons, rapier, short sword and short bow. They are proficient with light armor but not with shields.
 
 #### Trapfinding
 A Rogue adds half her class level on Perception checks.
@@ -126,7 +126,7 @@ Opponents damaged by the character's sneak attack cannot make attacks of opportu
 Add Lore (Nature) to your list of class skills.
 
 ##### Terrain Mastery
-The character gains a favoured terrain like the Ranger class feature but the bonus does not increase with level.
+The character gains a favored terrain like the Ranger class feature but the bonus does not increase with level.
 
 ##### Trailblazer
 Gain immunity to difficult terrain.
@@ -195,7 +195,7 @@ Take 10 when making Stealth or Trickery checks.
 Add your Dexterity modifier to saves vs. mind-affecting conditions.
 
 ##### Weapon Snatcher
-Make a Trickery check rather than a combat manoeuvre check when trying to disarm an opponent.
+Make a Trickery check rather than a combat maneuver check when trying to disarm an opponent.
 
 ##### Wearying Strike
 An enemy taking sneak attack damage also suffers 1 point of Constitution damage.
@@ -233,17 +233,17 @@ At 8th level, a Rogue cannot be flanked. An enemy Rogue cannot hit you with a sn
 At 20th level, when a Rogue deals sneak attack damage, she can kill the opponent outright if it fails a Fortitude save (DC 20 + Dexterity modifier). If the target makes its save, it becomes immune to the effect.
 
 ##### Playing a Rogue
-A Rogue specialises in precision damage. A Rogue, or one of its archetypes, is the easiest path to applying dexterity to damage since they get to apply it to three weapon types. Because of Finesse Training, Rogues are the only class able to add dexterity to damage while dual-wielding. However, there are a number of shortcomings not least of which is weak saves for both Fortitude and Will which typically come with more severe consequences than failing a Reflex save. The greatest shortcoming, however, is that there are a number of classes that can do what a Rogue does and a whole lot more, such as a Slayer, a Vivisectionist or even a Shadow Shaman.
+A Rogue specializes in precision damage. A Rogue, or one of its archetypes, is the easiest path to applying dexterity to damage since they get to apply it to three weapon types. Because of Finesse Training, Rogues are the only class able to add dexterity to damage while dual-wielding. However, there are a number of shortcomings not least of which is weak saves for both Fortitude and Will which typically come with more severe consequences than failing a Reflex save. The greatest shortcoming, however, is that there are a number of classes that can do what a Rogue does and a whole lot more, such as a Slayer, a Vivisectionist or even a Shadow Shaman.
 
 A Dark Lurker trades Evasion for a powerful ability against larger creatures and you may want to play a gnome or halfling to take best advantage of this. She also gains the Blind Fight line of feats but each one is received in place of a rogue talent which *could* be the corresponding feat but which could also be anything else.
 
-An Eldritch Scoundrel trades a lot of the Rogue's power for spellcasting. Since they gain access to the full wizard spell list, this is not bad. You can make up deficient defences with Mage Armor (and later Archmage Armor), Shield, Mirror Image and so forth. Sense Vitals makes up for some of the reduced sneak dice. I would not recommend going into Arcane Trickster because that hurts BAB without giving enough in return.
+An Eldritch Scoundrel trades a lot of the Rogue's power for spellcasting. Since they gain access to the full wizard spell list, this is not bad. You can make up deficient defenses with Mage Armor (and later Archmage Armor), Shield, Mirror Image and so forth. Sense Vitals makes up for some of the reduced sneak dice. I would not recommend going into Arcane Trickster because that hurts BAB without giving enough in return.
 
 A Knife Master has a USP of gaining more powerful sneak attacks with a specific set of weapons. An extra 1 damage per sneak die can amount to as much as 50 points of damage per round.
 
 The Master of All has a reputation of being one of the true stinker classes. However, this is unfair. If you're thinking of playing a Rogue in the first place, you're already committed to being a mid-level damage dealer with utility. Skills are useful and make the game more pleasant. A Master of All trades 2d6 sneak damage (you'd take Accomplished Sneak Attacker, after all) for - effectively - 58 skill points, all-in. That's actually a good trade and is something that you won't be getting from a Slayer, Vivisectionist or Shadow Shaman.
 
-A Rowdy trades subtlety for the Vital Strike line of feats and unlocks these much earlier than other classes: a Fighter won't be getting Greater Vital Strike until 16th level at least. You can boost this with as much as 70 points of precision damage on top of what are already damaging hits. You'll want to use a reach weapon (Glaive or Fauchard) to get around the problem of compromised defence since you will not be putting points into Dexterity. Also, be aware that a Two-Handed Fighter built for Vital Strike will do more damage than a Rowdy.
+A Rowdy trades subtlety for the Vital Strike line of feats and unlocks these much earlier than other classes: a Fighter won't be getting Greater Vital Strike until 16th level at least. You can boost this with as much as 70 points of precision damage on top of what are already damaging hits. You'll want to use a reach weapon (Glaive or Fauchard) to get around the problem of compromised defense since you will not be putting points into Dexterity. Also, be aware that a Two-Handed Fighter built for Vital Strike will do more damage than a Rowdy.
 
 A Sylvan Trickster doesn't pay too dearly for access to hexes, although Resist Nature's Lure instead of Uncanny Dodge is a horrible trade. The problem is one of synergy. A Rogue is an attacker, not a caster, and spending a round casting, say, Evil Eye is perhaps not the best use of her time. It is a decent dip to unlock Iceplant.
 
@@ -363,13 +363,13 @@ She has the following level progression:
 | 19 | Feat | - | - | Finesse Training | - |
 | 20 | - | Rogue Talent | Master Strike | - | - |
 
-^1 The Eldritch Scoundrel is not proficient with light armour.
+^1 The Eldritch Scoundrel is not proficient with light armor.
 
 #### Sneak Attack (Eldritch Scoundrel)
 At 1st level, the Eldritch Scoundrel deals extra damage when her opponent is denied Dexterity bonus or when she flanks her opponent. She does an additional 1d6 damage at 3rd level, increasing by 1d6 every four additional class levels (7, 11, 15, 19).
 
 ### Knife Master
-The Knife Master is a specialist in close-up fighting with small blades.
+The Knife Master is a specializt in close-up fighting with small blades.
 
 - Increased sneak attack damage.
 
@@ -551,7 +551,7 @@ The Thug is a menacing criminal. She has the following level progression:
 | 20 | - | Rogue Talent | Master Strike | - |
 
 #### Frightening
-Whenever a Thug uses Persuasion to demoralise a creature, the duration of the shaken condition is increased by 1 round. If the target is shaken for 4 or more rounds, it is additionally frightened for 1 round.
+Whenever a Thug uses Persuasion to demoralize a creature, the duration of the shaken condition is increased by 1 round. If the target is shaken for 4 or more rounds, it is additionally frightened for 1 round.
 
 #### Brutal Beating
 At 3rd level, when the Thug deals sneak attack damage, she can forego 1d6 of damage to make the target sickened for a number of rounds equal to half her class level. This ability does not stack - only the most recent duration applies.

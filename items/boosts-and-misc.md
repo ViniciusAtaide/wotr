@@ -41,7 +41,7 @@ If you need to boost skills generally or for a specific skill check, this page l
 | Boots of Wary Steps | Boots | +10 | Competence | Fleshmarkets |
 | Cloak of Disguise | Cloak | +3 | Competence | Tirabade Residence |
 | Devil Imp | Belt slot | +2 | Profane | Lost Chapel |
-| Mantle of Night | Leather Armour | +10 | Competence | Midnight Fane |
+| Mantle of Night | Leather Armor | +10 | Competence | Midnight Fane |
 | Panther's Grace | Studded Leather | +15 | Competence | Woljif |
 | Perilous Shade | Cloak | +10 | Competence | Nocticula |
 | Thiefling Ring | Ring | +2 / +3 | Competence | Sister Kerismei |
@@ -84,7 +84,7 @@ If you need to boost skills generally or for a specific skill check, this page l
 | Pipefox | Belt slot | +2 | Insight | Ancientries and Wonders Shop |
 | Rascals's Goggles | Goggles | +10 | Competence | Herrax |
 | Tiger | Belt slot | +2 | Morale | Market Square |
-| Trailblazer's Armor | Leather Armour | +10 | Competence | Woljif |
+| Trailblazer's Armor | Leather Armor | +10 | Competence | Woljif |
 | Persuasion |  |  |  |  |
 | Enlivening Leadership | Ring | +5 | Competence | Jewelry Trader |
 | Gloves of the Ambassador | Gloves | +5 | Competence | Arcane Weaver |
@@ -111,7 +111,7 @@ If you need to boost skills generally or for a specific skill check, this page l
 | Quarterstaff of the War Mage | Quarterstaff | +5 | Competence | Ivory Sanctum |
 
 ## Caster Level and Spell DC Boosting Items
-Whether you're looking to get 24-hour Haste or kill everyone in the room with Weird, you'll want to optimise your equipment.
+Whether you're looking to get 24-hour Haste or kill everyone in the room with Weird, you'll want to optimize your equipment.
 
 ### Caster Level Boosts
 | Item | Bonus | Circumstances | Location |
@@ -206,13 +206,13 @@ You will occasionally come across books that grant you bonuses when you read the
 | Baphomet the Uncaged | +1d6 sneak attack |  |
 
 ## Recipes
-When you camp, you can prepare a special meal if you have the necessary ingredients. To cook successfully, a character must make a DC check using her Knowledge (World) skill. All meals have beneficial effects but if a character's favourite food is prepared, they will enjoy additional benefits.
+When you camp, you can prepare a special meal if you have the necessary ingredients. To cook successfully, a character must make a DC check using her Knowledge (World) skill. All meals have beneficial effects but if a character's favorite food is prepared, they will enjoy additional benefits.
 
 Bonuses are cooking bonuses which stack with most other bonuses but not with themselves.
 
 Besides the listed ingredients, all recipes additionally require a Purifying Solution.
 
-| Recipe | Ingredients | DC | Effects | Favourite? | Location |
+| Recipe | Ingredients | DC | Effects | Favorite? | Location |
 | --- | --- | --- | --- | --- | --- |
 | Acorn Pie | Flour, Butter, Spellgorging Flower, Magical Acorn | 33 | +4 bonus to concentration checks +2 spell DC | Ember Daeran Nenio | Battlebliss Arena |
 | Blazing Parfait | Milk, Butter, Skullberry | 24 | +1 AC | Seelah | Crimson Dust |
@@ -229,7 +229,7 @@ Besides the listed ingredients, all recipes additionally require a Purifying Sol
 | Midnight Soup | Tainted Fowl, Onion, Midnight Morel | 21 | +1.5 HP / level | Daeran | Nameless Ruins |
 | Monster Casserole | Milk, Eggs, Corrupted Animal Meat | 22 | +2 weapon damage | Wenduag | Wintersun (Shrine of Gorum) |
 | Moss Potage | Edible Moss, Mix of Spices, Butter | 20 | +3 to skill checks | Greybor | Nightingale Grove |
-| Mulled Wine | Mix of Spices, Sweet Wine, Skullberry | 23 | +4 to skill checks -2 armour check penalty | Ulbrig | Fye the Tavern Keeper |
+| Mulled Wine | Mix of Spices, Sweet Wine, Skullberry | 23 | +4 to skill checks -2 armor check penalty | Ulbrig | Fye the Tavern Keeper |
 | Onion Soup | Edible Moss, Tainted Fowl, Onion | 17 | +1 to saving throws | Nenio | Gwerm's Mansion |
 | Screaming Omelet | Flametongue, Eggs, Cinderbloom, Mandragora Root | 34 | Fast Healing 1 +2 HP / level | Regill Seelah | Herrax |
 | Seasoned Wings and Thighs | Edible Moss, Tainted Fowl, Mix of Spices | 14 | +1 HP / level | - | Market Square |
@@ -238,8 +238,8 @@ Besides the listed ingredients, all recipes additionally require a Purifying Sol
 | Spicy Pastry | Flour, Mutated Fish, Flametongue | 15 | +5' movement speed | Woljif | Gemyl Hawkes |
 | Mind-cleaning Tea | Luminous Herb, Axis Crystals, Blue Honey, Disturbing Spices | 40 | +3 bonus to saving throws +3 bonus to attack and damage rolls against anomalies | - | *Inevitable Excess* DLC |
 
-### Favourite Foods
-Favourite food bonuses are shown below:
+### Favorite Foods
+Favorite food bonuses are shown below:
 
 - **Seelah**
 +3 to attack.

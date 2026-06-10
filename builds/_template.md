@@ -17,11 +17,11 @@ This file is the framework for producing build guides. It has two audiences, in 
 | **Race** | [race (heritage)] |
 | **Attributes** | Str X, Dex X, Con X, Int X, Wis X, Cha X (level-ups → [stat]) |
 | **Key class choices** | [curse/mystery/deity/bloodline/etc.] |
-| **Weapon & armour** | [loadout] |
+| **Weapon & armor** | [loadout] |
 | **Mythic Path** | [path + the one-line reason] |
 | **Party Fit** | [confirmed party assumptions: who partners teamwork feats, what roles this build must/needn't cover, known anti-synergies avoided] |
 
-## Levelling Table
+## Leveling Table
 *Just the picks. One row per level where you choose something.*
 
 | Level | Feat | Class Feature Choice | Notes |

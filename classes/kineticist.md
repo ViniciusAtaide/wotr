@@ -67,7 +67,7 @@ The standard Kineticist has the following level progression:
 | 20 | - | - | Wild Talents | - |
 
 #### Kineticist Proficiencies
-Kineticists are proficient with all simple weapons and light armour.
+Kineticists are proficient with all simple weapons and light armor.
 
 #### Burn
 The Kineticist may power up her abilities (or cast certain abilities in the first place) by accepting *Burn*. Each point of Burn does 1 HP nonlethal damage per class level and is cleared only after a night's rest. A Kineticist may accept 1 point of Burn per round, rising to 2 points at 6th level, +1 for every 3 additional class levels (maximum 6 at level 18). She may accept no more than her class level + her Constitution modifier.
@@ -124,7 +124,7 @@ The various blast types are shown in the table below:
 | Steam | Physical | Fire | Water | Half bludgeoning, half fire |
 | Thunderstorm | Physical | Air | Electric | Half bludgeoning, half electricity |
 
-Although the Kinetic Blast is a ranged attack, it benefits from some items that boost unarmed and natural attacks, notably Amulets of Agile Fists. This is presumably a bug but one which works in your favour.
+Although the Kinetic Blast is a ranged attack, it benefits from some items that boost unarmed and natural attacks, notably Amulets of Agile Fists. This is presumably a bug but one which works in your favor.
 
 #### Infusion
 The Kineticist may select any Infusion for which she qualifies. She gains new Infusions at 3rd, 5th, 9th, 11th, 13th, 17th and 19th levels. You may apply both a *Form* Infusion and a *Substance* Infusion to a given blast. Some Infusions can only be applied to certain blast types.
@@ -189,7 +189,7 @@ A Dark Elementalist loses access to the attribute increases from Elemental Burn 
 
 An Elemental Engine is a high risk class. You'll always want to be at maximum burn which can leave you very fragile.
 
-A Kinetic Knight plays rather differently. Restricted to melee, it is less versatile than the base class, but it has no party-unfriendly Form Infusions. Shroud of Water makes it defensively strong and multiple attacks with a 10d6 Kinetic Blade output a respectable DPS. The Blade Whirlwind form appears to be usable with a Composite Blast with 0 Burn cost, so you can spam a 20d6 AoE effect as well. On the other hand, the Kinetic Knight pays heavily for armour proficiencies, losing Metakinesis and Supercharge. Something to note is that *any* Kineticist can use Kinetic Blade without burn cost from 5th level so the advantage here is that a Kinetic Knight trades late-game power for an easier path through the early game.
+A Kinetic Knight plays rather differently. Restricted to melee, it is less versatile than the base class, but it has no party-unfriendly Form Infusions. Shroud of Water makes it defensively strong and multiple attacks with a 10d6 Kinetic Blade output a respectable DPS. The Blade Whirlwind form appears to be usable with a Composite Blast with 0 Burn cost, so you can spam a 20d6 AoE effect as well. On the other hand, the Kinetic Knight pays heavily for armor proficiencies, losing Metakinesis and Supercharge. Something to note is that *any* Kineticist can use Kinetic Blade without burn cost from 5th level so the advantage here is that a Kinetic Knight trades late-game power for an easier path through the early game.
 
 If you were expecting a Kinetic Sharpshooter to rain down blast-y death on your foes, you will be disappointed since you can still only use one blast per turn. An early advantage vs. the base class is 50' range *without* having add an infusion and you can also benefit from attack and damage bonuses from your weapon. However, a number of features are closed off, in particular the Deadly Earth infusion.
 
@@ -350,7 +350,7 @@ At 3rd level, an Elemental Engine receives an attack bonus equal to the number o
 From 7th level, while at maximum burn an Elemental Engine gains additional bonuses depending on which Elemental Focus was chosen at 1st level:
 
 - Air: you gain a +2 bonus to saves against spells with the electricity descriptor and you become immune to ground-based spells and abilities.
-- Earth: you gain a +2 bonus to saves against spells with the acid descriptor and a +4 bonus to CMD against trip, bull rush and pull manoeuvres.
+- Earth: you gain a +2 bonus to saves against spells with the acid descriptor and a +4 bonus to CMD against trip, bull rush and pull maneuvers.
 - Fire: you gain a +2 bonus to saves against spells with the fire descriptor and a +20 enhancement bonus to speed.
 - Water: you gain a +2 bonus to saves against spells with the cold descriptor. Creatures striking you in melee with a non-reach weapon must make a Fortitude save (DC = 10 + class level / 2 + Constitution modifier) or be slowed for 1 round.
 
@@ -358,7 +358,7 @@ From 7th level, while at maximum burn an Elemental Engine gains additional bonus
 From 13th level, while at maximum burn an Elemental Engine gains even more bonuses depending on which Elemental Focus was chosen at 1st level:
 
 - Air: you gain a +2 bonus to saves against spells with the electricity descriptor and you are under the effect of *Freedom of Movement*.
-- Earth: you gain a +2 bonus to saves against spells with the acid descriptor and immunity to trip, bull rush and pull manoeuvres.
+- Earth: you gain a +2 bonus to saves against spells with the acid descriptor and immunity to trip, bull rush and pull maneuvers.
 - Fire: you gain a +2 bonus to saves against spells with the fire descriptor you are under the effect of *Haste*.
 - Water: you gain a +2 bonus to saves against spells with the cold descriptor. Any enemy within 10' must make a Fortitude save (DC = 10 + class level / 2 + Constitution modifier) each round or be slowed for 1 round.
 
@@ -406,7 +406,7 @@ There are caveats with using the Kinetic Blade which affect the Kinetic Knight m
 - The blade does not benefit from Power Attack or Piranha Strike but it does benefit from Deadly Aim. Because the attack is calculated as a melee attack while the damage is calculated as a ranged attack, you get the damage bonus without paying an AB penalty. At maximum AB, this is +8 damage on each blade attack.
 
 #### Elemental Bastion
-At 1st level, the Kinetic Knight becomes proficient with medium and heavy armour and shields.
+At 1st level, the Kinetic Knight becomes proficient with medium and heavy armor and shields.
 
 There is an interface issue with shields. You cannot *equip* a shield with Kinetic Blade active. You have to switch off the blade, equip a shield in the offhand and then re-enable the Kinetic Blade. You can now use the shield.
 
@@ -620,7 +620,7 @@ The minimum Kineticist level to use a given Infusion is twice the Infusion's lev
 | Burn | 1 |
 | Blasts | Air, Blizzard, Charged water, Earth, Magma, Metal, Mud, Sandstorm, Steam, Water |
 | Saving Throw | N/A |
-| Attempt a bull rush combat manoeuvre against each target damaged by your infused blast, using your Constitution modifier to determine your Combat Maneuver Bonus. |  |
+| Attempt a bull rush combat maneuver against each target damaged by your infused blast, using your Constitution modifier to determine your Combat Maneuver Bonus. |  |
 
 #### Level 2
 ##### Bowling Infusion
@@ -630,7 +630,7 @@ The minimum Kineticist level to use a given Infusion is twice the Infusion's lev
 | Burn | 2 |
 | Blasts | Earth, Magma, Metal, Mud |
 | Saving Throw | N/A |
-| Attempt a trip combat manoeuvre against each target damaged by your infused blast, using your Constitution modifier to determine your Combat Maneuver Bonus. |  |
+| Attempt a trip combat maneuver against each target damaged by your infused blast, using your Constitution modifier to determine your Combat Maneuver Bonus. |  |
 
 ##### Entangling Infusion
 | Element | Earth, Water |
@@ -772,7 +772,7 @@ The minimum Kineticist level to use a given Infusion is twice the Infusion's lev
 | Burn | 3 |
 | Blasts | Any |
 | Saving Throw | Reflex negates |
-| A foe affected by your Cloud, Deadly Earth or Wall Blast must make a Reflex save or be grappled. Escaping is a combat manoeuvre, Athletics check or Mobility check against the DC of the spell. |  |
+| A foe affected by your Cloud, Deadly Earth or Wall Blast must make a Reflex save or be grappled. Escaping is a combat maneuver, Athletics check or Mobility check against the DC of the spell. |  |
 
 ##### Rending Arrows
 | Element | Universal |
@@ -943,7 +943,7 @@ DCs when applicable are 10 + the effective talent level + Constitution modifier.
 | --- | --- |
 | Type | Defensive |
 | Burn | Varies |
-| You may select a +4 armour bonus to AC or a +2 shield bonus. This bonus increases by +1 for every four class levels past 2. You can accept Burn to increase the AC bonus by as many points accepted. |  |
+| You may select a +4 armor bonus to AC or a +2 shield bonus. This bonus increases by +1 for every four class levels past 2. You can accept Burn to increase the AC bonus by as many points accepted. |  |
 
 ##### Skill Focus
 | Element | Universal |

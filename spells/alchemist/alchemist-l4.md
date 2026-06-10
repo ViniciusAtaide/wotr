@@ -16,7 +16,7 @@ game_patch: 2.7.0
 - **False Life, Greater** *(Necromancy)* — _See Wizard spell list._
 - **Freedom of Movement** *(Abjuration)* — _See Cleric spell list._
 - **Greater Invisibility** *(Illusion)* — _See Wizard spell list._
-- **Neutralise Poison** *(Conjuration)* — _See Cleric spell list ("Neutralize Poison")._
+- **Neutralize Poison** *(Conjuration)* — _See Cleric spell list ("Neutralize Poison")._
 - **Restoration** *(Conjuration)* — _See Cleric spell list._
 - **Stoneskin** *(Abjuration)* — _See Wizard spell list._
 - **Summon Nature's Ally V** *(Conjuration)* — _See Druid spell list._ *(Preservationist only)*

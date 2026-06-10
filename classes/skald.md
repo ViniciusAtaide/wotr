@@ -98,7 +98,7 @@ The standard Skald has the following level progression:
 A Skald shares a number of abilities with a Bard: Bardic Knowledge, Well Versed, Lore Master and Dirge of Doom. (Improved) Uncanny Dodge is the same as the Barbarian ability.
 
 #### Skald Proficiencies
-A Skald is proficient with all simple and martial weapons, light armour, medium armour and shields. She can cast magic while wearing light or medium armour and using a shield without risking arcane spell failure.
+A Skald is proficient with all simple and martial weapons, light armor, medium armor and shields. She can cast magic while wearing light or medium armor and using a shield without risking arcane spell failure.
 
 #### Raging Song
 The Skald can sing for a total of three rounds + her Charisma modifier per day. She can sing for an additional 2 rounds per class level.
@@ -154,7 +154,7 @@ A Herald of the Horn basically trades a DC bonus on sonic spells (there are six 
 
 The Hunt Caller is kinda useless. You are trading two rage powers for two useless abilities (I mean, would you *choose* the Scent ability?). Turning your front-liners into wolves, leopards or bears will simply make them weaker.
 
-Finally, an Inciter gives up two Rage Powers (not good) for sneak attacks and the ability to grant sneak damage to allies. The sneak damage is modest (maximum +4d6 for the Inciter and +3d6 for her allies) but this becomes weaponised from 14th level when you can grant Advanced Talents to the party. All your attackers having Dispelling Attacks or Crippling Blows is extremely good. She also trades any extra songs for the ability to debuff enemies. Given that Inspired Rage is the only song really worth using, losing others is neither here nor there. The capstone ability makes enemies debuffed without a save which is also decent. Whether it's better than hasting the party is another question.
+Finally, an Inciter gives up two Rage Powers (not good) for sneak attacks and the ability to grant sneak damage to allies. The sneak damage is modest (maximum +4d6 for the Inciter and +3d6 for her allies) but this becomes weaponized from 14th level when you can grant Advanced Talents to the party. All your attackers having Dispelling Attacks or Crippling Blows is extremely good. She also trades any extra songs for the ability to debuff enemies. Given that Inspired Rage is the only song really worth using, losing others is neither here nor there. The capstone ability makes enemies debuffed without a save which is also decent. Whether it's better than hasting the party is another question.
 
 ### Battle Scion
 A Battle Scion moves in more courtly circles. Her level progression is as follows:
@@ -237,7 +237,7 @@ As a standard action, a Battle Singer can spend 2 rounds of Raging Song to infli
 
 If Final Verse is used within 2 rounds of First Verse, it costs 1 less round of Raging Song, it is empowered and the DC increases by +2.
 
-If Final Verse is used within 2 rounds of Second Verse, it costs 1 less round of Raging Song, it is maximised and the DC increases by +2.
+If Final Verse is used within 2 rounds of Second Verse, it costs 1 less round of Raging Song, it is maximized and the DC increases by +2.
 
 ### Court Poet
 A Court Poet moves in elevated circles.
@@ -395,7 +395,7 @@ At 10th level, a Hunt Caller can expend 1 round of raging song to turn herself a
 ### Inciter
 The Inciter archetype requires the *Dance of Masks* DLC.
 
-An Inciter specialises in deceit and subterfuge.
+An Inciter specializes in deceit and subterfuge.
 
 - Does not gain additional songs
 - Gain fewer Rage powers

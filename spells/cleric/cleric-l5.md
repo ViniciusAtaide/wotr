@@ -31,4 +31,4 @@ game_patch: 2.7.0
 - **Summon Large Elemental** *(Conjuration)* — _See Wizard spell list._
 - **Summon Monster V** *(Conjuration)* — _See Wizard spell list._
 - **True Seeing** *(Divination)* — _See Wizard spell list._
-- **Vinetrap** *(Conjuration)* — T: One enemy creature within long range | Dur: 1 round / level | Save: Reflex partial — The target becomes paralysed and entangled. A successful Reflex save negates the paralysis and the subject may attempt a new saving throw each round. An entangled subject takes 2d4 points of piercing damage per round.
+- **Vinetrap** *(Conjuration)* — T: One enemy creature within long range | Dur: 1 round / level | Save: Reflex partial — The target becomes paralyzed and entangled. A successful Reflex save negates the paralysis and the subject may attempt a new saving throw each round. An entangled subject takes 2d4 points of piercing damage per round.

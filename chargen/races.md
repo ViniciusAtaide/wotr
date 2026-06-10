@@ -48,7 +48,7 @@ Compared to humans, elves trade flexibility for some decent but fixed bonuses: a
 ### Dwarf
 | Ability Modifiers | +2 Constitution, Wisdom; -2 Charisma |
 | --- | --- |
-| Racial Traits | Slow and Steady: base speed of 20' but unmodified by armour |
+| Racial Traits | Slow and Steady: base speed of 20' but unmodified by armor |
 | Stability: +4 bonus to Combat Maneuver Defense when resisting a bull rush or trip attempt |  |
 | Hardy: +2 racial bonus on saving throws against poison, spells and spell-like abilities |  |
 | Defensive Training - Giants: +4 dodge bonus to AC vs. monsters of the giant subtype |  |
@@ -62,7 +62,7 @@ Most of the racial bonuses are circumstantial, although the Hardy trait is quite
 #### Barrow Dwarf
 | Ability Modifiers | +2 Constitution, Wisdom; -2 Charisma |
 | --- | --- |
-| Racial Traits | Slow and Steady: base speed of 20' but unmodified by armour |
+| Racial Traits | Slow and Steady: base speed of 20' but unmodified by armor |
 | Stability: +4 bonus to Combat Maneuver Defense when resisting a bull rush or trip attempt |  |
 | Hardy: +2 racial bonus on saving throws against poison, spells and spell-like abilities |  |
 | Dwarven Weapon Familiarity: Proficient with battleaxes, heavy picks and warhammers; Dwarven Urgrosh and Dwarven Waraxe are treated as martial weapons rather than exotic weapons |  |
@@ -71,7 +71,7 @@ Most of the racial bonuses are circumstantial, although the Hardy trait is quite
 #### Unstoppable Dwarf
 | Ability Modifiers | +2 Constitution, Wisdom; -2 Charisma |
 | --- | --- |
-| Racial Traits | Slow and Steady: base speed of 20' but unmodified by armour |
+| Racial Traits | Slow and Steady: base speed of 20' but unmodified by armor |
 | Hardy: +2 racial bonus on saving throws against poison, spells and spell-like abilities |  |
 | Hatred - Orcs and Goblinoids: +1 bonus to attack rolls against creatures of the orc and goblinoid subtypes |  |
 | Dwarven Weapon Familiarity: Proficient with battleaxes, heavy picks and warhammers; Dwarven Urgrosh and Dwarven Waraxe are treated as martial weapons rather than exotic weapons |  |
@@ -315,7 +315,7 @@ Specific Aasimar bonuses depend on the selected heritage but +4 attribute points
 | Racial Traits | Fiendish Resistance: 5 resistance to cold, electricity and fire |
 | +2 bonus to Persuasion |  |
 | 1/day: Invisibility |  |
-| +2 bonus to combat manoeuvre checks and combat manoeuvre defence |  |
+| +2 bonus to combat maneuver checks and combat maneuver defense |  |
 
 ### Tiefling (Motherless)
 | Ability Modifiers | +2 Strength, Wisdom; -2 Intelligence |
@@ -342,7 +342,7 @@ Specific Aasimar bonuses depend on the selected heritage but +4 attribute points
 | +2 bonus to Mobility |  |
 | +2 bonus to Persuasion (Intimidate) |  |
 | 1/day: Web |  |
-| +1 natural armour bonus to AC |  |
+| +1 natural armor bonus to AC |  |
 
 ### Tiefling (Spitespawn)
 | Ability Modifiers | +2 Dexterity, Charisma; -2 Intelligence |
@@ -358,7 +358,7 @@ Tieflings are more balanced than Aasimar. Several heritages apply an Intelligenc
 ### Oread
 | Ability Modifiers | +2 Strength, Wisdom; -2 Charisma |
 | --- | --- |
-| Racial Traits | Slow Movement (Dwarf Blooded): base speed of 20' but unmodified by armour |
+| Racial Traits | Slow Movement (Dwarf Blooded): base speed of 20' but unmodified by armor |
 | Keen Senses: +2 bonus to Perception checks |  |
 | 5 acid resistance |  |
 | Acid Affinity: +1 DC when casting spells with the acid descriptor |  |
@@ -370,7 +370,7 @@ The Oread plays more or less identically to a dwarf, albeit trading Hardy and we
 #### Oread (Gemsoul)
 | Ability Modifiers | +2 Strength, Wisdom; -2 Charisma |
 | --- | --- |
-| Racial Traits | Slow Movement (Dwarf Blooded): base speed of 20' but unmodified by armour |
+| Racial Traits | Slow Movement (Dwarf Blooded): base speed of 20' but unmodified by armor |
 | Keen Senses: +2 bonus to Perception checks |  |
 | 5 acid resistance |  |
 | Acid Affinity: +1 DC when casting spells with the acid descriptor |  |
@@ -379,7 +379,7 @@ The Oread plays more or less identically to a dwarf, albeit trading Hardy and we
 #### Oread (Ironsoul)
 | Ability Modifiers | +2 Strength, Wisdom; -2 Charisma |
 | --- | --- |
-| Racial Traits | Slow Movement (Dwarf Blooded): base speed of 20' but unmodified by armour |
+| Racial Traits | Slow Movement (Dwarf Blooded): base speed of 20' but unmodified by armor |
 | Keen Senses: +2 bonus to Perception checks |  |
 | 5 acid resistance |  |
 | Acid Affinity: +1 DC when casting spells with the acid descriptor |  |

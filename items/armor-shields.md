@@ -6,28 +6,28 @@ game_patch: 2.7.0
 *Source: GameFAQs WotR Guide (80843).*
 _Part of items/: weapons, armor-shields, accessories, artifacts-relics, boosts-and-misc._
 
-## Armour
-Armour improves AC but also imposes penalties to certain skills (Athletics. Mobility, Stealth) and increases the chance of arcane spell failure. In most cases, these penalties scale with the armour's weight. There is also a maximum Dexterity bonus for a given armour so that a character with 16 Dexterity will only receive a +2 Dodge AC bonus when wearing chainmail.
+## Armor
+Armor improves AC but also imposes penalties to certain skills (Athletics. Mobility, Stealth) and increases the chance of arcane spell failure. In most cases, these penalties scale with the armor's weight. There is also a maximum Dexterity bonus for a given armor so that a character with 16 Dexterity will only receive a +2 Dodge AC bonus when wearing chainmail.
 
-| Armour | AC | Armor Penalty | Spell Failure | Dex | Weight |
+| Armor | AC | Armor Penalty | Spell Failure | Dex | Weight |
 | --- | --- | --- | --- | --- | --- |
-| Light Armour |  |  |  |  |  |
+| Light Armor |  |  |  |  |  |
 | Padded Armor | +1 | 0 | +5% | +8 | 10 |
 | Leather Armor | +2 | 0 | +10% | +8 | 15 |
 | Studded Leather | +3 | -1 | +15% | +5 | 20 |
 | Chainshirt | +4 | -2 | +20% | +4 | 25 |
-| Medium Armour |  |  |  |  |  |
+| Medium Armor |  |  |  |  |  |
 | Hide Armor | +4 | -3 | +20% | +4 | 25 |
 | Scalemail | +5 | -4 | +25% | +3 | 30 |
 | Chainmail | +6 | -5 | +30% | +2 | 40 |
 | Breastplate | +6 | -4 | +25% | +3 | 30 |
-| Heavy Armour |  |  |  |  |  |
+| Heavy Armor |  |  |  |  |  |
 | Banded Mail | +7 | -6 | +35% | +1 | 35 |
 | Half-Plate | +8 | -7 | +40% | 0 | 50 |
 | Full-Plate | +9 | -6 | +35% | +1 | 50 |
 
 ## Shields
-Shields add to your AC but also impose additional penalties to the skills negatively affected by armour and they further increase the chance of arcane spell failure. If you have the necessary feats, you can use your shield as an additional weapon. You cannot, however, use a buckler or tower shield for bashing. Damage figures are for medium sized characters.
+Shields add to your AC but also impose additional penalties to the skills negatively affected by armor and they further increase the chance of arcane spell failure. If you have the necessary feats, you can use your shield as an additional weapon. You cannot, however, use a buckler or tower shield for bashing. Damage figures are for medium sized characters.
 
 | Type | AC | Armor Penalty | Spell Failure | Bash | Weight |
 | --- | --- | --- | --- | --- | --- |
@@ -36,15 +36,15 @@ Shields add to your AC but also impose additional penalties to the skills negati
 | Heavy Shield | +2 | -2 | +15% | 1d4 | 15 |
 | Tower Shield | +4 | -10 | +50% | - | 45 |
 
-## Unique Armour
-### Unique Armour
+## Unique Armor
+### Unique Armor
 #### Armor Properties
 - **Adamantine**
 1/- DR (light), 2/- DR (medium), 3/- DR (heavy).
 - **Mithral
-**Weight is reduced by 50%. Heavy armour is treated as medium armour while medium armour is treated as light armour. Spell failure is reduced by 10%. maximum Dexterity bonus is increased by 2 and armour check penalty is reduced by 3.
+**Weight is reduced by 50%. Heavy armor is treated as medium armor while medium armor is treated as light armor. Spell failure is reduced by 10%. maximum Dexterity bonus is increased by 2 and armor check penalty is reduced by 3.
 - **Singing Steel**
-Heavy armour is treated as medium armour while medium armour is treated as light armour. Spell failure is reduced by 5%. maximum Dexterity bonus is increased by 1 and armour check penalty is reduced by 1. Bardic performance is one action category quicker (i.e. a standard action becomes a move action, a move action becomes a swift action and a swift action becomes a free action).
+Heavy armor is treated as medium armor while medium armor is treated as light armor. Spell failure is reduced by 5%. maximum Dexterity bonus is increased by 1 and armor check penalty is reduced by 1. Bardic performance is one action category quicker (i.e. a standard action becomes a move action, a move action becomes a swift action and a swift action becomes a free action).
 
 | Name | Ench. | Properties | Special | Cost | Where / How to Get |
 | --- | --- | --- | --- | --- | --- |
@@ -53,9 +53,9 @@ Heavy armour is treated as medium armour while medium armour is treated as light
 | Deadly Rays | +5 | - | +4 insight bonus to ranged touch attack rolls | - | Ineluctable Prison |
 | Haramaki of Divine Guidance | +4 | - | +4 sacred bonus to saving throws | - | Woljif |
 | Impending Eclipse | +5 | - | Immune to elemental damage for the first 3 rounds of combat | - | Areshkagal |
-| Padded Armour |  |  |  |  |  |
+| Padded Armor |  |  |  |  |  |
 | Armor of Vigilant Sprouts | +4 | - | When hit by a sneak attack or attack of opportunity, the attacker is entangled for 3 rounds (Reflex DC 28) | - | Flayer Twins |
-| Leather Armour |  |  |  |  |  |
+| Leather Armor |  |  |  |  |  |
 | Delamere's Armor | +3 | - | +2 effective caster level with Plant domain spells | - | Temple of the Good Hunt |
 | Desert Mirage | +5 | - | +15 competence bonus to Trickery When making a save, gain the effects of Displacement for 1 round | - | Nocticula's Boudoir |
 | Mantle of Night | +3 | - | +10 competence bonus to Stealth checks When the wearer loses invisibility, they become blurred for 1d4 rounds | - | Midnight Fane |
@@ -71,7 +71,7 @@ Heavy armour is treated as medium armour while medium armour is treated as light
 | Lady Callandra's Chainshirt | +2 | Mithral | - | - | Tower of Estrod |
 | Purging Chains | +5 | Adamantine | Immunity to ability damage | 75000 | Skeletal Salesman |
 | Royal Messenger's Chainshirt | +4 | Mithral | +4 bonus to Reflex saves +10 competence bonus to Mobility checks | 46000 | Wirlong Black Mask |
-| Hide Armour |  |  |  |  |  |
+| Hide Armor |  |  |  |  |  |
 | Animalistic Perseverance | +5 | - | Immunity to fire and cold while polymorphed +15 competence bonus to Lore (Nature) checks | - | Crusaders Camp (Iz) |
 | Hide Armor of Elemental Carnage | +4 | - | When casting a spell with the fire, electricity, cold or acid descriptor, add +1 per die of damage | 49800 | Gesmerha |
 | Tribal Scout's Hide | +5 | - | +10 competence bonus to Stealth While in Stealth or invisible, all attacks deal +6 force damage | 67750 | Woljif |
@@ -88,7 +88,7 @@ Heavy armour is treated as medium armour while medium armour is treated as light
 | Beacon of Carnage | +4 | - | Grants the wearer DR 2/-, +1 for each enemy in melee range (max DR 5/-) | - | Hepzamirah |
 | Breastplate of the Tireless Warrior | +5 | Adamantine | Wearer is immune to fatigue and exhaustion | - | Crusade mode |
 | Great Bear Breastplate | +5 | - | Cold Resistance 30 Moderate Fortification Spell Resistance 19 | - | Dead Warrior Maiden |
-| Life Infuser | +5 | - | Moderate Foritification +8 armour bonus to Constitution and Strength | 250000 | Shopkeeper (Kenabres) |
+| Life Infuser | +5 | - | Moderate Foritification +8 armor bonus to Constitution and Strength | 250000 | Shopkeeper (Kenabres) |
 | Living Ram | +1 | - | When charging, deal 1d6 bludgeoning damage; Target is knocked prone (Reflex DC 17) | 10000 | Joran Vhane |
 | Promise of Greatness | +4 | - | The first spell cast in combat is bolstered | 47000 | Wirlong Black Mask |
 | Rock of Nature | +2 | - | +2 insight bonus to AC vs. attacks made with natural weapons | 13700 | Wilcer Garms |

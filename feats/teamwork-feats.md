@@ -13,10 +13,10 @@ When adjacent to an ally with this feat, you receive a +2 bonus to concentration
 When you are flanked and adjacent to an ally with this feat, you receive a +2 circumstance bonus to AC against attacks from opponents flanking you.
 
 ## Coordinated Defense
-When adjacent to an ally with this feat, you receive a +2 competence bonus to your Combat Manoeuvre Defense. If the creature attempting the manoeuvre is larger than both you and your ally, the bonus increases to +4.
+When adjacent to an ally with this feat, you receive a +2 competence bonus to your Combat Maneuver Defense. If the creature attempting the maneuver is larger than both you and your ally, the bonus increases to +4.
 
 ## Coordinated Maneuvers
-When adjacent to an ally with this feat, you receive a +2 competence bonus to all combat manoeuvre checks. If you are attempting to break free from a grapple, the bonus increases to +4.
+When adjacent to an ally with this feat, you receive a +2 competence bonus to all combat maneuver checks. If you are attempting to break free from a grapple, the bonus increases to +4.
 
 ## Outflank
 **Prereq:** Base Attack Bonus: 4

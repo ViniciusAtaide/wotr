@@ -55,12 +55,12 @@ A character may select an optional background which provides bonus proficiencies
 | Warrior |  |  |  |
 | Bounty Hunter | Stealth | Light Armor, Club, Light Mace, Heavy Mace | - |
 | Gladiator | Persuasion | Trident, Shortsword, Light Armor, Buckler |  |
-| Guard | Perception | Shortsword, Light Crossbow, Light Armour |  |
+| Guard | Perception | Shortsword, Light Crossbow, Light Armor |  |
 | Mercenary | Knowledge (World) | Light Armor, Spear, Longspear, Javelin |  |
 
-For what is supposed to be a bit of flavour, the Oblate backgrounds are very powerful. For example, for most classes which are not dependent on Charisma, the *Persuasion* skill is a reason not to dump Charisma. However, making Wisdom the governing attribute means that you can move points from Charisma into Wisdom for bonuses to Perception and Will.
+For what is supposed to be a bit of flavor, the Oblate backgrounds are very powerful. For example, for most classes which are not dependent on Charisma, the *Persuasion* skill is a reason not to dump Charisma. However, making Wisdom the governing attribute means that you can move points from Charisma into Wisdom for bonuses to Perception and Will.
 
 A Martial Disciple gets Improved Unarmed Strike which opens up the Crane Style line of feats without having to pay the full feat tax or take an otherwise-unwanted Monk level.
 
-When a background gives you proficiencies, you will also receive a +1 enhancement bonus with those weapons or armour if you are already proficient in them. If skills granted by a background are already class skills, you will receive a +1 competence bonus.
+When a background gives you proficiencies, you will also receive a +1 enhancement bonus with those weapons or armor if you are already proficient in them. If skills granted by a background are already class skills, you will receive a +1 competence bonus.
 

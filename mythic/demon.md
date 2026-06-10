@@ -69,7 +69,7 @@ You gain a bonus on Mobility, Trickery and Use Magic Device skill checks equal t
 You gain a bonus on Athletics, Lore (Nature) and Persuasion skill checks equal to half your mythic rank + 1. When you cast a spell, its DC increases by +1. This increases by +1 at 6th and 9th ranks. You also gain a +4 bonus to damage rolls, increasing by an additional +2 at 6th and 9th ranks.
 
 ##### Aspect of Kalavakus
-You gain a bonus on Athletics, Perception and Use Magic Device skill checks equal to half your mythic rank + 1. You gain a +2 bonus to CMB, CMD and natural armour bonus to AC, increasing by +1 at 6th and 9th ranks. When you make a successful combat manoeuvre, you can make an attack against that target as a free action. When making a charge attack, you can attempt to disarm the target as a free action.
+You gain a bonus on Athletics, Perception and Use Magic Device skill checks equal to half your mythic rank + 1. You gain a +2 bonus to CMB, CMD and natural armor bonus to AC, increasing by +1 at 6th and 9th ranks. When you make a successful combat maneuver, you can make an attack against that target as a free action. When making a charge attack, you can attempt to disarm the target as a free action.
 
 ##### Aspect of Nabasu
 You gain a bonus on Athletics, Lore (Religion) and Use Magic Device skill checks equal to half your mythic rank + 1. You gain a +2 bonus to saving throws, increasing by +1 at 6th and 9th ranks. All enemies with 30' receive a -1 penalty to Fortitude saves and attack rolls. These penalties increase by 1 at 6th and 9th ranks.
@@ -155,7 +155,7 @@ At 9th rank, you can summon a Balor for 1 minute.
 ##### Playing a Demon
 If you were expecting Demon to be, for want of a better word, a monster, you may be disappointed. Essentially, the problem with the Demon path is that its core ability has very limited uses. For the majority of your time as a Demon, you can rage no more three times a day. Even at 10th rank, you are limited to five uses. This is compounded by the party-unfriendly nature of many demonic abilities (i.e. "All creatures" rather than "All enemies").
 
-Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrager like you might expect. Despite the - mostly - indifferent spellbook, the best synergy is an Intelligence-based save-or-else caster. This is because Demonic Rage can give you very high DC bonuses (the rage itself gives you +2 and the aspects of Incubus, Succubus and Coloxus increase DC, lower enemy saves and increase your casting attribute). Alternatively, the Demonic Charge ability (which isn't limited) favours a Vital Strike build.
+Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrager like you might expect. Despite the - mostly - indifferent spellbook, the best synergy is an Intelligence-based save-or-else caster. This is because Demonic Rage can give you very high DC bonuses (the rage itself gives you +2 and the aspects of Incubus, Succubus and Coloxus increase DC, lower enemy saves and increase your casting attribute). Alternatively, the Demonic Charge ability (which isn't limited) favors a Vital Strike build.
 
 ### Demon Spells
 #### Level 1
@@ -199,7 +199,7 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | You are hasted for the duration of the effect. Killing an enemy prolongs the effect for 1 round. If the creature had more HD that your caster level, the duration is prolonged by 3 rounds instead. |  |
 
 ##### Consume Fear (Necromancy)
-| Target | All creatures within a 10' burst centred on target creature within medium range |
+| Target | All creatures within a 10' burst centered on target creature within medium range |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | Will partial |
@@ -275,7 +275,7 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | The target is healed 2d8 damage + 1 HP per caster level. For every dead creature within 30', the spell restores an additional 1d8 damage. |  |
 
 ##### Profane Hymn (Transmutation)
-| Target | All enemies within a 40' burst centred on the caster |
+| Target | All enemies within a 40' burst centered on the caster |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | None |
@@ -291,7 +291,7 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| The target receives 1d6 force damage per caster level. If it fails its Fortitude save, it is knocked prone and you can pull or push it with a combat manoeuvre check using caster level in place of BAB and your casting attribute in place of strength. |  |
+| The target receives 1d6 force damage per caster level. If it fails its Fortitude save, it is knocked prone and you can pull or push it with a combat maneuver check using caster level in place of BAB and your casting attribute in place of strength. |  |
 
 #### Level 4
 | Spell | School |
@@ -332,10 +332,10 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| You gain a natural armour bonus equal to 1 + 1 per 3 caster levels and DR 10/cold iron and good. You ignore the first 10 points of weapon damage and when the spell has prevented total damage of 10 points per caster level, it is discharged. |  |
+| You gain a natural armor bonus equal to 1 + 1 per 3 caster levels and DR 10/cold iron and good. You ignore the first 10 points of weapon damage and when the spell has prevented total damage of 10 points per caster level, it is discharged. |  |
 
 ##### Channel Rage, Communal (Transmutation)
-| Target | Allies within a 30' burst centred on the caster |
+| Target | Allies within a 30' burst centered on the caster |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | N/A |
@@ -355,7 +355,7 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | For the duration of the effect, you can assume the form of a glabrezu, vrock or nalfeshnee demon. |  |
 
 ##### Infectious Rage (Transmutation)
-| Target | Enemies within a 30' burst centred on the caster |
+| Target | Enemies within a 30' burst centered on the caster |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | Will negates |
@@ -389,7 +389,7 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | Wracking Ray | Necromancy |
 
 ##### Abyssal Storm (Evocation)
-| Target | All creatures within a 40' burst centred on the caster |
+| Target | All creatures within a 40' burst centered on the caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -427,7 +427,7 @@ Demon has no obvious class synergy - certainly not with a Barbarian or Bloodrage
 | For the duration of the effect, the target's weapon becomes a +5 Living Bane weapon. |  |
 
 ##### Telekinetic Burst (Transmutation)
-| Target | All enemies within a 30' burst centred on the caster |
+| Target | All enemies within a 30' burst centered on the caster |
 | --- | --- |
 | Saving Throw | Fortitude partial |
 | Spell Resistance | N/A |

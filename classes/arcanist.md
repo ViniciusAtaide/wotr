@@ -105,7 +105,7 @@ Arcanists are proficient with all simple weapons.
 The Arcanist has a reservoir of magical energy. Its maximum capacity is her class level +3 and when she rests, the reservoir is partially filled to half her class level +3. When casting a spell, the Arcanist may spend a point from her reservoir as a free action to increase either the effective caster level or the DC of the spell by +1.
 
 #### Consume Spells
-The Arcanist may sacrifice a casting of a memorised spell to add points to her Arcane Reservoir, gaining 1 point for each level of the sacrificed spell.
+The Arcanist may sacrifice a casting of a memorized spell to add points to her Arcane Reservoir, gaining 1 point for each level of the sacrificed spell.
 
 #### Arcanist Exploits
 Exploits cost a varying number of Arcane Reservoir points. When an exploit requires a saving throw, the DC is 10 + half the Arcanist's level + the Arcanist's Charisma modifier.
@@ -239,7 +239,7 @@ If the target fails its saving throw against the Acid Jet, it takes additional a
 At 20th level, the Arcanist can cast any spell she has prepared by expending a number of points from her Arcane Reservoir equal to the level of the spell to be cast.
 
 ##### Playing an Arcanist
-An Arcanist plays similarly to a Wizard or a Sorcerer. Compared to a Sorcerer, you don't have to wait until you level up to learn a new spell - you just copy a scroll. Compared to a Wizard, you can cast your favourite spells until you run out of juice. However, compared to a bloodline or five bonus feats combined with some of the specialist wizard abilities, a handful of exploits aren't that great. You will also find the number of spell slots (no more than 3 for higher level spells) extremely limiting.
+An Arcanist plays similarly to a Wizard or a Sorcerer. Compared to a Sorcerer, you don't have to wait until you level up to learn a new spell - you just copy a scroll. Compared to a Wizard, you can cast your favorite spells until you run out of juice. However, compared to a bloodline or five bonus feats combined with some of the specializt wizard abilities, a handful of exploits aren't that great. You will also find the number of spell slots (no more than 3 for higher level spells) extremely limiting.
 
 Besides the limitations of how Arcanists prepare their spells, the Arcane Reservoir is bugged and will randomly drop to 0 for no apparent reason and you won't notice until you try to increase the caster level or DC of a spell.
 
@@ -249,12 +249,12 @@ A White Mage is slightly superior to the base class. Trading one exploit for spo
 
 A Magic Deceiver has a unique class mechanic. Despite the (highly) restricted spellbook, some Spell Fusion combinations are very powerful. A simple AoE Hideous Laughter can disable enemies en-masse more effectively than Best Jokes. Later on, you can combine Phantasmal Killer with a Fireball or Greater Dispel Magic with Chain Lightning. Indeed, since dispelling enemy buffs is the difference between an unbeatable and easy boss fight, Magic Deceivers can be the best dispellers, especially since they should have the feat capacity for (Greater) Dispel Focus (Metamagic feats are more or less useless and you may find that you can get away without taking Spell Penetration feats). The best subclass is Living Deity since the Nature Mystery, for example, can give you an animal companion and the capstone abilities are excellent. The best Mythic path is Azata since fused spells benefit from Favorable Magic and Zippy Magic.
 
-A Phantasmal Mage is an interesting and flavourful choice. However, given that a gnome receives a bonus to her *Charisma*, an Arcane Sorcerer with a School Power choice of Illusion is simply better in every way.
+A Phantasmal Mage is an interesting and flavorful choice. However, given that a gnome receives a bonus to her *Charisma*, an Arcane Sorcerer with a School Power choice of Illusion is simply better in every way.
 
 Finally, the Brown-Fur Transmuter *should* be good. Casting *Legendary Proportions* on a high-DPR party member is already one of the best uses of a 7th-level spell slot and Powerful Change supercharges it. The ability to cast spells with personal range on allies is one shared with an Alchemist and the BFT has the entire Wizard spell book to play with so that you can stick Dragonkind III on an animal companion, for example, or Frightful Aspect on a frontliner. However, a couple of factors make it not fun to play. One of them is the bug with the Arcane Reservoir dropping randomly to 0 which affects a BFT worse because the class's signature abilities use the reservoir. The other is that using the signature abilities is simply tedious: selecting a modifier, finding the spell that you want to modify and then clicking on the target gets very old very quickly.
 
 ### Brown-Fur Transmuter
-Brown-Fur Transmuters specialise in transforming themselves.
+Brown-Fur Transmuters specialize in transforming themselves.
 
 - Gains bonuses to Transmutation magic
 - Gains fewer exploits.
@@ -472,7 +472,7 @@ A Living Deity pretends that her mysterious powers make her a living god and has
 | 20 | - | Hollow Spark | - | Revelation Final Revelation | - |
 
 ##### Mysterious Gift
-A Living Deity can only be an Atheist. She gains an Oracle's Mystery and Curse class features (although she receives no benefits from the curse when levelling up). Her Charisma attribute is used for Lore (Religion) checks.
+A Living Deity can only be an Atheist. She gains an Oracle's Mystery and Curse class features (although she receives no benefits from the curse when leveling up). Her Charisma attribute is used for Lore (Religion) checks.
 
 ##### Mysterious Gift - Mystery
 A Living Deity must select a Mystery and receives Revelations appropriate to the Mystery at 1st, 4th, 12th and 20th levels along with the Final Revelation.

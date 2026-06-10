@@ -78,7 +78,7 @@ A Druid's level progression is as follows:
 ^3 Weather domain.
 
 #### Druid Proficiencies
-Druids are proficient with the club, dagger, dart, quarterstaff, scimitar, scythe, sickle, shortspear, sling and spear as well as natural attacks with the forms they assume with wild shape. They are proficient with light and medium armour and shields, but they are prohibited from wearing metal armour and may only use wooden shields.
+Druids are proficient with the club, dagger, dart, quarterstaff, scimitar, scythe, sickle, shortspear, sling and spear as well as natural attacks with the forms they assume with wild shape. They are proficient with light and medium armor and shields, but they are prohibited from wearing metal armor and may only use wooden shields.
 
 #### Spontaneous Summoning
 A Druid may lose any prepared spell and cast a Summon Nature's Ally spell of the same level in its place.
@@ -125,11 +125,11 @@ All forms gain the relevant bonuses and penalties relevant to their size. Elemen
 At 9th level, a Druid is immune to all forms of poison.
 
 ##### Playing a Druid
-Druid proficiencies are very debilitating. Slings aren't even implemented in-game which means that the only thing keeping a druid from the front line are darts which are few and far between. They cannot use reach weapons and are limited to leather or hide armour which doesn't offer much in the way of protection.
+Druid proficiencies are very debilitating. Slings aren't even implemented in-game which means that the only thing keeping a druid from the front line are darts which are few and far between. They cannot use reach weapons and are limited to leather or hide armor which doesn't offer much in the way of protection.
 
 You'll want to take Animal Companion rather than a domain. Yes, you *can* select Animal domain but then you'll have to wait for your pet, making the early game harder, and waste a feat on Boon Companion instead of something useful.
 
-One problem with the class is that it pretends to be martial-capable through wild shaping. However, this simply isn't true: the Strength bonus is modest, the natural AC bonus won't be high enough to solve the problem of your catastrophically poor defence and natural attacks do low damage and have bad critical hit parameters. Wild Shape is weak on any class with the feature but weakest on a Druid. If you *are* going to use it, you'll have to waste a feat on Natural Spell.
+One problem with the class is that it pretends to be martial-capable through wild shaping. However, this simply isn't true: the Strength bonus is modest, the natural AC bonus won't be high enough to solve the problem of your catastrophically poor defense and natural attacks do low damage and have bad critical hit parameters. Wild Shape is weak on any class with the feature but weakest on a Druid. If you *are* going to use it, you'll have to waste a feat on Natural Spell.
 
 The Blight Druid gives up the very valuable animal companion for some questionable class abilities, including one that requires you to be hit which is never something you want.
 
@@ -478,7 +478,7 @@ All creatures summoned by a Winter Child gain cold resistance 5. This increases 
 #### Blizzard Servant
 At 4th level, a Winter Child forms a bond with a Blizzard Servant which functions like an animal companion. The Winter Child's effective druid level is her class level - 3.
 
-You must choose a companion archetype for the Blizzard Servant and it benefits from feats and abilities that affect animal companions, such as Boon Companion and Mythical Beast. Besides the attribute increases at 6th, 11th and 16th level, they gain attribute increases on levelling up just like any other animal companion.
+You must choose a companion archetype for the Blizzard Servant and it benefits from feats and abilities that affect animal companions, such as Boon Companion and Mythical Beast. Besides the attribute increases at 6th, 11th and 16th level, they gain attribute increases on leveling up just like any other animal companion.
 
 #### Arctic Native
 At 4th level, a Winter Child gains cold resistance 5 and is immune to being dazzled. The cold resistance increases by +5 every four additional class levels (maximum 25 at 20th level).
@@ -490,10 +490,10 @@ At 6th level, a Winter Child's companion grows to medium size, gaining a +2 bonu
 From 9th level, a Winter Child can convert the damage type of her spells to cold as a swift action.
 
 #### Blizzard Servant - Crystallized Affinity
-At 11th level, a Winter Child's companion grows to large size, gaining a +4 bonus to Strength, +4 bonus to Dexterity, +2 bonus to Constitution, a +2 natural armour bonus to AC, DR 5/- and cold resistance 20. Its Whirlwind of Hail no longer affects allies.
+At 11th level, a Winter Child's companion grows to large size, gaining a +4 bonus to Strength, +4 bonus to Dexterity, +2 bonus to Constitution, a +2 natural armor bonus to AC, DR 5/- and cold resistance 20. Its Whirlwind of Hail no longer affects allies.
 
 #### Blizzard Servant - Bound Souls
-At 16th level, the companion grows again to huge size, gaining a +4 bonus to Strength, +6 bonus to Dexterity, +2 bonus to Constitution, a +2 natural armour bonus to AC, the numbing cold ability and cold resistance 30. When an ally hits an enemy affected by the servant's Whirlwind of Hail ability, the targets takes +2d6 cold damage.
+At 16th level, the companion grows again to huge size, gaining a +4 bonus to Strength, +6 bonus to Dexterity, +2 bonus to Constitution, a +2 natural armor bonus to AC, the numbing cold ability and cold resistance 30. When an ally hits an enemy affected by the servant's Whirlwind of Hail ability, the targets takes +2d6 cold damage.
 
 #### Flurry Form
 At 20th level, a Winter Child gains the elemental subtype and immunity to cold. She also gains immunity to ground-based effects and trip. She is treated as a native outsider when determining the effects of spells and spell-like abilities.

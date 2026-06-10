@@ -95,7 +95,7 @@ The base Hunter has the following level progression:
 | 20 | - | Master Hunter | - |
 
 #### Hunter Proficiencies
-Hunters are proficient with all simple and martial weapons, light and medium armour and shields.
+Hunters are proficient with all simple and martial weapons, light and medium armor and shields.
 
 #### Animal Companion
 A Hunter chooses an animal companion at 1st level.
@@ -149,7 +149,7 @@ At 8th level, whenever a Hunter uses her Animal Focus ability, she can choose tw
 At 10th level, a Hunter may cast Raise Dead on her animal companion as a spell-like ability. At 16th level, this functions like Resurrection.
 
 #### One with the Wild
-At 17th level, a Hunter and her companion can attempt to demoralise all animals within 30' as a swift action.
+At 17th level, a Hunter and her companion can attempt to demoralize all animals within 30' as a swift action.
 
 #### Master Hunter
 At 20th level, the Hunter can receive the Animal Focus benefits any number of times per day.
@@ -163,7 +163,7 @@ A Hunter gets a lot from her first three levels: full companion progression, imm
 
 Despite having the silliest name of any archetype, a Colluding Scoundrel is better than the base class. The Pathfinder rules do not provide many ways of drawing aggro onto a party member built to take it, but the Scapegoat ability allows you to do just that. The Backstabber ability gives you bonus precision damage which stacks with sneak damage so that something like a Colluding Scoundrel 16 / Vivisectionist 4 split is not bad.
 
-A Divine Hound gives up Animal Focus for Judgments. Since Animal Focus is quite weak and Judgments are quite strong (particularly with the *Everlasting Judgment* mythic ability), this is a very favourable trade. Being able to select only a dog or wolf as a companion is neither here nor there since a dog is one of the best companions anyway.
+A Divine Hound gives up Animal Focus for Judgments. Since Animal Focus is quite weak and Judgments are quite strong (particularly with the *Everlasting Judgment* mythic ability), this is a very favorable trade. Being able to select only a dog or wolf as a companion is neither here nor there since a dog is one of the best companions anyway.
 
 The very similarly named Divine Hunter swaps an awful lot for a domain, including all the teamwork feats and being able to share them with her companion. There *are* strong domain choices but none that are this strong. Something like Sacred Huntsmaster feels like a better choice.
 
@@ -171,7 +171,7 @@ If the base Hunter is a weak class with an animal companion, the Forester is sim
 
 A Tandem Executioner gives up spellcasting in exchange for Studied Target and some unique combat abilities. Given that a Hunter's spellcasting is indifferent and that some of the techniques are quite strong, this isn't a bad trade.
 
-An Urban Hunter trades teamwork feats for bonus feats (mostly combat manoeuvres) which are shared with the companion. Automatic tripping is good because it doesn't cost your animal companion its action to do it. However, using your actions or your companion's actions to trip or shove or disarm your opponent is a very poor use of your time. Free *Combat Reflexes* is nice but waiting until 12th level to get it is not so nice.
+An Urban Hunter trades teamwork feats for bonus feats (mostly combat maneuvers) which are shared with the companion. Automatic tripping is good because it doesn't cost your animal companion its action to do it. However, using your actions or your companion's actions to trip or shove or disarm your opponent is a very poor use of your time. Free *Combat Reflexes* is nice but waiting until 12th level to get it is not so nice.
 
 Finally a Wandering Marksman trades away all her teamwork feats for a modest circumstance bonus against enemies that her companion is fighting. While this doesn't punish you for making a ranged build, a Ranger simply does this and much, much more.
 
@@ -211,7 +211,7 @@ The scoundrel can use this ability a number of times per day equal to her class 
 At 8th level, the scoundrel deals an additional 2d6 damage against an enemy threatened by the designated scapegoat. This increases to 3d6 points at 15th level. This is precision damage and is not multiplied on a critical hit.
 
 #### Master Backstabber
-At 20th level, as a standard action, the scoundrel can make an attack against the enemy penalised by the scapegoat ability. If the attack hits, the enemy must make a Fortitude save (DC = 20 + Wisdom modifier) or be killed.
+At 20th level, as a standard action, the scoundrel can make an attack against the enemy penalized by the scapegoat ability. If the attack hits, the enemy must make a Fortitude save (DC = 20 + Wisdom modifier) or be killed.
 
 ### Divine Hound
 A Divine Hound has a particularly close bond with her companion.
@@ -349,16 +349,16 @@ At 2nd, 7th, 13th and 19th levels, a Forester can choose any combat feat so long
 At 3rd level, as a standard action, a Forester can grant the benefits of a single teamwork feat to allies within 30' for a number of rounds equal to her character level + 3. She can use this ability once per day, gaining an additional use at 7th, 12th and 17th levels.
 
 #### Favored Terrain
-At 5th level, a Hunter may select a favoured terrain like a Ranger. She may specify another favoured terrain every four additional levels.
+At 5th level, a Hunter may select a favored terrain like a Ranger. She may specify another favored terrain every four additional levels.
 
 #### Camouflage
-At 7th level, a forester can use Stealth in her favoured terrain without requiring cover.
+At 7th level, a forester can use Stealth in her favored terrain without requiring cover.
 
 #### Breath of Life
 At 10th level, a Forester can use Breath of Life as a spell-like ability.
 
 #### Terrain Expertise
-At 11th level, a Forester can choose one of her favoured terrains. While in that terrain, she gains a favoured enemy bonus against creatures there. She may choose additional terrains at 15th and 19th levels.
+At 11th level, a Forester can choose one of her favored terrains. While in that terrain, she gains a favored enemy bonus against creatures there. She may choose additional terrains at 15th and 19th levels.
 
 #### Hide in Plain Sight
 At 14th level, a Forester can use Camouflage in any terrain type.
@@ -428,7 +428,7 @@ While within 10' of each other, whenever an enemy adjacent to you makes a succes
 Prerequisites:
 Favorite New Toy
 
-Once per round when making a ranged attack against an enemy adjacent to your companion, you can attempt a bull rush combat manoeuvre with a +4 circumstance bonus, using your Dexterity modifier to determine your CMB. If the manoeuvre is successful, your companion uses an attack of opportunity to make a melee attack which will always hit the enemy.
+Once per round when making a ranged attack against an enemy adjacent to your companion, you can attempt a bull rush combat maneuver with a +4 circumstance bonus, using your Dexterity modifier to determine your CMB. If the maneuver is successful, your companion uses an attack of opportunity to make a melee attack which will always hit the enemy.
 
 ##### Spellbane
 Prerequisites:
@@ -520,7 +520,7 @@ At 5th level and as long as they are within 30' of each other, an Urban Hunter a
 At 6th level and every 3 subsequent levels, a hunter may choose a bonus feat which is gained by both her and her companion. Neither she nor her companion need to meet the prerequisites. At 6th level, she can choose between Bull Rush, Dirty Trick, Disarm and Trip. From 12th level, the list of feats expands and she can additionally choose from Combat Reflexes, Greater Bull Rush, Greater Dirty Trick, Greater Disarm, Greater Trip and Lunge.
 
 #### Frightful Ferocity
-At 17th level, an Urban Hunter and her companion can each attempt an Intimidate check to demoralise a foe as a swift action.
+At 17th level, an Urban Hunter and her companion can each attempt an Intimidate check to demoralize a foe as a swift action.
 
 ### Wandering Marksman
 A Wandering Marksman uses her companion to distract foes before striking.

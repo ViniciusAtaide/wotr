@@ -10,7 +10,7 @@ _Part of chargen/: races, backgrounds, attributes-skills, domains, bloodlines, c
 Any character may choose a deity (or, alternatively, choose atheism) which is something that will crop up in conversation. Certain character classes are powered by their beliefs and gain domain powers derived from their chosen deity.
 
 ### Deities
-Your choice of deity restricts which alignment you can be (you must be within one position of your chosen deity) and which domains you can choose. Choosing a deity will also grant proficiency in their favoured weapon for Clerics and Inquisitors. This is summarised in the following table:
+Your choice of deity restricts which alignment you can be (you must be within one position of your chosen deity) and which domains you can choose. Choosing a deity will also grant proficiency in their favored weapon for Clerics and Inquisitors. This is summarized in the following table:
 
 | Deity | LG | NG | CG | LN | TN | CN | LE | NE | CE | Weapon | Domains |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Domains provide feats and expand the spell selections available to a Cleric. The
 | *Water* | - | ✓ | - | ✓ | ✓ | ✓ | - | ✓ | - | Gozreh, Green Faith, Pharasma |
 | *Weather* | - | ✓ | - | ✓ | ✓ | ✓ | - | ✓ | ✓ | Gozreh, Rovagug |
 
-Italicised domains are the ones I think are worth selecting.
+Italicized domains are the ones I think are worth selecting.
 
 The following character classes choose one or two domains during character creation:
 
@@ -189,7 +189,7 @@ You can maintain an Aura of Efficiency for a number of rounds equal to your clas
 The spell selection is good for a frontline Cleric
 
 #### Chaos Domain
-You can use Touch of Chaos (3 + Wisdom modifier) times per day. This is a melee touch attack and causes the target to roll twice for the next round, taking the less favourable result. At 8th level, you gain Chaos Blade, allowing you to imbue a weapon with the Anarchic trait for a number of rounds equal to half your class level. You can do this twice at level 12, three times at level 16 and four times at level 20.
+You can use Touch of Chaos (3 + Wisdom modifier) times per day. This is a melee touch attack and causes the target to roll twice for the next round, taking the less favorable result. At 8th level, you gain Chaos Blade, allowing you to imbue a weapon with the Anarchic trait for a number of rounds equal to half your class level. You can do this twice at level 12, three times at level 16 and four times at level 20.
 
 | Lvl | Spell | School |
 | --- | --- | --- |
@@ -442,7 +442,7 @@ You can use Touch of Law (3 + Wisdom modifier) times per day. For the next round
 Some crossover with the Charm Domain which is the better domain choice.
 
 #### Liberation Domain
-You gain Freedom of Movement for a number of rounds per day equal to your class level. At 8th-level, you gain Freedom's Call. Allies within a 30' radius are not affected by difficult terrain and the confused, frightened, panicked, paralysed, slowed, shaken and staggered conditions are suppressed (but not removed). You can maintain the aura for a number of rounds per day equal to your class level.
+You gain Freedom of Movement for a number of rounds per day equal to your class level. At 8th-level, you gain Freedom's Call. Allies within a 30' radius are not affected by difficult terrain and the confused, frightened, panicked, paralyzed, slowed, shaken and staggered conditions are suppressed (but not removed). You can maintain the aura for a number of rounds per day equal to your class level.
 
 | Lvl | Spell | School |
 | --- | --- | --- |

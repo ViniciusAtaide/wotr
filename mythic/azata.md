@@ -60,7 +60,7 @@ At 3rd rank, you can summon a Mastodon for 1 minute.
 From 4th rank, an Azata can choose from a number of abilities:
 
 ##### All-skilled
-You gain a bonus to all skill checks equal to your mythic rank. Whenever you make a skill check, roll twice and take the better result. You also become proficient with all types of weapons and armour.
+You gain a bonus to all skill checks equal to your mythic rank. Whenever you make a skill check, roll twice and take the better result. You also become proficient with all types of weapons and armor.
 
 ##### Favorable Magic
 When an enemy attempts a save against your spells, it must roll twice and take the worse result. When you make a concentration check or roll to overcome spell resistance, you can roll twice and take the better result. If a spell description says that a successful save reduces damage by 50%, it is only reduced by 25%.
@@ -123,7 +123,7 @@ An Azata hits the ground running. At 3rd rank, you get a unique animal (or rathe
 
 The Azata spellbook has some excellent support spells, *Second Breath* and *Joy of Life* in particular. The spellbook is Enchantment-heavy which gives you an idea as to where you might place any Spell Focus feats.
 
-The class which particularly synergises with Azata is a Bard because you can use your Bard performance rounds (and Lingering Song and so forth) with the Azata songs. If you find the Lich path distasteful, Favorable Magic favours any offensive caster, particularly an Enchantment or Illusion specialist. Weird and Phantasmal Killer are much more effective when you get two chances of making them stick.
+The class which particularly synergizes with Azata is a Bard because you can use your Bard performance rounds (and Lingering Song and so forth) with the Azata songs. If you find the Lich path distasteful, Favorable Magic favors any offensive caster, particularly an Enchantment or Illusion specializt. Weird and Phantasmal Killer are much more effective when you get two chances of making them stick.
 
 ### Aivu
 Aivu is a baby havoc dragon who joins you at mythic rank 3. She has a number of immunities: sonic energy, Confusion, Sickened, Nauseated, Sleep and Paralysis. In addition, she cannot be tripped. She has a 30' cone breath attack that deals 2d10 sonic damage for every Azata rank.
@@ -141,7 +141,7 @@ When she joins you, she is level 10 and has the following attributes: STR 21, DE
 | 9 | 26 | 32 |
 | 10 | 35 |  |
 
-Charisma is the only attribute that gets an increase. Unlike animal companions, her natural armour doesn't increase either.
+Charisma is the only attribute that gets an increase. Unlike animal companions, her natural armor doesn't increase either.
 
 She already has number of feats when you acquire her: Weapon Focus and Improved Critical with both Claw and Bite attacks, Power Attack, Lightning Reflexes, Improved Initiative and Armor Proficiency (Light Barding). She gains additional abilities at various ranks:
 
@@ -178,7 +178,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Voice of Renewal | Evocation |
 
 ##### Field of Flowers (Conjuration)
-| Target | All enemies within a 30' burst centred on target point within long range |
+| Target | All enemies within a 30' burst centered on target point within long range |
 | --- | --- |
 | Duration | 1 minute / level |
 | Saving Throw | Reflex partial |
@@ -198,7 +198,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Your party members gain a +4 morale bonus on checks to overcome spell resistance and the DC of spells requiring a Will save is increased by 2. |  |
 
 ##### Rejuvenating Poem (Conjuration)
-| Target | All allies within a 30' burst centred on caster |
+| Target | All allies within a 30' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -207,7 +207,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | You remove the fatigued and exhausted conditions from all party members. |  |
 
 ##### Voice of Renewal (Conjuration)
-| Target | All creatures within a 30' burst centred on caster |
+| Target | All creatures within a 30' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -228,7 +228,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Instant Enemy | Enchantment |
 | Litany of Eloquence | Enchantment |
 | Nature's Grasp | Conjuration |
-| Optimistic Smile | Enchantment |
+| Optimiztic Smile | Enchantment |
 | Overwhelming Grief | Enchantment |
 | Prayer | Enchantment |
 | Rage | Enchantment |
@@ -254,8 +254,8 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Casting Time | Standard action |
 | If the enemy fails its Reflex save, it becomes ensnared. While ensnared, it cannot move and has a 50% miss chance on all attacks. Each round, the enemy can attempt another Reflex save to break free. If it fails, it suffers 1d6 + caster level / 2 bludgeoning damage. |  |
 
-##### Optimistic Smile (Enchantment)
-| Target | All creatures within a 30' burst centred on target creature |
+##### Optimiztic Smile (Enchantment)
+| Target | All creatures within a 30' burst centered on target creature |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -289,13 +289,13 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Waterfall | Conjuration |
 
 ##### Chaotic Healing (Conjuration)
-| Target | All allies within a 30' burst centred on caster |
+| Target | All allies within a 30' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| Allies within the area of effect are healed 2d8 + 1 per caster level points of damage and gain the benefits of one of *Rejuvenating Poem*, *Optimistic Smile* or *Believe in Yourself*. |  |
+| Allies within the area of effect are healed 2d8 + 1 per caster level points of damage and gain the benefits of one of *Rejuvenating Poem*, *Optimiztic Smile* or *Believe in Yourself*. |  |
 
 ##### Deadly Beauty (Transmutation)
 | Target | Personal |
@@ -315,7 +315,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Spell Resistance | N/A |
 | Spell Descriptors | - |
 | Casting Time | Standard action |
-| This spell grants the target immunity to prone and combat manoeuvres for 1 round / caster level. If the affected creature is critically hit, they receive the blink effect for 1 round per 4 caster levels. |  |
+| This spell grants the target immunity to prone and combat maneuvers for 1 round / caster level. If the affected creature is critically hit, they receive the blink effect for 1 round per 4 caster levels. |  |
 
 ##### Waterfall (Conjuration)
 | Target | One enemy creature within close range |
@@ -355,7 +355,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Removes all negative levels from the target while granting them immunity to energy drain and mind-affecting effects for 1 minute per caster level. |  |
 
 ##### Moral Support (Abjuration)
-| Target | All allies within a 30' burst centred on creature within close range |
+| Target | All allies within a 30' burst centered on creature within close range |
 | --- | --- |
 | Duration | 1 minute / level |
 | Saving Throw | N/A |
@@ -365,7 +365,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Allies within the area of effect get a bon.us to skill checks and critical confirmation rolls equal to +1 per 3 caster levels and a bonus to saving throws equal to +1 per 6 caster levels. |  |
 
 ##### Second Breath (Enchantment)
-| Target | All allies within a 30' burst centred on caster |
+| Target | All allies within a 30' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -400,7 +400,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Winds of the Fall | Conjuration |
 
 ##### Joy of Life (Abjuration)
-| Target | All allies within a 60' burst centred on caster |
+| Target | All allies within a 60' burst centered on caster |
 | --- | --- |
 | Duration | 1 round / 2 levels |
 | Saving Throw | N/A |
@@ -410,7 +410,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | All companions' spells up to 5th level are restored. Your party's attacks deal holy damage for 1 round per 2 caster levels. |  |
 
 ##### Protection of Nature (Abjuration)
-| Target | All allies within a 60' burst centred on caster |
+| Target | All allies within a 60' burst centered on caster |
 | --- | --- |
 | Duration | 1 round / level |
 | Saving Throw | N/A |
@@ -463,7 +463,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | Water Torrent | Conjuration |
 
 ##### Heroes Never Surrender (Enchantment)
-| Target | All allies within a 60' burst centred on caster |
+| Target | All allies within a 60' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -481,7 +481,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | You create an arrow that jumps from target to target once per 4 caster levels, dealing 1d12 damage per 2 caster levels of a random energy type. |  |
 
 ##### Revolt (Enchantment)
-| Target | All allies within a 30' burst centred on caster |
+| Target | All allies within a 30' burst centered on caster |
 | --- | --- |
 | Saving Throw | N/A |
 | Spell Resistance | N/A |
@@ -490,7 +490,7 @@ She also has ranks in the Knowledge (Arcana), Perception, Persuasion and Use Mag
 | All creatures in the area of effect take 4d6 + caster level sonic damage. Enemies must make a Will save or attack the strongest enemy. Each round, they may attempt a fresh will save to end the effect. If an enemy successfully saves, they take 4d6 + caster level sonic damage per round for 1d6 rounds. |  |
 
 ##### Unbreakable Bond (Abjuration)
-| Target | All allies within a 60' burst centred on caster |
+| Target | All allies within a 60' burst centered on caster |
 | --- | --- |
 | Duration | 1 minute / level |
 | Saving Throw | N/A |

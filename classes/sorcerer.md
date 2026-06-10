@@ -70,7 +70,7 @@ If you compare the spell progression to the Wizard, you will note that Sorcerers
 
 The values above do not include bloodline spells.
 
-Because of the various bloodlines, different sorcerers of the same level may have very different capabilities. When creating or levelling up a sorcerer take care that you do not take redundant feats or select spells that you would obtain anyway. For example, taking the Superior Summoning feat if you have selected the Abyssal bloodline may not be something that you want to do.
+Because of the various bloodlines, different sorcerers of the same level may have very different capabilities. When creating or leveling up a sorcerer take care that you do not take redundant feats or select spells that you would obtain anyway. For example, taking the Superior Summoning feat if you have selected the Abyssal bloodline may not be something that you want to do.
 
 Since each bloodline is effectively a subclass, I'll list a level breakdown for each one. Note that nothing happens on even-numbered levels so I won't show them.
 
@@ -227,11 +227,11 @@ The Abyssal and Draconic bloodlines are good, but their abilities boost Strength
 
 Crossblooded trades flexibility in spell selection for many of the benefits of a second bloodline. You don't get most of the abilities but you do get the bloodline arcana (and, for what it's worth, the 20th level ability). This means that if you select Arcane Sorcerer for the power, you can also benefit from, say, Fey Arcana and get a boost to your compulsion spells. Serpentine and Undead are also good second bloodlines. You can even get a third bloodline via mythic abilities.
 
-Casters who specialise in energy damage can benefit from a single level of Crossblooded Sorcerer with Elemental and Draconic bloodlines. This allows them to convert all energy damage to a specific damage type and then add +1 damage per die on top.
+Casters who specialize in energy damage can benefit from a single level of Crossblooded Sorcerer with Elemental and Draconic bloodlines. This allows them to convert all energy damage to a specific damage type and then add +1 damage per die on top.
 
 The Empyreal Sorcerer uses Wisdom as her magic attribute but is otherwise identical to a Sorcerer who has selected the inferior Celestial bloodline. One possibility is to use the Empyreal Sorcerer as a path into the Mystic Theurge prestige class since you only need one primary casting attribute. I'm still not sure that this makes Mystic Theurge a good class!
 
-A Geomancer's spells can do significant additional enemy damage (terrain types that benefit allies are extremely rare in the Worldwound). However, favoured terrains are of no more than marginal benefit to a Sorcerer and the loss of bloodline feats leaves them feat-starved.
+A Geomancer's spells can do significant additional enemy damage (terrain types that benefit allies are extremely rare in the Worldwound). However, favored terrains are of no more than marginal benefit to a Sorcerer and the loss of bloodline feats leaves them feat-starved.
 
 A Nine Tailed Heir does not gain spells from her bloodline. Instead, she gets multiple Magical Tails feats. This seems like a bad trade but if you consider that most bloodline spells aren't top picks, it becomes less galling. You will have grown out of the *Sleep* and *Deep Slumber* abilities by the time you get them but level-scaled *Confusion* and *Dominate Person* are OK.
 
@@ -239,14 +239,14 @@ An Overwhelming Mage gives up four feats for +4 Spell Penetration and the abilit
 
 Besides the change in primary attribute, the Sage Sorcerer is more or less the same as an Arcane Sorcerer which makes the Sage Sorcerer a decent choice. Intelligence as a primary attribute gives you more skill points to play with which is *a* reason to choose Sage Sorcerer, since you wouldn't choose the Arcane Bolt ability over a familiar.
 
-In the tabletop rules, a Seeker gets some interesting replacements for the 3rd and 15th level bloodline abilities. In *this* game, she loses most bloodline abilities in return for three bonus feats. This isn't necessarily bad - more spell focus and metamagic never hurt any caster - but you do lose some of the flavour. You'd pick a bloodline with the best 1st and 20th level abilities: Serpentine, perhaps, or Undead.
+In the tabletop rules, a Seeker gets some interesting replacements for the 3rd and 15th level bloodline abilities. In *this* game, she loses most bloodline abilities in return for three bonus feats. This isn't necessarily bad - more spell focus and metamagic never hurt any caster - but you do lose some of the flavor. You'd pick a bloodline with the best 1st and 20th level abilities: Serpentine, perhaps, or Undead.
 
-Compared to the very similar Fey Sorcerer, the Sylvan Sorcerer loses the not-very-useful Laughing Touch ability and the very useful Fey Bloodline Arcana but gains an Animal Companion. This is an exchange very much in the Sylvan Sorcerer's favour. Whether the Animal Companion raises the class to the level of an Arcane Sorcerer, I'm not sure. Regardless, this is one of the better class choices.
+Compared to the very similar Fey Sorcerer, the Sylvan Sorcerer loses the not-very-useful Laughing Touch ability and the very useful Fey Bloodline Arcana but gains an Animal Companion. This is an exchange very much in the Sylvan Sorcerer's favor. Whether the Animal Companion raises the class to the level of an Arcane Sorcerer, I'm not sure. Regardless, this is one of the better class choices.
 
 ### Crossblooded
 A Crossblooded sorcerer combines two lineages.
 
-- Gets to choose fewer known spells when levelling up
+- Gets to choose fewer known spells when leveling up
 - Gains the abilities of only the main bloodline
 - Gains the arcana and spells from both bloodlines.
 

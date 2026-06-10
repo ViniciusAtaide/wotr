@@ -30,7 +30,7 @@ Make a ranged attack as a standard action and add your Intelligence modifier to 
 
 ## Point Blank Master
 **Prereq:** Weapon Specialization
-When using a weapon in which you are specialised, you do not provoke attacks of opportunity when firing the selected weapon while threatened.
+When using a weapon in which you are specialized, you do not provoke attacks of opportunity when firing the selected weapon while threatened.
 
 ## Rapid Shot
 **Prereq:** Dexterity: 13, Point-Blank Shot
@@ -38,7 +38,7 @@ When making a full attack with a ranged weapon, you can make an additional attac
 
 ## Manyshot
 **Prereq:** Dexterity: 17, Point-Blank Shot, Rapid Shot, Base Attack Bonus: 6
-When making a full attack with a bow, the first attack releases two arrows. Damage bonuses (e.g. sneak attack, Strength bonus from using a composite bow, favoured enemy, etc.) apply equally to each arrow but so does Damage Reduction.
+When making a full attack with a bow, the first attack releases two arrows. Damage bonuses (e.g. sneak attack, Strength bonus from using a composite bow, favored enemy, etc.) apply equally to each arrow but so does Damage Reduction.
 
 ## Snap Shot
 **Prereq:** Point-Blank Shot, Precise Shot, Base Attack Bonus: 6

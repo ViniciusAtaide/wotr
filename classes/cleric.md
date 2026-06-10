@@ -73,12 +73,12 @@ A Cleric's level progression is as follows:
 ^3 All other domains.
 
 #### Cleric Proficiencies
-Clerics are proficient with simple weapons, light and medium armour and shields (but not tower shields). They are also proficient with their deity's chosen weapon.
+Clerics are proficient with simple weapons, light and medium armor and shields (but not tower shields). They are also proficient with their deity's chosen weapon.
 
 #### Channel Energy
 A good Cleric (or neutral Cleric who worships a good deity) channels positive energy to heal living creatures and damage undead creatures. An evil Cleric (or neutral Cleric who worships an evil deity) channels negative energy, harming the living and healing undead. Clerics of neutral deities may choose either energy type.
 
-The amount of health restored (or damage dealt) is 1d6 points of damage + 1d6 for every two class levels in a 30' radius centred on the Cleric. Creatures taking damage from channeled energy receive a Will save to halve the damage (DC 10 + half class level + Charisma modifier). Channeling energy is a standard action which does not provoke an attack of opportunity and may be used a number of times per day equal to 3 + the Cleric's Charisma modifier.
+The amount of health restored (or damage dealt) is 1d6 points of damage + 1d6 for every two class levels in a 30' radius centered on the Cleric. Creatures taking damage from channeled energy receive a Will save to halve the damage (DC 10 + half class level + Charisma modifier). Channeling energy is a standard action which does not provoke an attack of opportunity and may be used a number of times per day equal to 3 + the Cleric's Charisma modifier.
 
 A Cleric who channels positive energy may sacrifice any spell and cast a "cure" spell of the same level in its place. A Cleric who channels negative energy may do the same but replaces the sacrificed spell with an "inflict" spell of the same level.
 
@@ -86,15 +86,15 @@ A Cleric who channels positive energy may sacrifice any spell and cast a "cure" 
 Three archetypes (Angelfire Apostle, Crusader and Demonbane Priest) may cast one fewer spell of each level than a Cleric of the same level. If this reduces the number of spells to 0, he may only select a spell of that level if he has sufficient Wisdom to gain a bonus spell. He may still select a domain spell.
 
 ##### Playing a Cleric
-If you want to play a Cleric, the base Cleric is OK - being able to select two domains is quite powerful. The spontaneous casting ability on a Cleric who channels negative energy is rubbish so don't do that. Despite being able to wear medium armour, a Cleric shouldn't be in the front lines - trying to fit Strength, Dexterity, Constitution, Wisdom and Charisma on one character simply isn't going to work. Choosing Erastil as a deity gives you decent domains and longbow proficiency without having to waste a feat so you can stay back and keep the rest of the party in fighting condition. Alternatively, Shelyn gives you proficiency in a reach weapon. It may be tempting to take a Monk level dip for the AC bonus, but this isn't a good synergy.
+If you want to play a Cleric, the base Cleric is OK - being able to select two domains is quite powerful. The spontaneous casting ability on a Cleric who channels negative energy is rubbish so don't do that. Despite being able to wear medium armor, a Cleric shouldn't be in the front lines - trying to fit Strength, Dexterity, Constitution, Wisdom and Charisma on one character simply isn't going to work. Choosing Erastil as a deity gives you decent domains and longbow proficiency without having to waste a feat so you can stay back and keep the rest of the party in fighting condition. Alternatively, Shelyn gives you proficiency in a reach weapon. It may be tempting to take a Monk level dip for the AC bonus, but this isn't a good synergy.
 
 If you want to play a little more aggressively, Spell Focus (Necromancy) and the Repose domain (Pharasma) is a nasty combination.
 
-An Angelfire Apostle trades medium armour proficiency for the ability to use channel energy to remove various conditions. He also has Diminished Spellcasting which suggests that the abilities added to channel energy could be made up by the extra spells that you miss out on. Since you are restricted to light armour and would focus on Charisma for channel energy, a Scaled Fist dip would be OK, although it would diminish spellcasting even further.
+An Angelfire Apostle trades medium armor proficiency for the ability to use channel energy to remove various conditions. He also has Diminished Spellcasting which suggests that the abilities added to channel energy could be made up by the extra spells that you miss out on. Since you are restricted to light armor and would focus on Charisma for channel energy, a Scaled Fist dip would be OK, although it would diminish spellcasting even further.
 
 The Crusader is an attempt at a Cleric / Fighter and is rather MAD. However, the bonus feats encompass a number of feats that are otherwise restricted to Fighters, which makes this class better than, say, Fighter (1) / Cleric (19). Because of the Mythic Weapon Specialization feat, Weapon Specialization makes a Crusader one of the two best Cleric archetypes alongside Ecclesitheurge. Strength or Artifice are good domains.
 
-A Demonbane Priest is actually worse at fighting demons than a Crusader. You get heavy armour proficiency and two bonus feats which you'd likely use to take Spell Penetration feats. This leaves the class two feats behind a Crusader. And no Weapon Specialization either.
+A Demonbane Priest is actually worse at fighting demons than a Crusader. You get heavy armor proficiency and two bonus feats which you'd likely use to take Spell Penetration feats. This leaves the class two feats behind a Crusader. And no Weapon Specialization either.
 
 The Ecclesitheurge gives up all pretence at being frontline-ready which makes for a better support character and a respectable blaster if you select the right primary domain. *Blessing of the Faithful* means that there is always something you can do,
 
@@ -140,7 +140,7 @@ His level progression is as follows:
 ^3 All other domains.
 
 #### Apostle Proficiencies
-Angelfire Apostles are proficient in simple weapons, light armour and shields.
+Angelfire Apostles are proficient in simple weapons, light armor and shields.
 
 #### Versatile Healing Channel
 At 5th level, an Angelfire Apostle can expends two uses of channel energy to cast *Remove Blindness* or *Lesser Restoration*. At 7th level, he can cast *Remove Disease* or *Remove Paralysis*. At 9th level, he can cast *Neutralize Poison*. At 11th level, he can cast *Breath of Life*. At 13th level, he can cast *Heal*. At 17th level, he can cast *Restoration*. Finally, at 19th level, he can cast *Resurrection*.
@@ -193,9 +193,9 @@ At 20th level, a Crusader may also choose Greater Weapon Specialization.
 The Crusader does not need to meet the BAB or Fighter-level prerequisites for any of these.
 
 ### Demonbane Priest
-A Demonbane Priest is a specialist in fighting demons.
+A Demonbane Priest is a specializt in fighting demons.
 
-- Proficient with heavy armour
+- Proficient with heavy armor
 - May only select a single domain
 - Diminished Spellcasting.
 
@@ -225,7 +225,7 @@ His level progression is as follows:
 ^3 All other domains.
 
 #### Demonbane Proficiencies
-Demonbane Priests are proficient in simple weapons, light, medium and heavy armour and shields.
+Demonbane Priests are proficient in simple weapons, light, medium and heavy armor and shields.
 
 #### Demonic Knowledge
 A Demonbane Priest gains a bonus equal to half his class level to Knowledge (Arcana) checks.
@@ -236,7 +236,7 @@ At 4th and 8th levels, a Demonbane Priest may select either a teamwork feat or (
 ### Ecclesitheurge
 An Ecclesitheurges sacrifices any martial capability for enhanced spellcasting.
 
-- Cannot wear armour or use shields
+- Cannot wear armor or use shields
 - Can select two domains
 - 3 skill points / level.
 
@@ -266,9 +266,9 @@ His level progression is as follows:
 ^3 All other domains.
 
 #### Ecclesitheurge's Proficiencies
-Ecclesitheurges are proficient with the club, dagger, heavy crossbow, light crossbow, quarterstaff and favoured weapon of their deity, but not any armour.
+Ecclesitheurges are proficient with the club, dagger, heavy crossbow, light crossbow, quarterstaff and favored weapon of their deity, but not any armor.
 
-If an Ecclesitheurge wears armour or uses a shield (assuming you acquire the proficiencies through feat selection or multiclassing), he is unable to cast any spells.
+If an Ecclesitheurge wears armor or uses a shield (assuming you acquire the proficiencies through feat selection or multiclassing), he is unable to cast any spells.
 
 #### Blessing of the Faithful
 As a standard action, the Ecclesitheurge can bless one ally within 30'. A blessed ally gains a +2 sacred bonus on attack rolls, skill checks, ability checks, saving throws and AC until the Ecclesitheurge's next turn. The Ecclesitheurge can expend one use of channel energy to increase the duration to 1 round + 1 round for every two caster levels.
@@ -280,10 +280,10 @@ One domain is the primary domain and the Ecclesitheurge may use non-domain slots
 At 3rd level, the Ecclesitheurge gains a bonded object, allowing him to restore any one spell he had prepared for that day.
 
 ### Herald Caller
-Herald Callers are Clerics who specialise in summoning.
+Herald Callers are Clerics who specialize in summoning.
 
 - May only select a single domain
-- Doesn't gain proficiency with medium armour or shields
+- Doesn't gain proficiency with medium armor or shields
 - Gains 4 skill points / level.
 
 A Herald Caller's level progression is as follows:

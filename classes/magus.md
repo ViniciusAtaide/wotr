@@ -70,7 +70,7 @@ The standard Magus has the following level progression:
 | 20 | - | - | - | True Magus |
 
 #### Magus Proficiencies
-A Magus is proficient with simple and martial weapons. He is also proficient with light armour and may cast magus spells while wearing it.
+A Magus is proficient with simple and martial weapons. He is also proficient with light armor and may cast magus spells while wearing it.
 
 #### Spell Combat
 If you have your off-hand free and are wielding a light or one-handed weapon in the other, you may make a full attack with a -2 penalty *and* cast a spell with a casting time of 1 standard action.
@@ -116,8 +116,8 @@ You can cast Touch of Fatigue until the cows come home. This means that Spellstr
 #### Spell Recall
 Starting from 4th level, a Magus may expend points from his Arcane Pool to recall a spell that he has already cast. The point cost is equivalent to the recalled spell's level.
 
-#### Arcane Medium Armour
-At 7th level, a Magus gains proficiency with medium armour and may cast magic without incurring spell failure.
+#### Arcane Medium Armor
+At 7th level, a Magus gains proficiency with medium armor and may cast magic without incurring spell failure.
 
 #### Improved Spell Combat
 At 8th level (14th level for an Eldritch Scion), when using spell combat, a Magus receives a +2 circumstance bonus on concentration checks.
@@ -128,8 +128,8 @@ At 10th level (Sword Saint level 7), a Magus counts half his class level as figh
 #### Improved Spell Recall
 Starting from 11th level, the cost of Spell Recall is half that of the spell's level (rounded up).
 
-#### Arcane Heavy Armour
-At 13th level, a Magus gains proficiency with heavy armour and may cast magic without incurring spell failure.
+#### Arcane Heavy Armor
+At 13th level, a Magus gains proficiency with heavy armor and may cast magic without incurring spell failure.
 
 #### Greater Spell Combat
 At 14th level (Eldritch Scion level 18), when using spell combat, a magus receives a +4 circumstance bonus on concentration checks.
@@ -197,31 +197,31 @@ At 5th, 11th and 17th levels, a Magus may select any feat for which he qualifies
 ##### Playing a Magus
 Spell Combat is the class's characteristic feature but it isn't the superpower that it appears to be. There are two reasons for this. Firstly, using it - even with *Touch of Fatigue* simply for the extra attack - risks provoking attacks of opportunity until around 8th level. Secondly, getting an extra attack requires the offhand to be free. If Strength is your main damage attribute, you get an increased damage boost from wielding a weapon with two hands. You also get additional benefit from Power Attack. This means that enabling Spellstrike may actually *reduce* your damage output, particularly if you select the Mythic Power Attack ability.
 
-Besides Spellstrike, a Magus has a number of other useful abilities. Being able to add damaging properties to your weapon gives you a great deal of flexibility. You will want to take the *Enduring Blade* arcana if this is to be properly useful, however. You can also wear heavy armour without risking spell failure. However, you do not get any form of armour training so you will need to use *Effortless Armor* if this is to be more help than hindrance. Finally, Fighter Training allows you to take Weapon Specialization (at 11th level) and Greater Weapon Focus (at 17th) which you can boost with the relevant mythic feats.
+Besides Spellstrike, a Magus has a number of other useful abilities. Being able to add damaging properties to your weapon gives you a great deal of flexibility. You will want to take the *Enduring Blade* arcana if this is to be properly useful, however. You can also wear heavy armor without risking spell failure. However, you do not get any form of armor training so you will need to use *Effortless Armor* if this is to be more help than hindrance. Finally, Fighter Training allows you to take Weapon Specialization (at 11th level) and Greater Weapon Focus (at 17th) which you can boost with the relevant mythic feats.
 
 The main problem with a Magus - which also applies to most of the archetypes - is that it is merely an OK class. 3/4 BAB and 3/4 casting means that it doesn't excel at anything. If you want to play a Fighter / Mage, you may find an Eldritch Knight better since you will likely end up with a better BAB and greatly superior spellcasting.
 
 An Arcane Rider ends up ahead on points vs. the base class. The mount is more useful overall than Spell Recall and is something that an Eldritch Knight can't reproduce.
 
-An Armored Battlemage solves the heavy armour problem by receiving armour training. However, *Effortless Armor* also solves that problem and the inability to enchant weapons is limiting.
+An Armored Battlemage solves the heavy armor problem by receiving armor training. However, *Effortless Armor* also solves that problem and the inability to enchant weapons is limiting.
 
 A Bladebound's blade doesn't really keep up with scimitars that you can find and buy which means that it's basically a Magus with fewer feats. The ability to have the blade fight alongside you is neat, I guess, but not worth building around. The 19th level ability is decent but that's very late to get something worthwhile from the class.
 
 An Eldritch Archer improves on the base class by not giving anything up for Spellstrike. You can leave Acid Splash on automatic and use it safely from range.
 
-An Eldritch Scion in effect trades the Spell Recall ability for the benefits of a bloodline. The Abyssal bloodline is good since the +6 to Strength helps compensate for the class's medium AB progression. If you choose a Draconic bloodline for the AC bonuses, you can take levels in Dragon Disciple (which do not hinder bloodline progression). However, this slows acquisition of Magus features (Arcane Weapon, Arcane Armour, Magus Arcana, Fighter Training) and locks you out of Greater Spell Access. Eldritch Scion (19) / Scaled Fist (1) is a solid combination.
+An Eldritch Scion in effect trades the Spell Recall ability for the benefits of a bloodline. The Abyssal bloodline is good since the +6 to Strength helps compensate for the class's medium AB progression. If you choose a Draconic bloodline for the AC bonuses, you can take levels in Dragon Disciple (which do not hinder bloodline progression). However, this slows acquisition of Magus features (Arcane Weapon, Arcane Armor, Magus Arcana, Fighter Training) and locks you out of Greater Spell Access. Eldritch Scion (19) / Scaled Fist (1) is a solid combination.
 
 A Hexcrafter trades Spell Recall for hexes. The trade is neutral since *Iceplant* is at least as good as a Magus Arcana and you don't have to select any more hexes.
 
-Like the majority of race-specific archetypes, Spell Dancer is a bit of a stinker. You give up a lot (weapon enchantment and heavier armour) and don't get nearly enough in return.
+Like the majority of race-specific archetypes, Spell Dancer is a bit of a stinker. You give up a lot (weapon enchantment and heavier armor) and don't get nearly enough in return.
 
-Finally, the Sword Saint is the best magus archetype by a considerable margin. Despite Diminished Spellcasting, it is likely to be a better caster than the base class because it rewards investment in Intelligence in multiple ways. You will want to stick with Sword Saint all the way since Weapon Mastery is a superpower. Earlier access to Fighter training allows you to qualify for any feat with Fighter prerequisites. Since you can't equip even light armour without burning a feat (and risking arcane failure), the early game is likely to be rough. Make sure that you select *Shield* at character creation. Sword Saint is also a respectable dip, giving you - at the very least - Weapon Focus in an exotic weapon.
+Finally, the Sword Saint is the best magus archetype by a considerable margin. Despite Diminished Spellcasting, it is likely to be a better caster than the base class because it rewards investment in Intelligence in multiple ways. You will want to stick with Sword Saint all the way since Weapon Mastery is a superpower. Earlier access to Fighter training allows you to qualify for any feat with Fighter prerequisites. Since you can't equip even light armor without burning a feat (and risking arcane failure), the early game is likely to be rough. Make sure that you select *Shield* at character creation. Sword Saint is also a respectable dip, giving you - at the very least - Weapon Focus in an exotic weapon.
 
 ### Arcane Rider
 An Arcane Rider fights and casts while mounted.
 
 - Gains a mount
-- Loses the medium and heavy armour proficiencies
+- Loses the medium and heavy armor proficiencies
 - Loses Spell Recall.
 
 His level progression is as follows:
@@ -263,14 +263,14 @@ At 8th level, an Arcane Rider can spend a point from his arcane pool and use his
 At 14th level, Dimensional Ride becomes a swift action. After teleporting, the Arcane Rider and his mount become hasted for a number of rounds equal to the Rider's Intelligence modifier.
 
 ### Armored Battlemage
-An Armored Battlemage is very serious about defence.
+An Armored Battlemage is very serious about defense.
 
 - Loses Spell Combat
 - Cannot enchant a weapon
 - Receives fewer Arcana abilities
-- Can use medium and heavy armour earlier
+- Can use medium and heavy armor earlier
 - Receives Armor Training
-- Can enchant armour.
+- Can enchant armor.
 
 His level progression is as follows:
 
@@ -299,12 +299,12 @@ His level progression is as follows:
 | 20 | - | - | - | True Magus |
 
 #### Armored Battlemage Proficiencies
-An Armored Battlemage is proficient with simple and martial weapons. He is also proficient with light and medium armour and may cast magus spells while wearing it.
+An Armored Battlemage is proficient with simple and martial weapons. He is also proficient with light and medium armor and may cast magus spells while wearing it.
 
 #### Arcane Pool (Armored Battlemage)
-An Armored Battlemage cannot spend points from his arcane pool to enhance weapons. Instead, he can expend one point as a swift action to confer a +1 enhancement bonus to his armour for one minute. This increases to +2 at 5th level and every four levels thereafter to +5 at 17th level. The bonus stacks with any existing armour bonus to a maximum of +5.
+An Armored Battlemage cannot spend points from his arcane pool to enhance weapons. Instead, he can expend one point as a swift action to confer a +1 enhancement bonus to his armor for one minute. This increases to +2 at 5th level and every four levels thereafter to +5 at 17th level. The bonus stacks with any existing armor bonus to a maximum of +5.
 
-Starting from 5th level, these bonuses can be used to add armour properties. The available properties and the enchantment cost of each one are shown in the table below.
+Starting from 5th level, these bonuses can be used to add armor properties. The available properties and the enchantment cost of each one are shown in the table below.
 
 | Property | Amount | Cost |
 | --- | --- | --- |
@@ -323,7 +323,7 @@ Starting from 5th level, these bonuses can be used to add armour properties. The
 | Spell Resistance | 19 |  |
 
 ##### Arcane Armor - Balanced
-The wearer gains +4 CMD vs. grapple, trip and overrun manoeuvres.
+The wearer gains +4 CMD vs. grapple, trip and overrun maneuvers.
 
 ##### Arcane Armor - Invulnerability
 The wearer gains DR 5/magic.
@@ -519,10 +519,10 @@ At 4th level, a Hexcrafter may select a Witch hex and can use it as a Witch of t
 Besides the usual Magus Arcana abilities, a Hexcrafter can select a hex. From 12th level, a Hexcrafter can select major hexes and at 18th level, he can select a grand hex.
 
 ### Spell Dancer
-A Spell Dancer trades offence and defence for mobility.
+A Spell Dancer trades offense and defense for mobility.
 
 - Race must be Elf
-- Loses the ability to equip heavier armour
+- Loses the ability to equip heavier armor
 - Cannot enchant a weapon
 - Greatly improved mobility.
 
@@ -561,10 +561,10 @@ At 5th level, once per spell dance as a swift action, the Spell Dancer can grant
 At 5th level, when a Spell Dancer casts a spell, he gains a competence bonus to Mobility and Stealth checks equal to the spell's level until the beginning of his next turn.
 
 #### Dance of Avoidance
-At 7th level, while wearing armour or no armour, a Spell Dancer gains a +2 insight bonus to AC.
+At 7th level, while wearing armor or no armor, a Spell Dancer gains a +2 insight bonus to AC.
 
 #### Greater Dance of Avoidance
-At 13th level, while wearing armour or no armour, a Spell Dancer gains a +4 insight bonus to AC.
+At 13th level, while wearing armor or no armor, a Spell Dancer gains a +4 insight bonus to AC.
 
 ### Sword Saint
 A Sword Saint channels his arcane power through his weapon.
@@ -602,16 +602,16 @@ He has the following level progression:
 The Sword Saint may cast one fewer spell of each level than a Magus. If this reduces the number of spells to 0, he may only select a spell of that level if he has sufficient Intelligence to gain a bonus spell.
 
 #### Sword Saint Proficiencies
-A Sword Saint is proficient only with simple weapons and his chosen weapon. He is not proficient with armour and suffers arcane spell failure when wearing armour.
+A Sword Saint is proficient only with simple weapons and his chosen weapon. He is not proficient with armor and suffers arcane spell failure when wearing armor.
 
 #### Chosen Weapon
 At 1st level, a sword saint gains Weapon Focus with his chosen weapon as a bonus feat.
 
 #### Canny Defense
-When wearing light or no armour, a Sword Saint adds 1 point of Intelligence bonus per class level as a dodge bonus to his armour class.
+When wearing light or no armor, a Sword Saint adds 1 point of Intelligence bonus per class level as a dodge bonus to his armor class.
 
 #### Perfect Strike
-At 4th level, the Sword Saint can expend one point from his Arcane Pool to maximise the damage inflicted by his chosen weapon. Alternatively, when he confirms a critical hit, he can expend two points to increase his weapon's critical multiplier by 1.
+At 4th level, the Sword Saint can expend one point from his Arcane Pool to maximize the damage inflicted by his chosen weapon. Alternatively, when he confirms a critical hit, he can expend two points to increase his weapon's critical multiplier by 1.
 
 #### Lightning Draw
 At 7th level, the Sword Saint adds his Intelligence bonus to initiative rolls as well as his Dexterity modifier.

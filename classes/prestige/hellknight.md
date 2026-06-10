@@ -81,10 +81,10 @@ As a standard action, the Hellknight can make a touch attack which inflicts 1d6 
 At 7th level, the Hellknight's attacks are treated as lawful for the purpose of overcoming damage reduction.
 
 #### Infernal Armor
-At 9th level, while wearing armour, a Hellknight receives a +2 bonus to Persuasion checks, fire resistance 30 and cold and acid resistance 10.
+At 9th level, while wearing armor, a Hellknight receives a +2 bonus to Persuasion checks, fire resistance 30 and cold and acid resistance 10.
 
 #### Hell's Knight
-At 10th level, a Hellknight becomes immune to fire while wearing armour. She can also add a property to her weapon, one of Axiomatic, Flaming Burst or Unholy.
+At 10th level, a Hellknight becomes immune to fire while wearing armor. She can also add a property to her weapon, one of Axiomatic, Flaming Burst or Unholy.
 
 ##### Playing a Hellknight
 The Hellknight abilities are good, particularly the 9th and 10th level ones. The obvious path - Armiger to Hellknight (and then, curiously, back to Hellknight-in-training) is a lot better than Aldori Defender to Aldori Swordlord. However, you miss out on a lot: five bonus feats, two ranks of weapon training and the Fighter capstone abilities. Furthermore, Hellknight levels do not count as Fighter levels for the purposes of unlocking feats. The question then becomes: are the Hellknight abilities worth it? And the answer to that is: no.

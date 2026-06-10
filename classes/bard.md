@@ -95,7 +95,7 @@ The standard Bard has the following level progression:
 | 20 | - | Deadly Performance | - |
 
 #### Bard Proficiencies
-Bards are proficient with simple weapons plus the longsword, rapier, short sword and shortbow. Bards are also proficient with light armour and shields.
+Bards are proficient with simple weapons plus the longsword, rapier, short sword and shortbow. Bards are also proficient with light armor and shields.
 
 #### Bardic Performance
 The bard can sing for a total of four rounds + her Charisma modifier per day. She can sing for an additional 2 rounds per class level.

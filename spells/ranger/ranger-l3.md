@@ -10,7 +10,7 @@ game_patch: 2.7.0
 - **Chameleon Stride, Greater** *(Illusion)* — _See Hunter spell list._
 - **Cure Moderate Wounds** *(Conjuration)* — _See Cleric spell list._
 - **Feather Step, Mass** *(Transmutation)* — _See Druid spell list._
-- **Instant Enemy** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 minute / level | Cast: Swift Action — Designates the targeted creature as your favoured enemy.
+- **Instant Enemy** *(Enchantment)* — T: One enemy creature within close range | Dur: 1 minute / level | Cast: Swift Action — Designates the targeted creature as your favored enemy.
 - **Life Blast** *(Necromancy)* — _See Druid spell list._
 - **Longstrider, Greater** *(Transmutation)* — _See Druid spell list._
 - **Magic Fang, Greater** *(Transmutation)* — _See Druid spell list._

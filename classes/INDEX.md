@@ -33,7 +33,7 @@ L107 Angelfire Apostle; L151 Crusader; L195 Demonbane Priest; L236 Ecclesitheurg
 L148 Blight Druid; L189 Defender of the True World; L236 Drovier; L270 Elemental Rampager; L346 Feyspeaker; L400 Primal Druid; L437 Winter Child
 
 ## fighter.md (534 lines)
-L136 Aldori Defender; L182 Armiger; L244 Defender of the Hearth; L290 Dragonheir Scion; L342 Mutation Warrior; L380 Titan Fighter; L430 Tower Shield Specialist; L483 Two-Handed Fighter
+L136 Aldori Defender; L182 Armiger; L244 Defender of the Hearth; L290 Dragonheir Scion; L342 Mutation Warrior; L380 Titan Fighter; L430 Tower Shield Specializt; L483 Two-Handed Fighter
 
 ## hunter.md (571 lines)
 L178 Colluding Scoundrel; L216 Divine Hound; L265 Divine Hunter; L310 Forester; L366 Tandem Executioner; L480 Urban Hunter; L525 Wandering Marksman; L569 Hunter Spells
@@ -84,7 +84,7 @@ L294 Champion of the Faith; L338 Cult Leader; L387 Disenchanter; L432 Feral Cham
 L367 Elemental Witch; L405 Hag of Gyronna; L479 Hagbound; L527 Hex Channeler; L557 Keen-Eyed Adventurer; L602 Ley Line Guardian; L640 Stigmatized Witch; L678 Witch of the Veil; L719 Witch Spells
 
 ## wizard.md (760 lines)
-L399 Arcane Bomber; L441 Cruromancer; L490 Elemental Specialist; L528 Exploiter Wizard; L567 Scroll Savant; L610 Shadowcaster; L676 Spell Master; L716 Thassilonian Specialist
+L399 Arcane Bomber; L441 Cruromancer; L490 Elemental Specializt; L528 Exploiter Wizard; L567 Scroll Savant; L610 Shadowcaster; L676 Spell Master; L716 Thassilonian Specializt
 
 ## classes/prestige/
 One file per prestige class: _overview.md, aldori-swordlord.md, arcane-trickster.md, assassin.md, dragon-disciple.md, duelist.md, eldritch-knight.md, hellknight-signifer.md, hellknight.md, loremaster.md, mystic-theurge.md, stalwart-defender.md, student-of-war.md, winter-witch.md

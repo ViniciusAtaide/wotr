@@ -19,7 +19,7 @@ game_patch: 2.7.0
 - **Cure Moderate Wounds** *(Conjuration)* — T: One friendly creature within touch range | Save: Will half (if used to damage) | Desc: Cure — The target is healed 2d8 points of damage + 1 point per caster level (maximum +10). This spell will damage undead by the same amount, in which case they receive a Will save to take only half damage.
 - **Delay Poison** *(Conjuration)* — T: One friendly creature within close range | Dur: 1 hour / level — The subject becomes temporarily immune to poison. If the subject is poisoned, any further effects stop.
 - **Eagle's Splendor** *(Transmutation)* — _See Wizard spell list._
-- **Effortless Armor** *(Transmutation)* — T: Personal | Dur: 1 minute / level — Armour you wear no longer reduces your speed. Reduce any armour check penalty by 1 + 1 / five caster levels (maximum 5).
+- **Effortless Armor** *(Transmutation)* — T: Personal | Dur: 1 minute / level — Armor you wear no longer reduces your speed. Reduce any armor check penalty by 1 + 1 / five caster levels (maximum 5).
 - **Find Traps** *(Divination)* — T: Personal | Dur: 1 minute / level — You gain an insight bonus equal to half your caster level (maximum +10) to Perception checks.
 - **Grace** *(Abjuration)* — T: Personal | Dur: 1 round | Cast: Swift Action — Until the end of the round, your movement does not provoke attacks of opportunity.
 - **Hold Person** *(Enchantment)* — _See Wizard spell list._
@@ -31,6 +31,6 @@ game_patch: 2.7.0
 - **Remove Paralysis** *(Conjuration)* — T: One friendly creature within close range — Removes paralysis from the target.
 - **Resist Energy** *(Abjuration)* — _See Wizard spell list._
 - **Restoration, Lesser** *(Conjuration)* — T: One friendly creature within close range | Cast: Full round — Dispels any temporary magical effects reducing one of the subject's attributes or restores 1d4 points of temporary attribute damage. It also eliminates fatigue.
-- **Sound Burst** *(Evocation)* — T: 10' burst centred on target point within close range | Save: Fortitude negates stun | Desc: Sonic — Creatures in the area of effect take 1d8 points of sonic damage and must make a Fortitude save or be stunned for 1 round.
+- **Sound Burst** *(Evocation)* — T: 10' burst centered on target point within close range | Save: Fortitude negates stun | Desc: Sonic — Creatures in the area of effect take 1d8 points of sonic damage and must make a Fortitude save or be stunned for 1 round.
 - **Summon Monster II** *(Conjuration)* — _See Wizard spell list._
 - **Summon Small Elemental** *(Conjuration)* — _See Wizard spell list._

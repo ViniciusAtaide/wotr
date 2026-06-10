@@ -360,7 +360,7 @@ A Keen-Eyed Adventurer gives up three hexes to gain level-scaling cantrips. Give
 
 A Ley Line Guardian gives up two hexes and her familiar for the ability to empower a number of spell casts per day. However, when she does so, she must make a *Fortitude* save or become staggered for a very long time. Given that a Witch has a weak Fortitude save, you're liable to spend a long time in the staggered state. On the plus side, she casts spells spontaneously if you prefer that playstyle. However, if you prefer that playstyle, a Sorcerer is plain better.
 
-A Stigmatized Witch is also a spontaneous caster. She doesn't lose out on hexes but she does lose out on a Patron which means that her spell list is going to be restricted. She must also take a Curse. These aren't altogether bad (at least in the later levels) but most are better on an Oracle who is more suited to front-line duties. The only curse that *really *synergises with a Witch is Blackened but the -4 AB penalty that comes with it is horrible.
+A Stigmatized Witch is also a spontaneous caster. She doesn't lose out on hexes but she does lose out on a Patron which means that her spell list is going to be restricted. She must also take a Curse. These aren't altogether bad (at least in the later levels) but most are better on an Oracle who is more suited to front-line duties. The only curse that *really *synergizes with a Witch is Blackened but the -4 AB penalty that comes with it is horrible.
 
 Finally, the Witch of the Veil gives up a bunch of hexes for a bona fide superpower: the ability to turn invisible at will *as a swift action*. This is somewhat useful in a party context since the rest of your party are unaffected but some people are masochistic enough to try and solo the game and Shrouded Step is the basis of many solo unfair strategies.
 
@@ -557,7 +557,7 @@ At 2nd level, a Hex Channeler can channel positive energy (if good-aligned) or n
 ### Keen-Eyed Adventurer
 The Keen-Eyed Adventurer archetype requires the *Visitors from Morta* free DLC.
 
-A Keen-Eyed Adventurer specialises in ray-based attacks:
+A Keen-Eyed Adventurer specializes in ray-based attacks:
 
 - Deals bonus damage with cantrips
 - Loses three hexes.
@@ -594,7 +594,7 @@ A Keen-Eyed Adventurer gains access to the Acid Splash, Ignition, Jolt and Ray o
 This does not work with spells (such as *Snowball*) turned into cantrips with the Completely Normal Spell metamagic feat.
 
 #### Elemental Vortex
-From 6th level and once per combat, a Keen-Eyed Adventurer can summon a vortex which lasts one round per 6 witch levels (max 3 rounds at 18th level). While the vortex is active, she may attempt a combat manoeuvre check (using her witch level in place of BAB and Intelligence in place of Strength) against enemies within 10'. A successful check pulls affected enemies towards the vortex and deals 1d8 slashing damage per two witch levels (Reflex save for half damage).
+From 6th level and once per combat, a Keen-Eyed Adventurer can summon a vortex which lasts one round per 6 witch levels (max 3 rounds at 18th level). While the vortex is active, she may attempt a combat maneuver check (using her witch level in place of BAB and Intelligence in place of Strength) against enemies within 10'. A successful check pulls affected enemies towards the vortex and deals 1d8 slashing damage per two witch levels (Reflex save for half damage).
 
 #### Cantrip Mastery
 At 20th level, when casting a spell which requires a ranged touch attack, a Keen-Eyed Adventurer deals bonus damage equal to her Intelligence modifier.

@@ -18,7 +18,7 @@ Note that Empyreal Sorcerers, Sage Sorcerers and Sylvan Sorcerers have fixed blo
 
 If you are intending to take Dragon Disciple levels, you *must* select one of the Draconic bloodlines.
 
-At level 3 and at odd-numbered levels thereafter, Sorcerers and Eldritch Scions may select a bonus spell related to their bloodline which adds to the spells they learn from levelling up normally. Bloodragers gain bonus spells from level 7. At levels 7, 13 and 19 a Sorcerer character selects a bonus feat related to their bloodline.
+At level 3 and at odd-numbered levels thereafter, Sorcerers and Eldritch Scions may select a bonus spell related to their bloodline which adds to the spells they learn from leveling up normally. Bloodragers gain bonus spells from level 7. At levels 7, 13 and 19 a Sorcerer character selects a bonus feat related to their bloodline.
 
 ### Abyssal Bloodline
 You have demonic ancestry. The bloodline has the following characteristics:
@@ -121,7 +121,7 @@ When casting a spell that does damage of the bloodline's element, add +1 point o
 This is a free action and grants two attacks that do 1-4 base damage. At 5th level, the claws are considered magical for the purposes of overcoming DR. At 7th level, the damage increases to 1-6 and at 11th level, the claws deal an additional 1-6 points of elemental damage. The ability can be used a number of times per day equal to 3 + your Charisma modifier.
 
 #### Dragon Resistances
-At 3rd level, you gain resist 5 vs. your bloodline's element and a +1 natural armour bonus. At 9th level, the resistance increases to 10 and the armour bonus increases to +2. At 15th level, the armour bonus increases to +4.
+At 3rd level, you gain resist 5 vs. your bloodline's element and a +1 natural armor bonus. At 9th level, the resistance increases to 10 and the armor bonus increases to +2. At 15th level, the armor bonus increases to +4.
 
 #### Wings (Draconic)
 At level 15, you gain the Wings feat.
@@ -245,7 +245,7 @@ Whenever you cast a mind-affecting or language-dependent spell, it affects anima
 This is a free action and grants an attack that does 1-4 base damage + poison (DC 10 + half class level + Constitution modifier) that does 1 Con damage per round for 6 rounds. At level 5, the fangs are considered magical for the purposes of overcoming DR and the poison damage increases to 1d2 Con. At level 7, the poison requires two successful saves to cure. At level 11, the damage increases to 1d4 Con. The ability can be used a number of times per day equal to 3 + your Charisma modifier.
 
 #### Snakeskin
-At 9th level, you gain a +1 bonus to natural armour, a +2 racial bonus to saves against poison and a +2 bonus to Mobility checks. At 13th level and 17th level, these bonuses increase by +1.
+At 9th level, you gain a +1 bonus to natural armor, a +2 racial bonus to saves against poison and a +2 bonus to Mobility checks. At 13th level and 17th level, these bonuses increase by +1.
 
 #### Den of Vermin
 Once per day, cast Creeping Doom with differences that the poison does Con damage and that creatures in the area of effect are entangled.

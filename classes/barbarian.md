@@ -69,7 +69,7 @@ The standard Barbarian has the following level progression:
 | 20 | - | Mighty Rage | Rage Power |
 
 #### Barbarian Proficiencies
-A Barbarian is proficient with all simple and martial weapons, light armour, medium armour and shields.
+A Barbarian is proficient with all simple and martial weapons, light armor, medium armor and shields.
 
 #### Rage
 At 1st level a Barbarian can rage for a number of rounds per day equal to 4 + his Constitution modifier. For each class level after 1st, he can rage for 2 additional rounds per day. Rage is a free action.
@@ -77,7 +77,7 @@ At 1st level a Barbarian can rage for a number of rounds per day equal to 4 + hi
 When enraged, the Barbarian gains +2 to attack rolls, melee damage rolls, thrown weapon damage rolls and Will saving throws along with a -2 penalty to AC. He also gains 2 temporary HP per hit die. Ending the rage is a free action and the Barbarian is fatigued for 1 minute.
 
 #### Fast Movement
-A Barbarian's speed increases by 10' when not in heavy armour and not carrying a heavy load.
+A Barbarian's speed increases by 10' when not in heavy armor and not carrying a heavy load.
 
 #### Rage Power
 At 2nd level, the Barbarian can learn new abilities to apply when raging.
@@ -93,7 +93,7 @@ The Barbarian gains two claw attacks. These are made at the Barbarian's full att
 ##### Beast Totem
 Prerequisites: Beast Totem, Lesser; Barbarian level: 6
 
-The Barbarian gains +1 natural armour bonus + 1 for every four levels.
+The Barbarian gains +1 natural armor bonus + 1 for every four levels.
 
 ##### Beast Totem, Greater
 Prerequisites: Beast Totem; Barbarian level: 10
@@ -242,7 +242,7 @@ A Barbarian is somewhat feat-starved and defensively weak. However, the Limitles
 
 Rather than feats, a Barbarian receives Rage Powers. There is a definite hierarchy here. You want to take the Beast Totem line and the full Lethal Stance line. Place anything left over in Swift Foot and Increased Damage Reduction. You may find it tempting to take Reckless Stance and Inspire Ferocity. However, the massive AC hit to the entire party outweighs the AB bonus. If you want rage powers on everyone, a Skald does this better. Powerful Stance + Wrecking Blows is only better than Lethal Stance + Deadly Accuracy if you use a weapon with a threat range of 20 (e.g. scythe). Even then, the difference is slight.
 
-Several of the Barbarian archetypes are very much worse than the base class. An Armored Hulk loses Uncanny Dodge in exchange for the ability to wear heavy armour. Since a Fighter does the heavily armoured thing better, this is a very bad trade.
+Several of the Barbarian archetypes are very much worse than the base class. An Armored Hulk loses Uncanny Dodge in exchange for the ability to wear heavy armor. Since a Fighter does the heavily armored thing better, this is a very bad trade.
 
 A Beastskin Berserker trades Rage Powers for the ability to assume (eventually) three beast forms. Even the bear form will greatly reduce your damage output and given that the form only lasts for the duration of the rage, it is worse than other wild shape abilities.
 
@@ -254,12 +254,12 @@ An Invulnerable Rager loses Uncanny Dodge. However, it trades it for something w
 
 Finally, the Pack Rager is the worst Barbarian archetype by some margin, trading Rage Powers and Damage Reduction for teamwork feats. When it comes to teamwork feats, you want Outflank on everyone and most of the others on no-one. The class doesn't even get something like solo tactics to make the teamwork feats less terrible. Instead at 7th level (which is a long time to wait), a Pack Rager can share one teamwork feat *while raging*. If he could share Rage Powers that might lift the Pack Rager above the Armored Hulk, but instead, it is one of the very worst class choices.
 
-Some of the archetypes can be improved with multiclassing. Something like Mad Dog (17) / Sacred Huntsmaster (3) or Invulnerable Rager (15) / Tower Shield Specialist (5) are good combinations.
+Some of the archetypes can be improved with multiclassing. Something like Mad Dog (17) / Sacred Huntsmaster (3) or Invulnerable Rager (15) / Tower Shield Specializt (5) are good combinations.
 
 ### Armored Hulk
-The Armored Hulk is a master of heavy armour.
+The Armored Hulk is a master of heavy armor.
 
-- Gains proficiency in heavy armour
+- Gains proficiency in heavy armor
 - Loses Uncanny Dodge and Danger Sense.
 
 His level progression is as follows:
@@ -289,16 +289,16 @@ His level progression is as follows:
 | 20 | - | Mighty Rage | Rage Power |
 
 #### Indomitable Stance
-An Armored Hulk gains a +1 bonus on combat manoeuvre checks, CMD and Reflex saves against trample attacks. She also gains a +1 bonus to AC and attack and damage rolls against charging creatures.
+An Armored Hulk gains a +1 bonus on combat maneuver checks, CMD and Reflex saves against trample attacks. She also gains a +1 bonus to AC and attack and damage rolls against charging creatures.
 
 #### Armored Swiftness
-At 2nd level, an Armored Hulk moves 5' faster than normal in medium and heavy armour.
+At 2nd level, an Armored Hulk moves 5' faster than normal in medium and heavy armor.
 
 #### Resilience of Steel
-When wearing heavy armour, the Armored Hulk gains an additional +1 AC bonus against critical hit confirmation rolls. This increases by +1 every three additional levels (+6 at 18th level).
+When wearing heavy armor, the Armored Hulk gains an additional +1 AC bonus against critical hit confirmation rolls. This increases by +1 every three additional levels (+6 at 18th level).
 
 #### Improved Armored Swiftness
-At 5th level, an Armored Hulk moves 10' faster than normal in medium and heavy armour.
+At 5th level, an Armored Hulk moves 10' faster than normal in medium and heavy armor.
 
 ### Beastskin Berserker
 A Beastskin Berserker unleashes his inner animal.
@@ -453,7 +453,7 @@ At 1st level an Instinctual Warrior can rage for a number of rounds per day equa
 When enraged, the Barbarian gains +2 bonus to attack rolls and Wisdom. He also gains 2 temporary HP per hit die. Ending the rage is a free action and the Barbarian is fatigued for 1 minute.
 
 #### Cunning Elusion
-When unarmoured and not wielding a shield, an Instinctual Warrior adds his Wisdom bonus to his AC and CMD. At 4th level and every four subsequent levels, this bonus increases by +1 (maximum +5 at 20th level).
+When unarmored and not wielding a shield, an Instinctual Warrior adds his Wisdom bonus to his AC and CMD. At 4th level and every four subsequent levels, this bonus increases by +1 (maximum +5 at 20th level).
 
 #### Rage Power (Instinctual Warrior)
 Besides the normal Barbarian rage powers, an Instinctual Warrior can select a number of Monk abilities and Ki powers: Deflect Arrows (requires *Improved Unarmed Strike*), Purity of Body (requires 8th level), Diamond Body (requires 12th level), Diamond Soul (requires 16th level) and Perfect Self (requires 20th level).
@@ -545,7 +545,7 @@ At 2nd level, a Mad Dog and his companion gain +4 on attack rolls when flanking 
 At 5th level, a Mad Dog's companion gains Greater Trip as a bonus feat.
 
 #### Throat Cutter
-Whenever a Mad Dog's companion succeeds at a bull rush, overrun or trip combat manoeuvre against an opponent that he also threatens, he can make an attack of opportunity against that opponent.
+Whenever a Mad Dog's companion succeeds at a bull rush, overrun or trip combat maneuver against an opponent that he also threatens, he can make an attack of opportunity against that opponent.
 
 ### Pack Rager
 A Pack Rager uses tactics as well as brute force.

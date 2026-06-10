@@ -28,7 +28,7 @@ The game is not terribly clear as to which weapons this feat applies to. They ar
 
 - Simple: Dagger, Light Mace, Punching Dagger, Sickle
 - Martial: Handaxe, Kukri, Light Hammer, Light Pick, Rapier, Short Sword, Starknife
-- Exotic: Dueling Sword, Elven Curve Blade, Estoc, Kama, Sai, Swatooth Saber.
+- Exotic: Dueling Sword, Elven Curve Blade, Estoc, Kama, Sai, Sawtooth Saber.
 
 ## Weapon Focus
 **Prereq:** Base Attack Bonus: 1
@@ -52,7 +52,7 @@ You can select one of the following Weapon Training options: Armed Bravery, Comb
 
 ## Dazzling Display
 **Prereq:** Weapon Focus
-As a full-round action, attempt to demoralise all foes within 30'. This requires a Persuasion check.
+As a full-round action, attempt to demoralize all foes within 30'. This requires a Persuasion check.
 
 ## Shatter Defenses
 **Prereq:** Weapon Focus, Dazzling Display, Base Attack Bonus: 6
@@ -108,11 +108,11 @@ You can use Cleaving Finish any number of times per round.
 
 ## Cornugon Smash
 **Prereq:** Power Attack, Persuasion: 6
-If you damage an opponent with a Power Attack, you may make a Persuasion attempt as a free action to attempt to demoralise your opponent.
+If you damage an opponent with a Power Attack, you may make a Persuasion attempt as a free action to attempt to demoralize your opponent.
 
 ## Dreadful Carnage
 **Prereq:** Strength: 15, Dazzling Display, Power Attack, Base Attack Bonus: 11
-When you reduce an enemy to 0 HP, you can make a Persuasion attempt as a free action to attempt to demoralise all foes within 30' who witness the attack.
+When you reduce an enemy to 0 HP, you can make a Persuasion attempt as a free action to attempt to demoralize all foes within 30' who witness the attack.
 
 ## Focused Strike
 **Prereq:** Strength: 13, Power Attack, Base Attack Bonus: 1
@@ -165,7 +165,7 @@ You receive a +4 circumstance bonus to attack rolls made to confirm critical hit
 
 ## Flaying Critical
 **Prereq:** Critical Focus, Base Attack Bonus: 11
-When you score a critical hit, you apply a stacking -1 penalty to your opponent's natural armour bonus to AC.
+When you score a critical hit, you apply a stacking -1 penalty to your opponent's natural armor bonus to AC.
 
 ## Sickening Critical
 **Prereq:** Critical Focus, Base Attack Bonus: 11

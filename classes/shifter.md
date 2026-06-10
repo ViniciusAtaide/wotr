@@ -72,12 +72,12 @@ The standard Shifter has the following level progression:
 | 20 | - | Shifter Aspect | Final Aspect |
 
 #### Shifter Proficiencies
-A Shifter is proficient with all simple weapons, light armour, medium armour and shields.
+A Shifter is proficient with all simple weapons, light armor, medium armor and shields.
 
 #### Shifter Aspect
 At 1st level, a Shifter can assume the minor form of his animal aspect for a number of minutes per day equal to 3 + his Shifter level. Assuming a minor form is a swift action and ending it is a free action.
 
-From 4th level, the Shifter can assume the major form of his animal aspect for one hour at a time (permanent with the Master Shapeshifter mythic ability) and can do so a number of times per day equal to his Shifter level + Wisdom modifier. Assuming a major form is a standard action. Any assumed minor forms are cancelled.
+From 4th level, the Shifter can assume the major form of his animal aspect for one hour at a time (permanent with the Master Shapeshifter mythic ability) and can do so a number of times per day equal to his Shifter level + Wisdom modifier. Assuming a major form is a standard action. Any assumed minor forms are canceled.
 
 At 5th, 10th, 15th and 20th levels, the Shifter gains another aspect.
 
@@ -99,7 +99,7 @@ Major Form: While in dinosaur form, you gain +30' speed, the scent ability (30')
 ##### Horse Aspect
 Minor Form: You gain the Endurance feat and 5' speed, increasing to +10' at 8th level and +15' at 15th level.
 
-Major Form: While in horse form, you gain +20' speed, the scent ability (30'), two 1d4 hoof attacks and your attacks deal double damage when charging or attempting an overrun manoeuvre. At 8th level, your movement does not provoke attacks of opportunity and you can use the overrun ability. At 15th level, you gain Overrun as a bonus feat.
+Major Form: While in horse form, you gain +20' speed, the scent ability (30'), two 1d4 hoof attacks and your attacks deal double damage when charging or attempting an overrun maneuver. At 8th level, your movement does not provoke attacks of opportunity and you can use the overrun ability. At 15th level, you gain Overrun as a bonus feat.
 
 ##### Lizard Aspect
 Minor Form: You gain a +2 inherent bonus to Reflex saves, increasing to +4 at 8th level and +6 at 15th level.
@@ -109,14 +109,14 @@ Major Form: While in lizard form, you gain +10' speed, the scent ability (30') a
 ##### Mammoth Aspect
 Minor Form: You gain a +2 inherent bonus to Strength, increasing to +4 at 8th level and +6 at 15th level.
 
-Major Form: While in mammoth form, you gain the scent ability (30'), a 1d6 gore attack and two 1d8 slam attacks. You also gain a +2 racial bonus to Strength and a +2 natural armour bonus to AC. At 8th level, you gain the overrun ability. At 15th level, you gain the Bull Rush feat and the racial bonuses to Strength and natural armour bonus increases to +4.
+Major Form: While in mammoth form, you gain the scent ability (30'), a 1d6 gore attack and two 1d8 slam attacks. You also gain a +2 racial bonus to Strength and a +2 natural armor bonus to AC. At 8th level, you gain the overrun ability. At 15th level, you gain the Bull Rush feat and the racial bonuses to Strength and natural armor bonus increases to +4.
 
 ##### Spider Aspect
 Minor Form: You gain a +2 dodge bonus to AC, increasing to +4 at 8th level and +6 at 15th level.
 
 Major form: While in spider form, you gain the tremorsense ability (10'), the web special attack and a 1d6 bite attack. At 8th level, you gain a +4 racial bonus to Perception checks and the range of tremorsense increases to 20'. At 15th level, you gain the improved natural attack ability with bite attacks and the range of tremorsense increases to 30'.
 
-Web: You make a ranged touch attack as a standard action immobilising the target. The target can break free with an Athletics or Mobility check with a DC equal to 10 + half your Shifter level + your Constitution modifier.
+Web: You make a ranged touch attack as a standard action immobilizing the target. The target can break free with an Athletics or Mobility check with a DC equal to 10 + half your Shifter level + your Constitution modifier.
 
 ##### Tiger Aspect
 Minor Form: You gain a +2 inherent bonus to Dexterity, increasing to +4 at 8th level and +6 at 15th level.
@@ -149,7 +149,7 @@ When not in major form, a Shifter can extend his claws as a swift action. Claw a
 When shifted, the Shifter's primary natural attacks (bite, claw, gore, etc.) gain the benefits of the Shifter Claws ability and their damage is at least the damage from the Shifter Claws ability.
 
 #### Defensive Instinct
-At 2nd level, when unarmoured, the Shifter adds his Wisdom bonus to AC and CMD. This bonus applies against touch attacks and when the Shifter is flat-footed. They increase by +1 at 4th level and every four subsequent levels (max +5 at 20th level). If the Shifter is wearing non-metal armour, he adds half his Wisdom bonus to AC.
+At 2nd level, when unarmored, the Shifter adds his Wisdom bonus to AC and CMD. This bonus applies against touch attacks and when the Shifter is flat-footed. They increase by +1 at 4th level and every four subsequent levels (max +5 at 20th level). If the Shifter is wearing non-metal armor, he adds half his Wisdom bonus to AC.
 
 #### Track
 At 2nd level, a Shifter adds half his class level to Lore (Nature) checks.
@@ -188,7 +188,7 @@ A Weretouched shifter's were forms are quite powerful, particularly the weretige
 
 A Wild Effigy basically swaps the ability to dodge attacks for the ability to shrug off damage. 20/- DR is good but +10 AC, say, is better.
 
-The Griffonheart Shifter archetype is restricted to the DLC companion, Ulbrig. It compares favourably to the base class, trading flexibility for a higher inherent attribute bonus and three feats. The major form is decent, comparable to the Tiger and Dinosaur forms.
+The Griffonheart Shifter archetype is restricted to the DLC companion, Ulbrig. It compares favorably to the base class, trading flexibility for a higher inherent attribute bonus and three feats. The major form is decent, comparable to the Tiger and Dinosaur forms.
 
 ### Child of the Manticore
 A Child of the Manticore limits himself to just a single, powerful aspect.
@@ -295,7 +295,7 @@ At 9th level, the shifter gains a +2 racial bonus to saves vs. sleep and paralys
 At 14th level, the shifter gains a +4 racial bonus to saves vs. sleep and paralysis effects and can assume dragon form as the Dragonkind II spell. This ability lasts one hour (permanent with the Master Shapeshifter Mythic ability) and can be used a number of times per day equal to the Shifter's class level + Wisdom modifier.
 
 #### Greater Wyrmshifter
-At 20th level, the shifter becomes immune and sleep and paralysis effects and can transform into a dragon at will. He gains a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armour bonus to AC, +10' movement speed, immunity to difficult terrain, DR 10/magic and immunity to the forms's element. He gains a bite attack (2d8), two claws (1d8) and a tail slap (2d6) along with two secondary wing attacks (2d6). He can use a 16d8 breath weapon (Reflex save for half damage) once every 1d4 rounds. The breath attack bypasses energy resistances and immunities.
+At 20th level, the shifter becomes immune and sleep and paralysis effects and can transform into a dragon at will. He gains a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, +10' movement speed, immunity to difficult terrain, DR 10/magic and immunity to the forms's element. He gains a bite attack (2d8), two claws (1d8) and a tail slap (2d6) along with two secondary wing attacks (2d6). He can use a 16d8 breath weapon (Reflex save for half damage) once every 1d4 rounds. The breath attack bypasses energy resistances and immunities.
 
 ##### Breath Weapon (Black Dragon)
 The shifter's breath weapon deals 16d8 acid damage in a 100' line. Enemies failing their save receive a -5 penalty to attack rolls for 2 - 5 rounds.
@@ -310,7 +310,7 @@ The shifter's breath weapon deals 16d8 acid damage in a 50' cone. Enemies failin
 The shifter's breath weapon deals 16d8 fire damage in a 50' cone. Enemies failing their save receive a -5 penalty to AC for 2 - 5 rounds.
 
 ##### Breath Weapon (White Dragon)
-The shifter's breath weapon deals 16d8 cold damage in a 50' cone. Enemies failing their save become paralysed and receive an additional 20 cold damage per round. Each round an affected creature can attempt a Fortitude save to break free.
+The shifter's breath weapon deals 16d8 cold damage in a 50' cone. Enemies failing their save become paralyzed and receive an additional 20 cold damage per round. Each round an affected creature can attempt a Fortitude save to break free.
 
 ##### Breath Weapon (Brass Dragon)
 The shifter's breath weapon deals 16d8 fire damage in a 100' line. Allies take no damage but become overheated for 2 - 5 rounds, gaining +10' speed and an additional attack with melee weapons. The additional attack stacks with Haste and weapons with the speed property.
@@ -319,7 +319,7 @@ The shifter's breath weapon deals 16d8 fire damage in a 100' line. Allies take n
 The shifter's breath weapon deals 16d8 electricity damage in a 100' line. Allies take no damage but become electrified for 2 - 5 rounds, gaining a +5 dodge bonus to AC.
 
 ##### Breath Weapon (Copper Dragon)
-The shifter's breath weapon deals 16d8 acid damage in a 100' line. Allies take no damage but become hardened for 2 - 5 rounds, gaining a +5 natural armour bonus to AC.
+The shifter's breath weapon deals 16d8 acid damage in a 100' line. Allies take no damage but become hardened for 2 - 5 rounds, gaining a +5 natural armor bonus to AC.
 
 ##### Breath Weapon (Gold Dragon)
 The shifter's breath weapon deals 16d8 fire damage in a 50' cone. Allies take no damage but are healed for the same number of HP.
@@ -431,7 +431,7 @@ At 15th level, the shifter's DR increases to 7 / Good and he gains a +4 inherent
 Finally, at 20th level, the shifter's DR increases to 10 / Good and he becomes immune to electricity and fire. He also gains 25 spell resistance.
 
 #### Fiendish Resilience
-At 2nd level, while wearing no armour or light or medium nonmetal armour, the shifter gains a +1 natural armour bonus to AC and 5 resistance to electricity and fire. At 4th, 12th and 20th level, the natural armour bonus increases by 1. At 8th and 16th level, the shifter's resistance to electricity and fire increases by 10.
+At 2nd level, while wearing no armor or light or medium nonmetal armor, the shifter gains a +1 natural armor bonus to AC and 5 resistance to electricity and fire. At 4th, 12th and 20th level, the natural armor bonus increases by 1. At 8th and 16th level, the shifter's resistance to electricity and fire increases by 10.
 
 #### Chimeric Fiend
 At 9th level, the shifter gains an additional ability that he can use with fiendish aspect:
@@ -496,7 +496,7 @@ At 20th level, the Rageshaper gains a +4 racial bonus to Strength and improved n
 At will, a Rageshaper can gain two 1d4 slam attacks. The slam attack deals additional damage to constructs (+5 at 1st level, +10 at 5th level, +15 at 15th level and +20 at 15th level). It is otherwise identical to the Shifter Claws ability.
 
 #### Invulnerable Defenses
-At 2nd level, while wearing no armour or light or medium nonmetal armour, the shifter gains a +2 natural armour bonus to AC and DR 2/-. At 10th level, the shifter's DR increases to 5/- and 7/- at 15th level. Finally, at 20th level, the DR increases to 10/- and the natural armour bonus increases to +4.
+At 2nd level, while wearing no armor or light or medium nonmetal armor, the shifter gains a +2 natural armor bonus to AC and DR 2/-. At 10th level, the shifter's DR increases to 5/- and 7/- at 15th level. Finally, at 20th level, the DR increases to 10/- and the natural armor bonus increases to +4.
 
 ### Weretouched
 The Weretouched archetype requires the *Lord of Nothing* DLC.
@@ -537,7 +537,7 @@ At 2nd level, a Weretouched gains a +4 bonus to Perception checks and the Scent 
 From 4th level, a Weretouched can transform fully into one of several Werebeasts as a swift action. The transformation lasts for one hour and the Weretouched can use this ability once per day, gaining an additional use at 8th and 12th levels.
 
 ##### Major Lycanthropic Form (Wererat)
-The wererat has the Jump Up talent, DR 1/silver, two 1d4 claw attacks and a 1d6 bite attack. The bite attack makes a free disarm combat manoeuvre against the target and the wererat's attacks do an additional +1d6 sneak damage if the requirements are met.
+The wererat has the Jump Up talent, DR 1/silver, two 1d4 claw attacks and a 1d6 bite attack. The bite attack makes a free disarm combat maneuver against the target and the wererat's attacks do an additional +1d6 sneak damage if the requirements are met.
 
 At 8th level, DR increases to 3/silver and sneak damage increases to +2d6. The wererat also gains the Bestial Roar ability and the Weakening Wound talent.
 

@@ -7,11 +7,11 @@
 | **Race** | Aasimar (Musetouched) — +2 Dex, +2 Cha |
 | **Attributes** | Str 8, Dex 16, Con 14, Int 10, Wis 10, Cha 20 (level-ups → Charisma) |
 | **Key class choices** | Curse: Blackened · Mystery: Flame · Additional Spells: all "cure" spells |
-| **Weapon & armour** | Anything — you never swing a weapon (Blackened's attack penalty is irrelevant). Medium armour + heavy shield for AC; divine casting ignores armour spell failure. |
+| **Weapon & armor** | Anything — you never swing a weapon (Blackened's attack penalty is irrelevant). Medium armor + heavy shield for AC; divine casting ignores armor spell failure. |
 | **Mythic Path** | Angel with **merged spellbook** — caster level becomes Oracle level + mythic rank (up to 30), and your Charisma drives the DC of every Angel nuke |
 | **Party Fit** | Full 6-person party on Hard/Unfair. **This character is the party's only healer and buffer** — spells-known are weighted accordingly. No teamwork feats taken. Complements the Battle-mystery frontliner build (Sword of the Battle Herald) — do not run both as the same character concept; as party-mates they don't collide (different mysteries, different roles). |
 
-## Levelling Table
+## Leveling Table
 | Level | Feat | Class Feature Choice | Notes |
 | :--- | :--- | :--- | :--- |
 | 1 | Spell Focus (Evocation) | Revelation: **Burning Magic** | Enemies hit by your fire spells burn for 1/CL per round for 1d4 rounds |
@@ -55,7 +55,7 @@
 | 3 | Abundant Casting | Commit to Angel, **merge spellbooks**; Sword of Heaven; Angelic Halo — 6th-level spells at character level ~9 |
 | 4 | Spell Penetration (Mythic) | Improved Sword of Heaven: **Everlasting Flame** — imbue once, +2 dice on every spell for 1 min/rank |
 | 5 | Enduring Spells | Improved Angelic Halo: **Piercing Rays** — enemy SR and saves drop inside your halo |
-| 6 | Expanded Arsenal (Conjuration) | Improved Sword of Heaven: **Grand Blessing** — the +2 dice are maximised |
+| 6 | Expanded Arsenal (Conjuration) | Improved Sword of Heaven: **Grand Blessing** — the +2 dice are maximized |
 | 7 | **Greater Enduring Spells** | Halo's Holy Aura (automatic); Improved Angelic Halo: **Solar Winds** — party-wide energy resists |
 | 8 | Improved Initiative (Mythic) | Greater Sword of Heaven: **Speed of Light** — spells of 7th level or lower auto-quickened; Wings (automatic) |
 | 9 | Improved Abundant Casting | Improved Angelic Halo: **Blinding Light** |
@@ -64,7 +64,7 @@
 ## How It Plays
 **Chapters 1–2** you are a classic fire-blaster with a healing kit bolted on: Burning Hands and Scorching Ray come free from the curse, Burning Magic adds a caster-level burn tick to everything, and Ascendant Element (Fire) at mythic rank 1 means demon fire-immunity never blanks you. Between fights you're the medic — every cure spell is free, so your actual picks went to Bless, Shield of Faith and condition removal.
 
-**The spike is mythic rank 3.** Merging the Angel spellbook sets your caster level to Oracle level + mythic rank and unlocks spell levels years ahead of schedule — 6th-level spells around character level 9, 9th-level around 13. *Bolt of Justice* deals 1d6–1d12 holy damage *per caster level* with no cap and nothing in the Abyss resists holy. From here every fight opens with Sword of Heaven (Everlasting Flame, later Grand Blessing — a maximised +2 dice on every spell and heal), then alternates Bolt of Justice / Fireball-line nukes with emergency Heals nobody else can provide.
+**The spike is mythic rank 3.** Merging the Angel spellbook sets your caster level to Oracle level + mythic rank and unlocks spell levels years ahead of schedule — 6th-level spells around character level 9, 9th-level around 13. *Bolt of Justice* deals 1d6–1d12 holy damage *per caster level* with no cap and nothing in the Abyss resists holy. From here every fight opens with Sword of Heaven (Everlasting Flame, later Grand Blessing — a maximized +2 dice on every spell and heal), then alternates Bolt of Justice / Fireball-line nukes with emergency Heals nobody else can provide.
 
 **Endgame** is obscene. Greater Enduring Spells + Extend makes *Ward Against Harm Communal*, *Holy Aura* and friends last 24 hours — the party simply becomes immune to the annoying half of the game after one morning routine. Speed of Light at rank 8 auto-quickens everything 7th level and below, so each round is *Storm of Justice* plus a free quickened Heal or Flame Strike, inside a halo that strips enemy SR and saves (Piercing Rays) while feeding your party resists (Solar Winds). At 20, Final Revelation auto-Empowers all fire, and *Eye of the Sun* — 12 damage per caster level at CL 28+, half fire half holy, with the fire half ignoring immunity — deletes whatever the Bolt of Justice spam left standing.
 
@@ -88,7 +88,7 @@
 - [x] **Prerequisite Chains:** all feat prereqs satisfied at level taken (see A2)
 - [x] **Spells-Known Budget:** picks per level match the Oracle spells-known table exactly (5/5/4/4/4/3/3/3/3 at level 20, classes/oracle.md:45-66)
 - [x] **Stacking Audit:** see A4
-- [x] **Party-Composition Audit:** user confirmed via question — full party, Hard/Unfair, this PC is sole healer/buffer, no teamwork partner available → no teamwork feats taken; Flame+Blackened flavour confirmed by user
+- [x] **Party-Composition Audit:** user confirmed via question — full party, Hard/Unfair, this PC is sole healer/buffer, no teamwork partner available → no teamwork feats taken; Flame+Blackened flavor confirmed by user
 
 ## A2. Evidence Table
 | Claim | Source | Status |
@@ -151,8 +151,8 @@
 - **Bless (+1 morale attack) vs Prayer (+1 morale attack)** — same type, do not stack. Prayer supersedes Bless mid-game; keep Bless for cheap level-1 slots only. Both are superseded by **Holy Hymn (+2 luck)** which stacks with morale.
 - **Shield of Faith (deflection) vs Shield from Demonkind (deflection, Angel L3)** — collide; once merged book online, Shield from Demonkind is the better deflection vs demons (adds thorns damage). Shield of Faith remains for non-demon fights / other allies.
 - **Angelic Halo** AC/save bonus vs evil is its own untyped source — stacks with everything above.
-- **Magical Vestment (enhancement to armour)** — no collision with any pick here.
+- **Magical Vestment (enhancement to armor)** — no collision with any pick here.
 - **Aid (+1 morale attack)** — collides with Bless/Prayer; its value is the temp HP, cast for that.
-- **Sword of Heaven dice (+2 dice, maximised via Grand Blessing)** apply to spells and heals while the imbued weapon is held — hold a weapon even though you never attack with it.
+- **Sword of Heaven dice (+2 dice, maximized via Grand Blessing)** apply to spells and heals while the imbued weapon is held — hold a weapon even though you never attack with it.
 - **DC stack on fire evocations:** Spell Focus + Greater + Mythic SF (Evocation) = +4 net DC; Expanded Arsenal copies the SF/GSF +2 onto Conjuration for Bolt/Storm of Justice's Reflex riders; Heighten adds up to +6 more on low-level fire spells in 9th slots; Piercing Rays halo further debuffs enemy saves — multiplicative with everything since it's a penalty on the enemy, not a bonus to you.
 - **Penetration stack:** Spell Penetration + Greater (+4) + Mythic SP (full mythic rank, +10 at R10) + CL 30 from merge + Piercing Rays SR penalty (−6 at R10) — demon SR is a non-issue from mid-game.

@@ -77,7 +77,7 @@ When you choose the Angel or Lich paths you can choose to merge spellbooks so th
 - Your caster level when using your combined spellbook is your caster level from your main class + your mythic rank
 - The casting attribute for your combined spellbook is the casting attribute of your main class so that Sorcerer -> Lich would use Charisma while Sage Sorcerer -> Lich would use Intelligence.
 
-The combined caster level means that you gain higher level spells much earlier. For example, you will reach mythic rank 3 at around character level 9. This would allow a Cleric / Angel to memorise 6th level spells while she would unlock 7th level spells when she reaches character level 10 early in Chapter 3. Later in the chapter, she will unlock 9th level spells when she reaches level 13 / mythic rank 4. Finally at character level 20 / mythic rank 8, she would be able to cast the Angel's 10th level spells. A maximum caster level of 30 is great for boosting spell penetration, dispel magic and the damage output from uncapped spells. Also, having a casting attribute allows you to increase spell DC further with gear.
+The combined caster level means that you gain higher level spells much earlier. For example, you will reach mythic rank 3 at around character level 9. This would allow a Cleric / Angel to memorize 6th level spells while she would unlock 7th level spells when she reaches character level 10 early in Chapter 3. Later in the chapter, she will unlock 9th level spells when she reaches level 13 / mythic rank 4. Finally at character level 20 / mythic rank 8, she would be able to cast the Angel's 10th level spells. A maximum caster level of 30 is great for boosting spell penetration, dispel magic and the damage output from uncapped spells. Also, having a casting attribute allows you to increase spell DC further with gear.
 
 There is an additional benefit to CL 25. If you have Greater Enduring Spells and a source of Extend Metamagic, the combination can make 1 round / level spells (such as *Greater Invisibility*) last 24 hours.
 
@@ -139,7 +139,7 @@ Improved Abundant Casting
 You can cast four more spells per day of 7th, 8th and 9th levels.
 
 ##### Archmage Armor
-When you cast *Mage Armor* on yourself, you receive an additional armour bonus equal to your mythic rank.
+When you cast *Mage Armor* on yourself, you receive an additional armor bonus equal to your mythic rank.
 
 This ability does not trigger from items and does not work if another party member casts *Mage Armor* on you.
 
@@ -206,10 +206,10 @@ Once per day, you become unkillable. For two rounds, you become immune to damage
 Whenever you are the target of a polymorph effect, all your physical attributes are increased by +4. If you have the Wild Shape ability, you can use it any number of times per day.
 
 ##### Rupture Restraints
-Three times per day, you automatically dispel any effects that make you confused, dazed, shaken, frightened, paralysed, sickened, nauseated, staggered or stunned.
+Three times per day, you automatically dispel any effects that make you confused, dazed, shaken, frightened, paralyzed, sickened, nauseated, staggered or stunned.
 
 ##### Unstoppable
-Any time you would become paralysed, you become staggered. You become sickened rather than nauseated and shaken rather than frightened.
+Any time you would become paralyzed, you become staggered. You become sickened rather than nauseated and shaken rather than frightened.
 
 #### Class Abilities
 ##### Abundant Arcane Pool
@@ -464,60 +464,60 @@ Rapid Shot
 
 When using Rapid Shot, the -2 penalty to attack rolls no longer applies.
 
-#### Armour and Shield Feats
+#### Armor and Shield Feats
 ##### Mythic Armor Focus (Light Armor) - Assault
 Prerequisites:
 Armor Focus (Light)
 
-While wearing light armour and wielding a weapon that can be used with Weapon Finesse, you gain an equipped armor bonus to attack rolls equal to half your armour's AC.
+While wearing light armor and wielding a weapon that can be used with Weapon Finesse, you gain an equipped armor bonus to attack rolls equal to half your armor's AC.
 
 ##### Mythic Armor Focus (Light Armor) - Avoidance
 Prerequisites:
 Armor Focus (Light)
 
-While wearing light armour, add your mythic rank to the maximum Dexterity bonus allowed by your armour. All attacks against you suffer a 5% miss chance, increasing by an additional 5% at 4th, 7th and 10th mythic ranks.
+While wearing light armor, add your mythic rank to the maximum Dexterity bonus allowed by your armor. All attacks against you suffer a 5% miss chance, increasing by an additional 5% at 4th, 7th and 10th mythic ranks.
 
 ##### Mythic Armor Focus (Light Armor) - Endurance
 Prerequisites:
 Armor Focus (Light)
 
-While wearing light armour, you gain spell resistance equal to your armour's AC. This spell resistance stacks with other sources of spell resistance.
+While wearing light armor, you gain spell resistance equal to your armor's AC. This spell resistance stacks with other sources of spell resistance.
 
 ##### Mythic Armor Focus (Medium Armor) - Assault
 Prerequisites:
 Armor Focus (Medium)
 
-While wearing medium armour, deal an additional 1d6 piercing damage + your armour's AC to targets that you hit with a melee attack.
+While wearing medium armor, deal an additional 1d6 piercing damage + your armor's AC to targets that you hit with a melee attack.
 
 ##### Mythic Armor Focus (Medium Armor) - Avoidance
 Prerequisites:
 Armor Focus (Medium)
 
-While wearing medium armour, add your Constitution modifier to the maximum Dexterity bonus allowed by your armour.
+While wearing medium armor, add your Constitution modifier to the maximum Dexterity bonus allowed by your armor.
 
 ##### Mythic Armor Focus (Medium Armor) - Endurance
 Prerequisites:
 Armor Focus (Medium)
 
-While wearing medium armour, your movement speed is not reduced and you gain an equipped armour bonus to AC equal to half your armour's AC.
+While wearing medium armor, your movement speed is not reduced and you gain an equipped armor bonus to AC equal to half your armor's AC.
 
 ##### Mythic Armor Focus (Heavy Armor) - Assault
 Prerequisites:
 Armor Focus (Heavy)
 
-While wearing heavy armour, deal an additional 1d6 slashing damage + your armour's AC to targets that you hit with a melee attack.
+While wearing heavy armor, deal an additional 1d6 slashing damage + your armor's AC to targets that you hit with a melee attack.
 
 ##### Mythic Armor Focus (Heavy Armor) - Avoidance
 Prerequisites:
 Armor Focus (Heavy)
 
-While wearing heavy armour, add half your Strength bonus to AC instead of your Dexterity bonus. This bonus is not limited by the armour's maximum Dexterity bonus.
+While wearing heavy armor, add half your Strength bonus to AC instead of your Dexterity bonus. This bonus is not limited by the armor's maximum Dexterity bonus.
 
 ##### Mythic Armor Focus (Heavy Armor) - Endurance
 Prerequisites:
 Armor Focus (Heavy)
 
-While wearing heavy armour, you gain DR N/- equal to half your armour's AC. This DR stacks with other sources of DR.
+While wearing heavy armor, you gain DR N/- equal to half your armor's AC. This DR stacks with other sources of DR.
 
 ##### Mythic Buckler - Flying Shield Style
 Prerequisites:
@@ -652,7 +652,7 @@ Toughness
 
 Toughness gives you twice as many hit points. When you're below 0 HP, you gain DR 10/epic.
 
-#### Combat Manoeuvre Feats
+#### Combat Maneuver Feats
 ##### Bull Rush (Mythic)
 Prerequisites:
 Bull Rush
@@ -669,19 +669,19 @@ Add half your mythic rank to your CMD.
 Prerequisites:
 Dirty Trick
 
-You add half your mythic rank to your CMB when attempting a dirty trick manoeuvre and to your CMD when an opponent tries the manoeuvre on you. You can make an attack of opportunity against any creature that attempts a dirty trick manoeuvre against you.
+You add half your mythic rank to your CMB when attempting a dirty trick maneuver and to your CMD when an opponent tries the maneuver on you. You can make an attack of opportunity against any creature that attempts a dirty trick maneuver against you.
 
 ##### Disarm (Mythic)
 Prerequisites:
 Disarm
 
-You add half your mythic rank to your CMB when attempting a disarm manoeuvre and to your CMD when an opponent tries to disarm you. You can make an attack of opportunity against any creature that attempts to disarm you.
+You add half your mythic rank to your CMB when attempting a disarm maneuver and to your CMD when an opponent tries to disarm you. You can make an attack of opportunity against any creature that attempts to disarm you.
 
 ##### Sunder Armor (Mythic)
 Prerequisites:
 Sunder Armor
 
-You add half your mythic rank to your CMB when attempting to sunder an opponent's armour and to your CMD when an opponent tries to do the same to you. You can make an attack of opportunity against any creature that attempts to sunder your armour.
+You add half your mythic rank to your CMB when attempting to sunder an opponent's armor and to your CMD when an opponent tries to do the same to you. You can make an attack of opportunity against any creature that attempts to sunder your armor.
 
 ##### Trip (Mythic)
 Prerequisites:

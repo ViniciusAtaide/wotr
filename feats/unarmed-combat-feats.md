@@ -35,7 +35,7 @@ Your unarmed strikes deal bludgeoning damage and slashing damage. Once per round
 
 ## Boar Ferocity
 **Prereq:** Boar Style, Persuasion: 6
-You gain a +2 bonus to Intimidation checks to demoralise opponents and your unarmed strikes now deal piercing damage as well. When you tear an opponent's flesh, you can make a demoralise attempt as a free action.
+You gain a +2 bonus to Intimidation checks to demoralize opponents and your unarmed strikes now deal piercing damage as well. When you tear an opponent's flesh, you can make a demoralize attempt as a free action.
 
 ## Boar Shred
 **Prereq:** Boar Ferocity, Persuasion: 9

@@ -63,9 +63,9 @@ All variable numeric effects of an empowered spell are increased by 50%.
 Level Increase: +2
 If the targets succeeds in a save against a persistent spell, it must make another saving throw. If the second save fails, the target suffers the full effects.
 
-## Metamagic (Maximise Spell)
+## Metamagic (Maximize Spell)
 Level Increase: +3
-All variable numeric effects of an empowered spell are maximised. A spell may be both maximised and empowered. Damage done is the sum of the maximum damage and the normal rolled damage +50%.
+All variable numeric effects of an empowered spell are maximized. A spell may be both maximized and empowered. Damage done is the sum of the maximum damage and the normal rolled damage +50%.
 
 ## Metamagic (Quicken Spell)
 Level increase: +4
@@ -89,8 +89,8 @@ Choose a school of magic for which you have already selected Spell Focus and add
 ## Spell Specialization
 **Prereq:** Spell Focus
 Select one spell in a school for which you have selected Spell Focus. When you cast this spell, your caster level is considered to be two levels higher for all level-variable effects. For example, a 3rd level Sorcerer who selected Specialization in Magic Missile would cast launch three missiles for each casting of the spell.
-When you gain a caster level, you may select a new spell to specialise in, replacing the old one.
-When taking levels in Loremaster and Winter Witch, you do not get to change your specialisation because of a user interface bug.
+When you gain a caster level, you may select a new spell to specialize in, replacing the old one.
+When taking levels in Loremaster and Winter Witch, you do not get to change your specialization because of a user interface bug.
 
 ## Augment Summoning
 **Prereq:** Spell Focus (Conjuration)
@@ -108,11 +108,11 @@ Adds +2 to caster level checks to overcome a creature's spell resistance.
 Adds an additional +2 to caster level checks to overcome a creature's spell resistance.
 
 ## Arcane Armor Training
-Reduce the arcane spell failure chance due to armour by 10%.
+Reduce the arcane spell failure chance due to armor by 10%.
 
 ## Arcane Armor Mastery
 **Prereq:** Arcane Armor Training
-Reduce the arcane spell failure chance due to armour by an additional 10% (20% total).
+Reduce the arcane spell failure chance due to armor by an additional 10% (20% total).
 
 ## Destructive Dispel
 When successfully making a targeted dispel check, the opponent must succeed at a Fortitude save (DC = 10 + half caster level + casting ability modifier) or be stunned until the start of your next turn. If the save succeeds, the opponent is sickened for 1 round.

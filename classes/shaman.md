@@ -72,7 +72,7 @@ The base Shaman has the following level progression:
 | 20 | - | Hex | - | Manifestation Wandering Spirit - True Ability |
 
 #### Shaman Proficiencies
-Shamans are proficient with simple weapons and light and medium armour.
+Shamans are proficient with simple weapons and light and medium armor.
 
 #### Spirit Animal
 A Shaman must select a familiar.
@@ -222,13 +222,13 @@ At 20th level, a Shaman fully unlocks the power of his guardian spirit.
 ##### Playing a Shaman
 A Shaman plays similarly to a Cleric since both are 3/4 AB classes with full caster progression and spirits are similar to domains. Choosing the Battle spirit can instantly turn you into a capable warrior while the Wind Spirit can give you a decent amount of tankiness. Alternatively, the Life spirit can turn you into a capable healer. With the Wandering Spirit ability, you can interchange these depending on the most pressing need. The Wandering Spirit feature and the full allotment of hexes makes the base Shaman one of the better options.
 
-Although Wisdom is your casting attribute, Charisma determines how often you can use most spirit abilities. Since some of the abilities are very good (Enemies' Bane, for example), this makes the Shaman slightly MAD. However, until the later levels at least, the Shaman's spell book is more geared towards support than taking out enemies so you may wish to deprioritise Wisdom.
+Although Wisdom is your casting attribute, Charisma determines how often you can use most spirit abilities. Since some of the abilities are very good (Enemies' Bane, for example), this makes the Shaman slightly MAD. However, until the later levels at least, the Shaman's spell book is more geared towards support than taking out enemies so you may wish to deprioritize Wisdom.
 
 A Possessed Shaman loses three hexes to gain ranks in skills. Skills make the game more pleasant. However, a Shaman is an unskilled class so you're starting from a low base. If you wanted to make a skilled character, a half-elf Bard might be a better starting point.
 
 A Prophet of Pestilence gives up a whole bunch of class features for the ability to infect enemies with an ever-worsening disease. The problem with disease attacks is that they're asymmetric. They're seriously annoying when used against you because you expect to survive the fight and repairing ability damage is a pain. However, doing ability damage to enemies is less effective because the only really effective enemy status is "dead" and anything that doesn't help make them dead is a waste of time.
 
-A Shadow Shaman gives up the Wandering Spirit ability for 6d6 sneak damage which isn't a bad trade-off. Use the Second Spirit mythic ability to get whichever of Wind and Battle that you didn't take at the start and you have everything: Weapon Specialization, sneak damage and great defence. You won't be the *best* at everything but you'll be pretty decent.
+A Shadow Shaman gives up the Wandering Spirit ability for 6d6 sneak damage which isn't a bad trade-off. Use the Second Spirit mythic ability to get whichever of Wind and Battle that you didn't take at the start and you have everything: Weapon Specialization, sneak damage and great defense. You won't be the *best* at everything but you'll be pretty decent.
 
 A Spirit Hunter gives up Wandering Spirit for the ability to enchant weapons. It's not *bad* but it's not amazing either. A Spirit Warden keeps Wandering Spirit but gives up two hexes for - pretty much - nothing.
 
@@ -272,7 +272,7 @@ His level progression is as follows:
 | 20 | - | Hex | - | Manifestation Wandering Spirit - True Ability |
 
 #### Shared Skills
-At 1st level, the Shaman selects two skills. His effective rank is equal to his class level and he uses his Wisdom modifier in place of the modifier the skill would normally use. This does not stack with any points the Shaman takes on levelling up.
+At 1st level, the Shaman selects two skills. His effective rank is equal to his class level and he uses his Wisdom modifier in place of the modifier the skill would normally use. This does not stack with any points the Shaman takes on leveling up.
 
 This replaces Spirit Magic which means that your spirit won't give you additional spells.
 
@@ -795,7 +795,7 @@ A Shaman who selects the Bones spirit gains the following abilities:
 As a standard action, the Shaman can make a melee touch attack which deals 1d4 negative energy damage + 1 for every two class levels. Alternatively, he can touch an undead creature and heal it for the same amount. The Shaman can use this ability a number of times per day equal to 3 + his Charisma modifier. At 11th level, any weapon wielded by the Shaman gains the Unholy property.
 
 ##### Shard Soul
-At 8th level, the Shaman gains DR 3/magic, increasing by +1 four every levels past 8th (DR 6/magic at level 20). As a standard action, he can cause a 10' radius explosion centred on himself which deals 1d6 points of piercing damage for every two Shaman levels. Affected creatures can make a Reflex save for half damage. The Shaman can use this ability three times per day.
+At 8th level, the Shaman gains DR 3/magic, increasing by +1 four every levels past 8th (DR 6/magic at level 20). As a standard action, he can cause a 10' radius explosion centered on himself which deals 1d6 points of piercing damage for every two Shaman levels. Affected creatures can make a Reflex save for half damage. The Shaman can use this ability three times per day.
 
 ##### Shedding Form
 At 16th level, as a standard action, the Shaman can become incorporeal. His weapon attacks are treated as through they have the Ghost Touch ability. The Shaman can use this ability for a number of rounds per day equal to his class level and these rounds do not need to be consecutive.
@@ -917,10 +917,10 @@ A Shaman who selects the Nature spirit gains the following abilities:
 The Shaman grants 20% concealment to a single creature within 30' for 1 round + 1 round for every four class levels. The Shaman can use this ability a number of times per day equal to 3 + his Charisma modifier. At 11th level, any weapon wielded by the Shaman gains the Thundering property.
 
 ##### Spirit of Nature
-At 8th level, whenever the Shaman is reduced to 0 HP, he stabilises and gains Fast Healing 1 for 1d4 rounds. At 15th level this increases to Fast Healing 3.
+At 8th level, whenever the Shaman is reduced to 0 HP, he stabilizes and gains Fast Healing 1 for 1d4 rounds. At 15th level this increases to Fast Healing 3.
 
 ##### Companion Animal
-At 16th level, the Shaman gains an animal companion. The companion is levelled so that there is no need to take the Boon Companion feat.
+At 16th level, the Shaman gains an animal companion. The companion is leveled so that there is no need to take the Boon Companion feat.
 
 ##### Manifestation - Nature
 Once per day, as a full round action, you can change form to plant, animal or humanoid. When doing so, you are cleansed of all poisons and diseases, restored to full hit points and heal any ability damage.
@@ -947,7 +947,7 @@ A Shaman who selects the Stone spirit gains the following abilities:
 As a standard action, the Shaman can make a melee touch attack which deals 1d6 acid damage + 1 for every two class levels. The Shaman can use this ability a number of times per day equal to 3 + his Charisma modifier. At 11th level, any weapon wielded by the Shaman gains the Corrosive property.
 
 ##### Body of Earth
-At 8th level, the Shaman gains DR 2/adamantine, increasing by +1 four every levels past 8th (DR 5/adamantine at level 20). As a standard action, he can cause a 10' radius explosion centred on himself which deals 1d6 points of piercing damage for every two class levels. Affected creatures can make a Reflex save for half damage. The Shaman can use this ability three times per day.
+At 8th level, the Shaman gains DR 2/adamantine, increasing by +1 four every levels past 8th (DR 5/adamantine at level 20). As a standard action, he can cause a 10' radius explosion centered on himself which deals 1d6 points of piercing damage for every two class levels. Affected creatures can make a Reflex save for half damage. The Shaman can use this ability three times per day.
 
 ##### Elemental Form (Earth)
 At 16th level, the Shaman can assume the form the form of a huge earth elemental (as if using *Elemental Body IV*) for 1 hour per class level. The Shaman can use this ability once per day.
@@ -974,7 +974,7 @@ A Stone Shaman can select the following additional spells:
 A Shaman who selects the Waves spirit gains the following abilities:
 
 ##### Wave Strike
-As a standard action, the Shaman can make a melee touch attack which deals 1d6 damage + 1 for every two class levels. The target is a subject to a bull rush manoeuvre using the Shaman's Charisma modifier to calculate CMB. The Shaman can use this ability a number of times per day equal to 3 + his Charisma modifier.
+As a standard action, the Shaman can make a melee touch attack which deals 1d6 damage + 1 for every two class levels. The target is a subject to a bull rush maneuver using the Shaman's Charisma modifier to calculate CMB. The Shaman can use this ability a number of times per day equal to 3 + his Charisma modifier.
 
 ##### Fluid Mastery
 At 8th level, as a standard action, the Shaman can launch a 15' cone of ice and water which does 1d4 points of cold damage per 2 class levels and bull rushes every affected enemy using his Charisma modifier for the roll. A successful Reflex save halves the damage and negates the bull rush. The Shaman can use this ability three times per day.

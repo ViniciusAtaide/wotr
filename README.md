@@ -1,13 +1,12 @@
 # WotR Knowledge Base — File Manifest
 
-Pathfinder: Wrath of the Righteous (Owlcat) game data, scraped from [GameFAQs guide 80843](https://gamefaqs.gamespot.com/ps4/324475-pathfinder-wrath-of-the-righteous/faqs/80843). Game version baseline: 2.7.0 (final). Agent rules and Source Map: `AGENTS.md`. Name variants/typos: `aliases.md`.
+Pathfinder: Wrath of the Righteous (Owlcat) game data, scraped from [GameFAQs guide 80843](https://gamefaqs.gamespot.com/ps4/324475-pathfinder-wrath-of-the-righteous/faqs/80843). Game version baseline: 2.7.0 (final). Agent rules and Source Map: `AGENTS.md`. All content is US English, matching in-game naming (source guide was British English; converted 2026-06-09).
 
 Route any lookup from this table — open only what you need.
 
 | Path | Contents | How to use |
 | :--- | :--- | :--- |
 | `AGENTS.md` | Agent rules, Source Map, data baseline, source quirks | Read every session before build work |
-| `aliases.md` | British↔US spellings, known typos | Check before declaring a name missing |
 | `classes/INDEX.md` | Line numbers of every archetype/section per class file | Read this, then `Read(file, offset, limit)` — class files are 200–1000 lines |
 | `classes/<class>.md` | 26 base classes: stats, progression tables, features, archetypes | Big files — go through INDEX.md |
 | `classes/prestige/<name>.md` | One file per prestige class (+ `_overview.md`) | Small, read whole |
@@ -25,7 +24,7 @@ Route any lookup from this table — open only what you need.
 | `building/exploits.md` | Bonus-stacking rules and exploits | Cite in build stacking audits |
 | `building/sample-builds.md` | The guide's own sample builds | Reference only — local builds live in `builds/` |
 | `items/weapons.md` | Mundane + unique weapons, properties, Finnean/Radiance | |
-| `items/armor-shields.md` | Mundane + unique armour and shields | |
+| `items/armor-shields.md` | Mundane + unique armor and shields | |
 | `items/accessories.md` | Belts, rings, cloaks, boots, consumables, … | |
 | `items/artifacts-relics.md` | Artifacts (incl. component locations) + relics | |
 | `items/boosts-and-misc.md` | Skill/CL/DC boost items, books, recipes | |
@@ -35,4 +34,4 @@ Route any lookup from this table — open only what you need.
 | `wotr_scrapper/` | Scraper (`scrape_all.sh`, macOS host only), `dedup_spells.py`, `gen_index.py` | Rerun gen_index.py after editing classes/ |
 | `agent-optimization-plan.md` | The enhancement plan + online verification findings (2026-06-09) | |
 
-All data files carry YAML frontmatter (`source`, `game_patch`). Corrections applied vs upstream: class HP/level values (Owlcat formula: max die at L1, die/2+1 after), Reviving Finale description, Wings +3 dodge AC is vs melee only.
+All data files carry YAML frontmatter (`source`, `game_patch`). Corrections applied vs upstream: class HP/level values (Owlcat formula: max die at L1, die/2+1 after), Reviving Finale description, Wings +3 dodge AC is vs melee only, full British→US English conversion.

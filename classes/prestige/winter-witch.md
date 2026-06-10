@@ -5,7 +5,7 @@ game_patch: 2.7.0
 # Winter Witch
 *Prestige class. Source: GameFAQs WotR Guide (80843).*
 
-A Winter Witch is a true specialist of frost magic.
+A Winter Witch is a true specializt of frost magic.
 
 - Required classes: Druid (Winter Child), Shaman (Frost Spirit) or Witch (Winter Patron)
 - Required skills: Knowledge: Arcana (5)

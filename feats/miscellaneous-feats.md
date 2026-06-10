@@ -18,7 +18,7 @@ Your melee attacks are only affected by total concealment and your miss percenta
 
 ## Combat Expertise
 **Prereq:** Intelligence: 13
-You can choose to take a -1 penalty to melee attack rolls and combat manoeuvre checks to gain a +1 dodge bonus to AC. When your BAB reaches four (and every +4 thereafter), the penalty increases by -1 and dodge bonus increases by +1.
+You can choose to take a -1 penalty to melee attack rolls and combat maneuver checks to gain a +1 dodge bonus to AC. When your BAB reaches four (and every +4 thereafter), the penalty increases by -1 and dodge bonus increases by +1.
 
 ## Combat Reflexes
 You can make a number of additional attacks of opportunity per round equal to your Dexterity bonus. You can also make attacks of opportunity while flat-footed.
@@ -39,11 +39,11 @@ You gain a +1 dodge bonus to your AC. If you lose your Dexterity bonus, you will
 You gain a +4 dodge bonus to AC against attacks of opportunity when moving out of or within a threatened area. If you lose your Dexterity bonus, you will also lose the benefits of this feat.
 
 ## Endurance
-You gain +2 bonus on Athletics checks and +4 bonus on Fortitude saves against fatigue and exhaustion. You may also sleep in light or medium armour without becoming fatigued.
+You gain +2 bonus on Athletics checks and +4 bonus on Fortitude saves against fatigue and exhaustion. You may also sleep in light or medium armor without becoming fatigued.
 
 ## Frightening Ambush
 **Prereq:** Persuasion: 1
-When you hit a flat-footed opponent, you can make a demoralise attempt as a free action.
+When you hit a flat-footed opponent, you can make a demoralize attempt as a free action.
 
 ## Great Fortitude
 You gain +2 bonus on all Fortitude saving throws.

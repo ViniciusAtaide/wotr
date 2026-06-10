@@ -69,9 +69,9 @@ The Bloodrager only knows a limited number of spells of a given level as shown i
 
 The values above do not include bloodline spells.
 
-Light and medium armour do not cause arcane spell failure for a Bloodrager.
+Light and medium armor do not cause arcane spell failure for a Bloodrager.
 
-Because of the various bloodlines, different Bloodragers of the same level may have very different capabilities. When creating or levelling up a Bloodrager take care that you do not take redundant feats or select spells that you would obtain anyway.
+Because of the various bloodlines, different Bloodragers of the same level may have very different capabilities. When creating or leveling up a Bloodrager take care that you do not take redundant feats or select spells that you would obtain anyway.
 
 The standard Bloodrager has the following level progression:
 
@@ -298,7 +298,7 @@ The Bloodrager may choose from the following feats: Blind Fight, Cleave, Great F
 You grow claws when enraged. The claws do 1d6 damage (1d4 if small). At 4th level, the claws are considered magic weapons for overcoming damage resistance. At 8th level, the damage increases to 1d8 (1d6). At 12th level, the claws become flaming weapons, dealing an additional 1d6 damage of your bloodline's energy type.
 
 ##### Draconic Resistance
-At 4th level, you gain resistance 5 against your bloodline's energy type and a +1 natural armour bonus to AC. At 8th level, resistance increases to 10 and the armour bonus to +2. At 16th level, your natural armour bonus increases to +4.
+At 4th level, you gain resistance 5 against your bloodline's energy type and a +1 natural armor bonus to AC. At 8th level, resistance increases to 10 and the armor bonus to +2. At 16th level, your natural armor bonus increases to +4.
 
 ##### Breath Weapon
 At 8th level, you gain a breath weapon that you can use once per day. This does 1d6 energy damage per class level to creatures caught in the area of effect. Affected creatures can attempt a reflex save (DC = 10 + class level / 2 + Constitution modifier). The shape of the breath weapon depends on the chosen dragon type. At 16th level, you can use this breath weapon twice per day and at 20th level, three times.
@@ -529,7 +529,7 @@ The Bloodrager may choose from the following feats: Combat Expertise, Combat Cas
 You gain a bite attack which deals 1d8 damage (1d6 for small creatures). In addition, it can apply a poison which does 1 Constitution damage per round for four rounds (DC = 10 + class level / 2 + Constitution modifier). At 8th level, the damage increases to 1d2 Constitution damage and the duration increase to to 5 rounds. At 16th level, the damage increases to 1d4 Constitution damage and the duration increases to 6 rounds. In addition, the poison requires two saves to negate it.
 
 ##### Serpentine Resistances
-At 4th level, you gain a +1 natural armour bonus to AC and +1 to saves vs. poison. At 8th level and every four levels thereafter, these bonuses increase by +1 (max +5 at 20th level).
+At 4th level, you gain a +1 natural armor bonus to AC and +1 to saves vs. poison. At 8th level and every four levels thereafter, these bonuses increase by +1 (max +5 at 20th level).
 
 ##### Dazing Glare
 At 8th level, three times per day, you may attempt to daze an opponent as a swift action (DC = 10 + class level / 2 + Charisma modifier). This is a mind-affecting gaze attack for the purposes of determining immunity.
@@ -538,7 +538,7 @@ At 8th level, three times per day, you may attempt to daze an opponent as a swif
 At 12th level, your reach increases by 5' during bloodrage.
 
 ##### Serpentine Form
-At 16th level, once per bloodrage, you can turn into a hydra as free action. You gain a +4 size bonus to Strength, +2 size bonus to Constitution, a +4 natural armour bonus to AC, immunity to trip and 5 1d8 bite attacks). The poison from Serpentine Fang applies to bite attacks in hydra form.
+At 16th level, once per bloodrage, you can turn into a hydra as free action. You gain a +4 size bonus to Strength, +2 size bonus to Constitution, a +4 natural armor bonus to AC, immunity to trip and 5 1d8 bite attacks). The poison from Serpentine Fang applies to bite attacks in hydra form.
 
 ##### Serpentine Body
 At 20th level, you gain immunity to poison. You cannot be caught flat-footed and don't provoke attacks of opportunity.
@@ -608,7 +608,7 @@ A Bloodrider gives up useful abilities (Fast Movement and Uncanny Dodge) in exch
 
 A Greenrager is strictly better than the base class because the ability to ignore difficult terrain is better than a bonus to saves against friendly fire; after all, friendly fire is simply a case of "don't do that". The pathetic summoning abilities (even with +8 Strength, a Dire Boar isn't swinging a 20th level fight) *should* cost the 6th level bloodline feat but at the time of writing (early 2023), they don't.
 
-A Hag-Riven doesn't have to take the Hag bloodline but is not a great choice even so. The main problem is that the claws are natural attacks which will be eclipsed fairly quickly by regular weapons because they don't benefit from iterative attacks (and have bad critical hit parameters to boot). This means that you're trading Fast Movement, Uncanny Dodge and Damage Reduction for a natural armour bonus.
+A Hag-Riven doesn't have to take the Hag bloodline but is not a great choice even so. The main problem is that the claws are natural attacks which will be eclipsed fairly quickly by regular weapons because they don't benefit from iterative attacks (and have bad critical hit parameters to boot). This means that you're trading Fast Movement, Uncanny Dodge and Damage Reduction for a natural armor bonus.
 
 A Mixed-Blood Rager gives up a lot. Not receiving bloodline feats makes them quite feat-starved. However, a combination of, say, Arcane and Serpentine bloodlines would be very good. Note that a Mixed-Blood Rager cannot take the Second Bloodline mythic ability which means that any other Bloodrager can pull off the same trick *and* get bloodline feats and spellcasting.
 
@@ -618,7 +618,7 @@ The Reformed Fiend is an exception to the seeming rule that race-specific archet
 
 A Spell Eater is not very good. While not getting hit is better than damage reduction, damage reduction is better than regeneration. It is better not to take damage in the first place than heal damage inflicted. Against a single enemy, the Spelleater's fast healing is more or less equal to the base class's damage reduction. When facing two enemies or more, it becomes greatly inferior. You also lose Uncanny Dodge for minor self-healing that consumes your spells. Needless to say, this is a terrible trade.
 
-A Steelblood trades Uncanny Dodge for the ability to wear heavy armour. You also get Armor Training which makes heavy armour much better - getting +6 AC from Dexterity is way better than +2 AC. However, a fighter does heavy armour better and I prefer the base Bloodrager.
+A Steelblood trades Uncanny Dodge for the ability to wear heavy armor. You also get Armor Training which makes heavy armor much better - getting +6 AC from Dexterity is way better than +2 AC. However, a fighter does heavy armor better and I prefer the base Bloodrager.
 
 ### Bloodrider
 Like a Bloodrager but with a horse.
@@ -703,7 +703,7 @@ The Hag-Riven archetype requires the *Lord of Nothing* DLC.
 
 A Hag-Riven Bloodrager has survived an arcane ritual.
 
-- Gains claw attacks and Natural Armour bonuses
+- Gains claw attacks and Natural Armor bonuses
 - Limited bloodline selection
 - Loses Fast Movement, Uncanny Dodge and Damage Reduction.
 
@@ -919,10 +919,10 @@ At 2nd level while raging, a Spelleater gains fast healing 1. At 7th level and e
 At 5th level, as a swift action, a Spelleater can expend a spell slot to heal 1d8 damage for each spell level consumed.
 
 ### Steelblood
-A Steelblood is a specialist in heavy armour.
+A Steelblood is a specializt in heavy armor.
 
-- Can equip heavy armour
-- Gains armour training
+- Can equip heavy armor
+- Gains armor training
 - Loses Fast Movement and Uncanny Dodge.
 
 His level progression is as follows:
@@ -955,10 +955,10 @@ His level progression is as follows:
 This is identical to the Armored Hulk ability.
 
 #### Armored Swiftness
-At 2nd level, a Steelblood moves 5' faster than normal in medium and heavy armour.
+At 2nd level, a Steelblood moves 5' faster than normal in medium and heavy armor.
 
 #### Armor Training
-Starting at 5th level, a Steelblood reduces his armour penalty by 1 and increases the maximum Dexterity bonus allowed by his armour by +1. Every four additional class levels, these bonuses increase by 1 (maximum -4 / +4 at 17th level). This ability stacks with a Fighter's Armor Training.
+Starting at 5th level, a Steelblood reduces his armor penalty by 1 and increases the maximum Dexterity bonus allowed by his armor by +1. Every four additional class levels, these bonuses increase by 1 (maximum -4 / +4 at 17th level). This ability stacks with a Fighter's Armor Training.
 
 #### Blood Deflection
 At 7th level, as a swift action, a Steelblood can sacrifice a spell to gain a deflection bonus to AC equal to the level of the spell sacrificed. The bonus lasts until the end of his next turn.

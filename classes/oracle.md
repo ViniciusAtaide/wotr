@@ -96,7 +96,7 @@ The base Oracle has the following level progression:
 | 20 | - | - | Final Revelation | - |
 
 #### Oracle Proficiencies
-Oracles are proficient with simple weapons, light and medium armour and shields (but not tower shields).
+Oracles are proficient with simple weapons, light and medium armor and shields (but not tower shields).
 
 #### Oracle's Curse
 An Oracle bears a Curse which hinders him but which also comes with benefits. The level of a curse is equal to the Oracle's class level plus one for every two non-Oracle class levels. The choices are as follows:
@@ -111,7 +111,7 @@ You take a -3 penalty on Persuasion skill checks when used for diplomacy but gai
 You take a -3 penalty on Persuasion skill checks when used for diplomacy but gain +2 to Bluff and Intimidate checks. At 5th level, you gain a +4 bonus to saving throws against charm effects. At 10th level, you become immune to fire. Finally, at 15th level, any weapon you wield is treated as lawful and evil for purposes of overcoming damage reduction.
 
 ##### Lame
-Your base land speed is reduced by 10' but your speed is never reduced further due to encumbrance. At 5th level, you become immune to the fatigued condition. At 10th level, your speed is never reduced by armour. Finally, at 15th level, you become immune to the exhausted condition.
+Your base land speed is reduced by 10' but your speed is never reduced further due to encumbrance. At 5th level, you become immune to the fatigued condition. At 10th level, your speed is never reduced by armor. Finally, at 15th level, you become immune to the exhausted condition.
 
 ##### Plagued
 You take a -1 penalty on saving throws against disease effects but you are immune to the sickened condition. At 5th level, you add *Pox Pustules* to your list of known spells as a 2nd level spell. At 10th level, you add +2 to the DC of any disease effect. Finally, at 15th level you become immune to disease.
@@ -143,11 +143,11 @@ An Oracle may choose to add all "cure" spells or all "inflict" spells to his lis
 ##### Playing an Oracle
 An Oracle plays similarly to a Cleric, swapping spontaneous casting for prepared casting and a Mystery for Domains. The obvious choice of Mystery is Nature since that grants you an animal companion from the off and Charisma to AC down the line. You can take a second Mystery as a mythic ability and Battle is the obvious one.
 
-An Oracle also has to take a Curse. Since this can come with crippling disadvantages (-4 AB penalty, anyone?), you'll want to minimise these. *Plagued* seems to be OK; it doesn't give you much useful at later levels but it also doesn't give you anything too bad at 1st level and it (eventually) fixes itself.
+An Oracle also has to take a Curse. Since this can come with crippling disadvantages (-4 AB penalty, anyone?), you'll want to minimize these. *Plagued* seems to be OK; it doesn't give you much useful at later levels but it also doesn't give you anything too bad at 1st level and it (eventually) fixes itself.
 
 A Divine Herbalist doesn't really lose too much, although most Revelations are better than the fixed abilities. The Lore bonus is OK, I guess. Note that any archetype that doesn't get a Revelation of choice at 1st level will prevent you from getting an Animal Companion until later.
 
-A Dual-Cursed Oracle is heavily penalised by having to take on two curses, one of which never improves. The trade-off is two additional Revelations which may work for you.
+A Dual-Cursed Oracle is heavily penalized by having to take on two curses, one of which never improves. The trade-off is two additional Revelations which may work for you.
 
 An Enlightened Philosopher gains a free skill focus, which is nice, and the class-specific Final Revelation is very good. Mental Acuity has close to zero synergy, however, since an Oracle does not benefit from Intelligence. The only use will be a boost to knowledge skill checks. The archetype also interferes with the Mystery system, imposing a fixed, substandard bonus spell list. Worse, the interaction with Second Mystery is bugged, preventing you from receiving the bonus spells and the Final Revelation.
 
@@ -155,14 +155,14 @@ A Lone Strider gives up two Revelations for not very much. The Fade from Memory 
 
 A Possessed Oracle forces a specific Curse on you. Being staggered in every battle will get old.
 
-Like many race-specific archetypes, the Purifier is quite bad. The Battle Mystery can give you heavy armour proficiency and you can simply use *Effortless Armor* to reduce the penalties of wearing armour. The other two abilities don't make up for three fewer Revelations.
+Like many race-specific archetypes, the Purifier is quite bad. The Battle Mystery can give you heavy armor proficiency and you can simply use *Effortless Armor* to reduce the penalties of wearing armor. The other two abilities don't make up for three fewer Revelations.
 
 The Seeker is OK. Exchanging two Revelations for three feats and a skill bonus is not bad. Note that the bonus feats are magic feats which limits their usefulness slightly since metamagic is a pain to use with spontaneous casting.
 
 Finally, the Wind Whisperer is forced to take the Wind Mystery which isn't the best. It isn't the worst, either, but the archetype abilities are quite bad: *Haste* a couple of times a day and *Freedom of Movement* once per day (at 15th level!). Both are readily duplicated by spells.
 
 ### Divine Herbalist
-A Divine Herbalist is a specialist in natural medicine.
+A Divine Herbalist is a specializt in natural medicine.
 
 - Gains additional healing powers
 - Gains fewer Revelations.
@@ -207,7 +207,7 @@ From 7th level when using Healer's Way, a Divine Herbalist can remove affliction
 | Fatigued, shaken, sickened | 20 |
 | Dazed, staggered | 25 |
 | Confused, exhausted, frightened, nauseated | 30 |
-| Blinded, paralysed, stunned | 35 |
+| Blinded, paralyzed, stunned | 35 |
 
 Failure by 5 or more causes the target to become sickened for 1 round (or extends the duration of an existing sickened condition by 1 round) while failure by 10 or more causes the target to become nauseated for 1 round. This ability does not work on creatures immune to the sickened and nauseated conditions.
 
@@ -252,10 +252,10 @@ The Oracle must choose a second curse. One of these curses doesn't change as the
 A Dual-Cursed Oracle gains Revelations at 5th level and 13th level in addition to the ones gained normally. In addition, he can choose two Revelations unique to the archetype.
 
 ##### Misfortune
-When an enemy within 20' rolls a natural 20 on an attack roll, saving throw, combat manoeuvre check or skill check, they must reroll the die. An enemy suffering misfortune cannot be the target of this revelation again for 1 day.
+When an enemy within 20' rolls a natural 20 on an attack roll, saving throw, combat maneuver check or skill check, they must reroll the die. An enemy suffering misfortune cannot be the target of this revelation again for 1 day.
 
 ##### Fortune
-At 5th level, when an ally within 30' rolls a natural 1 on an attack roll, saving throw, combat manoeuvre check or skill check, they can reroll the die. An ally benefiting from fortune cannot be the target of this revelation again for 1 day.
+At 5th level, when an ally within 30' rolls a natural 1 on an attack roll, saving throw, combat maneuver check or skill check, they can reroll the die. An ally benefiting from fortune cannot be the target of this revelation again for 1 day.
 
 #### Dual-Cursed Oracle Bonus Spells
 At 2nd level, the Oracle learns Ill Omen. At 4th level, he learns Oracle's Burden. Finally, at 6th level, he learns Bestow Curse.
@@ -537,7 +537,7 @@ As a standard action, you perform a melee touch attack that causes a living crea
 As a move action, you gain a +2 bonus to your next d20 roll. You can use this ability a number of times per day equal to your Charisma modifier.
 
 ##### Spirit Shield
-You gain a barrier that provides a +4 armour bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier causes arrows, rays and other ranged attacks requiring an attack roll to have a 50% miss chance.
+You gain a barrier that provides a +4 armor bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier causes arrows, rays and other ranged attacks requiring an attack roll to have a 50% miss chance.
 
 ##### Storm of Souls
 Prerequisites:
@@ -549,7 +549,7 @@ You create a 20' radius burst within 100'. Living creatures in the area of effec
 Prerequisites:
 Level 11
 
-You gain a +4 enhancement bonus to Strength, Dexterity and Constitution and a +4 natural armour bonus to AC. Your BAB is equal to your class level and equipped weapons gain the Keen property. You can use this ability for one round per two class levels.
+You gain a +4 enhancement bonus to Strength, Dexterity and Constitution and a +4 natural armor bonus to AC. Your BAB is equal to your class level and equipped weapons gain the Keen property. You can use this ability for one round per two class levels.
 
 ##### Ancestor Final Revelation
 You gain a bonus on Will saving throws equal to your Charisma modifier, blindsense up to a range of 60' and a +4 bonus to your effective caster level for Divination spells. You can cast *Foresight* as a spell-like ability once per day.
@@ -575,10 +575,10 @@ The Battle Mystery grants access to the following Revelations:
 As a standard action, you can grant allies within 100' a +1 morale bonus on attack rolls, skill checks and saving throws for a number of rounds equal to your Charisma modifier. At 10th level, the bonus increases to +2. You can use this ability once per day. At 5th level and every five levels thereafter, you can use it an additional time (five times at 20th level).
 
 ##### Battlefield Clarity
-As a swift action, you can use this ability to gain a re-roll on the next saving throw that causes you to become blinded, deafened, frightened, panicked, paralysed, shaken or stunned with a +4 insight bonus on the roll. You can use this ability once per day. At 7th level, you can use this ability twice and at 15th level, you can use it three times.
+As a swift action, you can use this ability to gain a re-roll on the next saving throw that causes you to become blinded, deafened, frightened, panicked, paralyzed, shaken or stunned with a +4 insight bonus on the roll. You can use this ability once per day. At 7th level, you can use this ability twice and at 15th level, you can use it three times.
 
 ##### Maneuver Mastery
-Select one type of combat manoeuvre (Bull Rush, Dirty Trick, Disarm, Sunder Armor, Trip). When performing the selected manoeuvre, use your class level instead of BAB to determine the CMB. At 7th level, you gain the corresponding feat. At 11th level, you gain the corresponding Greater... feat.
+Select one type of combat maneuver (Bull Rush, Dirty Trick, Disarm, Sunder Armor, Trip). When performing the selected maneuver, use your class level instead of BAB to determine the CMB. At 7th level, you gain the corresponding feat. At 11th level, you gain the corresponding Greater... feat.
 
 ##### Skill at Arms
 You gain the Martial Weapons Proficiency and Heavy Armor Proficiency feats.
@@ -622,7 +622,7 @@ The Bones Mystery adds Stealth to the list of class skills along with the follow
 The Bones Mystery grants access to the following Revelations:
 
 ##### Armor of Bones
-You gain a barrier that provides a +4 armour bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier grants you DR 5/bludgeoning.
+You gain a barrier that provides a +4 armor bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier grants you DR 5/bludgeoning.
 
 ##### Death's Touch
 You make a melee touch attack inflicting 1d6 points of negative energy damage + 1 per two class levels. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
@@ -848,7 +848,7 @@ You receive a +4 bonus to your CMD against bull rush, grapple and trip attempts.
 When a creature takes cold damage from one of your spells and fails its Reflex save, it becomes slowed for 1 round, At 11th level, the duration increases to 1d4 rounds.
 
 ##### Ice Armor
-You gain a barrier that provides a +4 armour bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier grants you DR 5/piercing.
+You gain a barrier that provides a +4 armor bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier grants you DR 5/piercing.
 
 ##### Icy Skin
 You gain cold resistance 5, increasing to 10 at 5th level and 20 at 11th level. At 17th level, you become immune to cold.
@@ -889,7 +889,7 @@ The Wind Mystery adds Mobility and Stealth to the list of class skills along wit
 The Wind Mystery grants access to the following Revelations:
 
 ##### Air Barrier
-You gain a barrier that provides a +4 armour bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier causes arrows, rays and other ranged attacks requiring an attack roll to have a 50% miss chance.
+You gain a barrier that provides a +4 armor bonus and which lasts for one hour per class level. At 7th level and every four levels thereafter, the bonus increases by +2 (maximum +12 bonus at 19th level). From 13th level, the barrier causes arrows, rays and other ranged attacks requiring an attack roll to have a 50% miss chance.
 
 ##### Lightning Breath
 As a standard action, you can breathe a 30' line of electricity which does 1d4 points of electricity damage per class level. Affected creatures can attempt a Reflex save for half damage. You can use this ability once per day, gaining an additional use at 5th level and every five levels thereafter (five times at 20th level).
@@ -913,7 +913,7 @@ You can become invisible for 1 minute per class level per day. These periods do 
 Prerequisites:
 Level 7
 
-You create a 20' radius burst centred on a point within long range. Creatures in the area of effect take 1d6 bludgeoning damage per caster level. Affected creatures can attempt Fortitude save for half damage. You can use this ability once per day at 7th level, gaining an additional use for every four levels beyond 7th (four times at 19th level).
+You create a 20' radius burst centered on a point within long range. Creatures in the area of effect take 1d6 bludgeoning damage per caster level. Affected creatures can attempt Fortitude save for half damage. You can use this ability once per day at 7th level, gaining an additional use for every four levels beyond 7th (four times at 19th level).
 
 ##### Wind Final Revelation
 All spells with the electricity descriptor are empowered (as though using Empower Metamagic).

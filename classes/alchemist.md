@@ -72,7 +72,7 @@ The standard Alchemist has the following level progression:
 | 20 | - | Grand Discovery | - | - |
 
 #### Alchemist Proficiencies
-Alchemists are proficient with simple weapons and bombs. They are also proficient with light armour (but not shields).
+Alchemists are proficient with simple weapons and bombs. They are also proficient with light armor (but not shields).
 
 #### Bomb
 An alchemist can use a number of bombs each day equal to her class level + Intelligence modifier. Bombs have a range of 30' and benefit from feats like Weapon Focus and Point-Blank Shot.
@@ -100,7 +100,7 @@ The bomb inflicts acid damage rather than fire damage. Creatures that receive a 
 The bomb releases choking gas. Creatures caught in the blast must make a Fortitude save or become nauseated for 1 round for each die of damage the bomb would normally inflict. Affected creatures may attempt another save each round.
 
 ##### Cognatogen
-The Alchemist's mutagen may have its effects reversed - for example, +4 Intelligence and -2 Strength. When the effect ends, the Alchemist takes 2 points of ability damage to the score that was penalised.
+The Alchemist's mutagen may have its effects reversed - for example, +4 Intelligence and -2 Strength. When the effect ends, the Alchemist takes 2 points of ability damage to the score that was penalized.
 
 ##### Enhance Potion
 Any potion the Alchemist drinks functions at a caster level equal to his class level.
@@ -198,21 +198,21 @@ Requires Alchemist level 12. A creature that takes a direct hit must make a Will
 Prerequisites:
 Level 12
 
-The mutagen grants a +4 natural armour bonus, a +6 bonus to one physical attribute and a +4 bonus to a second attribute at the expense to -2 penalties to two mental attributes.
+The mutagen grants a +4 natural armor bonus, a +6 bonus to one physical attribute and a +4 bonus to a second attribute at the expense to -2 penalties to two mental attributes.
 
 ##### Greater Cognatogen
 Prerequisites:
 Cognatogen
 Level 12
 
-Behaves like a Greater Mutagen in reverse and the Alchemist takes 2 points of ability damage to both penalised physical attributes.
+Behaves like a Greater Mutagen in reverse and the Alchemist takes 2 points of ability damage to both penalized physical attributes.
 
 ##### Grand Mutagen
 Prerequisites:
 Greater Mutagen
 Level 16
 
-The mutagen grants a +6 natural armour bonus, a +8 bonus to one physical attribute, a +6 bonus to a second and a +4 bonus to the third at the expense to -2 penalties to all mental attributes.
+The mutagen grants a +6 natural armor bonus, a +8 bonus to one physical attribute, a +6 bonus to a second and a +4 bonus to the third at the expense to -2 penalties to all mental attributes.
 
 ##### Grand Cognatogen
 Prerequisites:

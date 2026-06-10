@@ -76,7 +76,7 @@ Your unmodified saving throws are at least 5 + your mythic rank. All of your att
 At 9th rank, you can select any three feats without having to meet the prerequisites.
 
 #### Gold Dragon Form
-At 9th rank, you can assume the form a Gold Dragon, gaining a +10 size bonus to Strength, +8 size bonus to Constitution, +8 natural armour bonus and blindsense to 60'. You gain a 2d8 bite attack, two 2d6 claw attacks, two 1d8 wing attacks and a 2d6 tail slap.
+At 9th rank, you can assume the form a Gold Dragon, gaining a +10 size bonus to Strength, +8 size bonus to Constitution, +8 natural armor bonus and blindsense to 60'. You gain a 2d8 bite attack, two 2d6 claw attacks, two 1d8 wing attacks and a 2d6 tail slap.
 
 #### Perfect Mind
 At 9th rank, you gain immunity to mind-affecting effects and spell resistance equal to your character level + mythic rank / 2. Your base attack bonus is at least 15. All skills are class skills and your rank in any skill is at least your mythic rank. All of your attributes are at least 18 and your highest ability score gets an additional +2 increase. Any spells with damage dice now deal at least 1d8 damage per die. If the damage die was already 1d8 or higher, the spell deals +1 damage per die.
@@ -211,7 +211,7 @@ Although you lose existing mythic abilities. the Gold Dragon abilities are decen
 | As a swift action, you increase your damage dealt by +50% for 1 round. |  |
 
 ##### Dragon Smite (Abjuration)
-| Target | Enemies within 30', centred on a creature in touch range |
+| Target | Enemies within 30', centered on a creature in touch range |
 | --- | --- |
 | Duration | 1 round |
 | Saving Throw | N/A |

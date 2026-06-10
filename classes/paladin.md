@@ -73,7 +73,7 @@ The standard Paladin has the following level progression:
 | 20 | - | - | Holy Champion | - |
 
 #### Paladin Proficiencies
-Paladins are proficient with all simple and martial weapons, all types of armour and shields.
+Paladins are proficient with all simple and martial weapons, all types of armor and shields.
 
 #### Alignment Restriction
 A Paladin who strays from Lawful Good loses all class powers until she changes her alignment back.
@@ -160,7 +160,7 @@ At 14th level, a Paladin's weapons are treated as good-aligned for the purposes 
 At 17th level, the Paladin gains DR 5/evil and is immune to compulsion spells and spell-like abilities. Allies within 10' gain a +4 morale bonus on saving throws against compulsion effects.
 
 #### Holy Champion
-At 20th level, the Paladin's DR increases to 10/evil and the effects of Lay on Hands and Channel Energy are maximised.
+At 20th level, the Paladin's DR increases to 10/evil and the effects of Lay on Hands and Channel Energy are maximized.
 
 ##### Playing a Paladin
 Smite Evil is incredibly powerful against evil foes and Mark of Justice gives this benefit to the whole party. In *this* game, most enemies are evil so this is a bona-fide superpower. That aside, a Paladin is badly feat-starved so any build will end up slightly compromised.
@@ -230,9 +230,9 @@ This is supposed to allow you to intercept attacks aimed at your divine troth bu
 At 7th, 10th and 13th levels, the Divine Guardian may choose bonus feats from the following list: Combat Reflexes, Diehard, Dodge, Endurance, (Improved) Great Fortitude, (Improved) Iron Will, (Improved) Lightning Reflexes, Missile Shield, Shield Focus, Toughness, Tower Shield Proficiency.
 
 ### Divine Hunter (Paladin)
-The Divine Hunter is a ranged combat specialist.
+The Divine Hunter is a ranged combat specializt.
 
-- Cannot use heavy armour
+- Cannot use heavy armor
 - Cannot gain a mount
 - Gains ranged attack abilities
 - Primary attributes: Dexterity and Charisma.
@@ -264,7 +264,7 @@ She has the following level progression:
 | 20 | - | - | Holy Champion | - |
 
 #### Divine Hunter Proficiencies
-Divine Hunters are proficient with all simple and martial weapons, light and medium armour and shields.
+Divine Hunters are proficient with all simple and martial weapons, light and medium armor and shields.
 
 #### Shared Precision
 At 3rd level, when a Divine Hunter hits a creature with a ranged attack, she grants her allies within 10' the benefit of Precise Shot against that target for 1 round.
@@ -452,7 +452,7 @@ She has the following level progression:
 Once per day per class level, a Stonelord treats her attacks as magical and adamantine for 1 round. She gains a +1 bonus on attack and damage rolls, increasing by +1 at 5th level and every five levels thereafter (max +5 at 20th level).
 
 #### Heartstone
-At 2nd level, a Stonelord gains a +1 natural armour bonus to AC and adamantine DR equal to her class level. The AC bonus increases by +1 at 6th level and every four levels thereafter (max +5 at 18th level).
+At 2nd level, a Stonelord gains a +1 natural armor bonus to AC and adamantine DR equal to her class level. The AC bonus increases by +1 at 6th level and every four levels thereafter (max +5 at 18th level).
 
 #### Stoneblood
 At 3rd level, a Stonelord gains a 25% chance to ignore a critical hit or precision damage. At 9th level, this chance increases to 50% and she becomes immune to petrification. At 15th level, this chance increases to 75% and she becomes immune to bleed.
@@ -511,7 +511,7 @@ A Tortured Crusader uses Wisdom for spellcasting and her lay on hands ability.
 #### Second Chance
 At 2nd level a Tortured Crusader can restore 1d6 damage per two class levels as a swift action. This ability can only heal her own wounds and she can use this ability a number of times per day equal to half her class level + her Wisdom modifier. She can convert two uses of this ability into an additional smite.
 
-From 8th level, she restores 1d8 damage per two class levels and at 15th level, the healing is maximised.
+From 8th level, she restores 1d8 damage per two class levels and at 15th level, the healing is maximized.
 
 #### Alone in the Dark
 From 2nd level, a Tortured Crusader gains a +2 bonus to attack and damage rolls and a +1 bonus to AC for 1 minute whenever an ally within 50' drops to 0 HP.

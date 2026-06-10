@@ -19,22 +19,22 @@ The *Inevitable Excess* expansion has a number of unique items that can be loote
 | Trident |  |  |  |  |  |
 | Tidebringer | +5 | Elder Frost Elder Icy Burst | 1 / day: cast Tsunami as an 18th level Wizard | 225000 | Blacksmith |
 | Sai |  |  |  |  |  |
-| Electric Rose | +5 | Elder Greater Shock | On sneak attack: target is paralysed for 3 rounds (Fortitude DC 30) | 189000 | Blacksmith |
+| Electric Rose | +5 | Elder Greater Shock | On sneak attack: target is paralyzed for 3 rounds (Fortitude DC 30) | 189000 | Blacksmith |
 | Dwarven Waraxe |  |  |  |  |  |
 | Behemoth Chopper | +5 | Mithral Necrotic | +4 morale bonus to attack and damage vs. Huge and bigger enemies | - | Blacksmith |
 
-#### Armour
+#### Armor
 | Name | Ench. | Properties | Special | Cost | Where / How to Get |
 | --- | --- | --- | --- | --- | --- |
 | Haramaki |  |  |  |  |  |
 | Soulless Command | +5 | - | +2 DC with all Necromancy spells When killing an enemy summon either a Bloodlusting Skeleton or Mummy | - | Iz (Ziggurat) |
-| Leather Armour |  |  |  |  |  |
+| Leather Armor |  |  |  |  |  |
 | Desert Mirage | +5 | - | +15 competence bonus to Trickery When wearer makes a saving throw they gain the displacement spell effect for 1 round | 71300 | Hilor |
 | Breastplate |  |  |  |  |  |
 | Silver Mist | +5 | Mithral | Immunity to precision damage | 82700 | Hilor |
 | Full Plate |  |  |  |  |  |
 | Everlasting Light | +5 | - | Immunity to fear and compulsion effects When the wearer is targeted with a fear or compulsion effect, allies within 30' receive a +4 morale bonus to attack and damage rolls and saving throws for 3 rounds | - | Lair of the Spinner of Nightmares |
-| Throne Keeper | +3 | Adamantine | 10/- DR Immunity to cold, fire and combat manoeuvres | 252000 | Hilor |
+| Throne Keeper | +3 | Adamantine | 10/- DR Immunity to cold, fire and combat maneuvers | 252000 | Hilor |
 | Light Barding |  |  |  |  |  |
 | Barding of Life | +5 | - | Fast Healing 20 | - | Free Crusaders' Camp |
 
@@ -65,10 +65,10 @@ The *Inevitable Excess* expansion has a number of unique items that can be loote
 #### Bracers
 | Item | Properties | Cost | Location |
 | --- | --- | --- | --- |
-| Bracers of Mind Break | +4 armour bonus to AC +2 DC with Enchantment spells | 43000 | Jewelry Trader |
+| Bracers of Mind Break | +4 armor bonus to AC +2 DC with Enchantment spells | 43000 | Jewelry Trader |
 | Bracers of Overwhelming Vigor | On hit with full HP: target is knocked prone for 2 rounds (Fortitude DC 28) | 39000 | Jewelry Trader |
-| Chaos Scourge | +8 armour bonus to AC Critical hits are automatically confirmed against chaotic enemies On crit vs. chaotic enemy: target suffers a -2 penalty to AC and saving throws for 3 rounds | 78800 | Jewelry Trader |
-| Flawless Bracers of Armor +9 | +9 armour bonus to AC Spell resistance 32 | - | Other Side of the Threshold Inevitable Darkness |
+| Chaos Scourge | +8 armor bonus to AC Critical hits are automatically confirmed against chaotic enemies On crit vs. chaotic enemy: target suffers a -2 penalty to AC and saving throws for 3 rounds | 78800 | Jewelry Trader |
+| Flawless Bracers of Armor +9 | +9 armor bonus to AC Spell resistance 32 | - | Other Side of the Threshold Inevitable Darkness |
 
 #### Cloaks
 | Item | Properties | Cost | Location |
@@ -107,11 +107,11 @@ The *Inevitable Excess* expansion has a number of unique items that can be loote
 #### Necklaces
 | Item | Properties | Cost | Location |
 | --- | --- | --- | --- |
-| Amulet of Epic Songs | +2 natural armour enhancement bonus to AC +6 rounds of Bardic Performance per day | 14000 | Jewelry Trader |
-| Amulet of Natural Armor +7 | +7 natural armour enhancement bonus to AC | - | Iz |
+| Amulet of Epic Songs | +2 natural armor enhancement bonus to AC +6 rounds of Bardic Performance per day | 14000 | Jewelry Trader |
+| Amulet of Natural Armor +7 | +7 natural armor enhancement bonus to AC | - | Iz |
 | Bone Amulet | +4 bonus to saves vs. Illusion spells On kill: wearer gains DR 10/Bludgeoning for 3 rounds | 44000 | Jewelry Trader |
-| Dragon's Heirloom | +8 natural armour enhancement bonus to AC Immunity to acid and fire When the wearer is hit by a dragon in melee, they become petrified for 1 round | - | Beverach |
-| Flawless Amulet of Natural Armor +7 | +7 natural armour enhancement bonus to AC DR 5/- | - | Other Side of the Threshold |
+| Dragon's Heirloom | +8 natural armor enhancement bonus to AC Immunity to acid and fire When the wearer is hit by a dragon in melee, they become petrified for 1 round | - | Beverach |
+| Flawless Amulet of Natural Armor +7 | +7 natural armor enhancement bonus to AC DR 5/- | - | Other Side of the Threshold |
 | Perfect Pitch | Immunity to sonic damage +5 competence bonus to Perception | 67500 | Jewelry Trader |
 | Reckless Vengeance | -4 penalty to AC +2 attacks per round for 2 rounds if an ally within 30' is knocked unconscious or killed | 45000 | Jewelry Trader |
 

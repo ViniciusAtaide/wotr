@@ -5,7 +5,7 @@ game_patch: 2.7.0
 # Stalwart Defender
 *Prestige class. Source: GameFAQs WotR Guide (80843).*
 
-The Stalwart Defender is practised in holding ground. She has the following characteristics:
+The Stalwart Defender is practiced in holding ground. She has the following characteristics:
 
 - Required feats: Dodge, Toughness
 - Required BAB: 7
@@ -48,7 +48,7 @@ The Defender may reroll a failed Will Save, taking the second result.
 Requires 4th level. The Defender is immune to the shaken and frightened conditions.
 
 ##### Immobile
-Requires 4th level. The Defender adds her class level to her CMD when defending against a bull rush combat manoeuvre.
+Requires 4th level. The Defender adds her class level to her CMD when defending against a bull rush combat maneuver.
 
 ##### Increased Damage Reduction
 Requires 6th level. The Defender gains an additional 1/- DR. This ability may be selected twice.

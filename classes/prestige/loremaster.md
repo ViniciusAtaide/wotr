@@ -81,4 +81,4 @@ At 6th level, a Loremaster can add a +10 circumstance bonus to Knowledge (Arcana
 ##### Playing a Loremaster
 One draw of a Loremaster is being able to select *any* combat feat with a one-level dip. For example, you can take Greater Vital Strike on a 3/4 BAB character. Note, however, that you may still need a prerequisite feat. For example, you can take Improved Cleaving Finish but unless you already have Cleaving Finish, it won't do anything.
 
-The class synergises well with most spellcasting classes, allowing them to copy powerful spells (such as *Greater Command*) into their spellbooks or even acquire a familiar.
+The class synergizes well with most spellcasting classes, allowing them to copy powerful spells (such as *Greater Command*) into their spellbooks or even acquire a familiar.

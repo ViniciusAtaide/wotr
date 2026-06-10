@@ -28,7 +28,7 @@ A Shaman gets ten feats, so list out the ones you want, in priority order:
 
 - Exotic Weapon Proficiency, Outflank, Combat Reflexes, Shatter Defenses, Improved Critical, Blind Fight, Power Attack, Weapon Focus + 2.
 
-Rationale: Being restricted to simple weapons is bad mainly because of the bad critical hit characteristics of simple weapons. You can pay for martial proficiency to give you much better choices or you can go down the exotic route. This inevitably means that you specialise but given that you are guaranteed a good weapon that can assume any form you like, this is not in itself a bad thing. A Shaman gets Dazzling Display via one of his hexes so we do not have it to take it to unlock Shatter Defenses. You do still need Weapon Focus, however.
+Rationale: Being restricted to simple weapons is bad mainly because of the bad critical hit characteristics of simple weapons. You can pay for martial proficiency to give you much better choices or you can go down the exotic route. This inevitably means that you specialize but given that you are guaranteed a good weapon that can assume any form you like, this is not in itself a bad thing. A Shaman gets Dazzling Display via one of his hexes so we do not have it to take it to unlock Shatter Defenses. You do still need Weapon Focus, however.
 
 After picking essentials, there are two feat slots left to fill. Choosing Fauchard allows us to build for critical hits. The best feat we can get is Staggering Critical; denying an enemy most of his attacks is better than inflicting the Fatigued or Sickened conditions.
 
@@ -47,7 +47,7 @@ At most even-numbered levels, a Shadow Shaman can select a hex. Most of these ar
 
 - Battle Spirit, Intimidating Display, Iceplant, Air Barrier, Extend Metamagic, +2.
 
-Rationale: Battle Spirit grants two good free feats. Intimidating Display unlocks Shatter Defenses without having to sacrifice a feat. Ice Plant and Air Barrier are massive boosts to otherwise-shaky defences. Extend Metamagic will (eventually) allow 1 round / level spells like Displacement and Cloak of Dreams to be up continuously.
+Rationale: Battle Spirit grants two good free feats. Intimidating Display unlocks Shatter Defenses without having to sacrifice a feat. Ice Plant and Air Barrier are massive boosts to otherwise-shaky defenses. Extend Metamagic will (eventually) allow 1 round / level spells like Displacement and Cloak of Dreams to be up continuously.
 
 With all that mind, here's the complete build, including mythic ranks:
 
@@ -108,9 +108,9 @@ The Manifestation ability of the Battle Spirit is extremely good. However, if yo
 *Eaglesoul* is a particularly nice spell which adds sacred bonuses to practically everything, making up for what you lose. Knowledge (World) is taken as the required skill focus because Arcana is easier to increase if your main character needs to make a check himself.
 
 ## Complex Builds
-Complex builds involve multiclassing. You'll need to pay attention to which levels you switch classes to maximise benefits. For example, if you're levelling in two classes that offer medium AB, you'll want to avoid weaving them in a way that results in you going two levels without gaining an AB bonus.
+Complex builds involve multiclassing. You'll need to pay attention to which levels you switch classes to maximize benefits. For example, if you're leveling in two classes that offer medium AB, you'll want to avoid weaving them in a way that results in you going two levels without gaining an AB bonus.
 
-If a prestige class is part of your plans, you need to pay attention to feat and skill requirements and include them in your levelling plan.
+If a prestige class is part of your plans, you need to pay attention to feat and skill requirements and include them in your leveling plan.
 
 If you want to take a dip in another class (Scaled Fist or Traditional Monk are popular) to gain the upfront benefits, you're making a trade-off in not gaining the "capstone" (level 20 ability) of your primary class, if any.
 
@@ -118,7 +118,7 @@ In most cases, 19 or 20 levels of *x* is much better than 1 or 2 levels of *y*. 
 
 Be aware that pure caster classes, Wizard and Sorcerer in particular, are diluted rather than enhanced by multiclassing. If you try to toughen your Wizard with a Fighter level or two or Dex them up with Rogue levels, you'll simply end up with a much worse character. Classes where the maximum spell level is 6 (Bard, Inquisitor and Hunter) are much more tolerant of multiclassing and for the Inquisitor and the Bard, multiclassing at some point is recommended. Be careful not to multiclass in two different spellcasting classes unless you're planning on becoming a Mystic Theurge.
 
-Two dip classes par excellence are the Traditional Monk / Scaled Fist, where a single level gets you an unarmoured AC bonus and opens up the Crane Style line of feats without paying the feat tax, and the Paladin, where two levels gets you a huge bonus to your saving throws. However, a Monk dip *and* a Paladin dip will probably tip your build into problem 1, where it takes too long to actually get going. A Paladin with a Scaled Fist dip, on the other hand, has a pretty good start in life.
+Two dip classes par excellence are the Traditional Monk / Scaled Fist, where a single level gets you an unarmored AC bonus and opens up the Crane Style line of feats without paying the feat tax, and the Paladin, where two levels gets you a huge bonus to your saving throws. However, a Monk dip *and* a Paladin dip will probably tip your build into problem 1, where it takes too long to actually get going. A Paladin with a Scaled Fist dip, on the other hand, has a pretty good start in life.
 
 If you take a Monk dip and take Crane Style as a bonus feat, be aware that you still need to take the Dodge feat before you can take Crane Wing.
 
@@ -194,7 +194,7 @@ Gonna knock you out!
 Fairly early on, you will regularly be tripping enemies during your full attack and getting attacks of opportunity at the same time.
 
 ## Sample Builds
-For many players, character building is the best part of the game. However, if you are struggling with the complexity of the Pathfinder class system or looking for ideas, the builds on this page are both effective and flavourful.
+For many players, character building is the best part of the game. However, if you are struggling with the complexity of the Pathfinder class system or looking for ideas, the builds on this page are both effective and flavorful.
 
 ### Azata Builds
 #### Jack-in-the-Green
@@ -240,9 +240,9 @@ Carries the green flag all the winter long
 | 9 | Azata | Summon Hamadryads; **Greater Abundant Casting** |
 | 10 | Azata | Superpower - **Marvelous Endurance**; **Sorcerous Reflex** |
 
-Azata is a much better fit for a Sylvan Sorcerer than the Lich path. After all, what business does a *sylvan* sorcerer have filling a ziggurat with skulls? A halfling can ride most animal companion types from the get-go and the Mobility bonus synergises with the Mounted Combat feat which allows your companion to avoid one attack per round. The Hasty subtype is also good since there is no arguing with +2 initiative. If you don't mind waiting until 7th level to saddle up, a kitsune gets very similar bonuses along with a DC boost to Enchantment. The choice of background gives you Mobility as a class skill and not-bad weapon proficiencies for the early game. If you prefer scimitars to axes, Shackles Corsair works as well.
+Azata is a much better fit for a Sylvan Sorcerer than the Lich path. After all, what business does a *sylvan* sorcerer have filling a ziggurat with skulls? A halfling can ride most animal companion types from the get-go and the Mobility bonus synergizes with the Mounted Combat feat which allows your companion to avoid one attack per round. The Hasty subtype is also good since there is no arguing with +2 initiative. If you don't mind waiting until 7th level to saddle up, a kitsune gets very similar bonuses along with a DC boost to Enchantment. The choice of background gives you Mobility as a class skill and not-bad weapon proficiencies for the early game. If you prefer scimitars to axes, Shackles Corsair works as well.
 
-Elk as the animal companion is thematic (and pretty decent) although if you prefer power to flavour, there is nothing to stop you choosing a smilodon instead.
+Elk as the animal companion is thematic (and pretty decent) although if you prefer power to flavor, there is nothing to stop you choosing a smilodon instead.
 
 The focus of the build is electricity magic so that you can destroy every enemy on the screen with Chain Lightning and Zippy Magic. You will want to make Chain Lightning your Spell Specialization until 20th level at which point you'll need to switch to something else (Mass Icy Prison, maybe). Favorable Magic makes save-or-else spells doubly-deadly, so there is a side order of Enchantment as well.
 
@@ -510,7 +510,7 @@ Waaaah! Waaaah!
 | 9 | Trickster | +1d6 sneak; Summon Wild Hunt (II); **Lore (Religion)**; **Knowledge (World) II**; **Archmage Armor** |
 | 10 | Trickster | **Lore (Nature)**; **Persuasion III**; **Improved Initiative (Mythic)** |
 
-If you're mounted, your companion is basically a second lifebar, since enemies attack the mount first. This means that you need to invest in keeping your companion alive - if the horse you're riding gets knocked out, you end up prone and surrounded by enemies. Mounted Combat and Mounted Indomitability allow you to ignore one hit and one failed saving throw per round but only if you invest in Mobility. If you're playing a Trickster, you're going to want the full complement of Improved Critical... feats which leaves the rest of the build a little feat-starved. This means that there isn't room for Shatter Defenses. It is, of course, a good feat but the prerequisites aren't so I would rather have Spirited Charge. Weapon Focus is mostly useful for unlocking other feats so I drop that in favour of Trample. When you can't charge, you can turn on Trample and walk through enemies, knocking them over.
+If you're mounted, your companion is basically a second lifebar, since enemies attack the mount first. This means that you need to invest in keeping your companion alive - if the horse you're riding gets knocked out, you end up prone and surrounded by enemies. Mounted Combat and Mounted Indomitability allow you to ignore one hit and one failed saving throw per round but only if you invest in Mobility. If you're playing a Trickster, you're going to want the full complement of Improved Critical... feats which leaves the rest of the build a little feat-starved. This means that there isn't room for Shatter Defenses. It is, of course, a good feat but the prerequisites aren't so I would rather have Spirited Charge. Weapon Focus is mostly useful for unlocking other feats so I drop that in favor of Trample. When you can't charge, you can turn on Trample and walk through enemies, knocking them over.
 
 I choose spears for the extra charge damage and prefer spears to longspears because the ultimate spear (Stormcaller) is available long before the best longspear (Fabled Dragon's Lance).
 
@@ -611,7 +611,7 @@ A Trickster doesn't have much synergy with most casters apart from Completely No
 
 Winter Witch adds +2 DC to cold spells and +2 caster level to *all* spells which is great for spells which do not have a level cap. The slightly strange level weave is for Spell Specialization. Due to a user interface bug, you do not get to choose a specialized spell when taking Loremaster and Winter Witch levels. Due to another user interface bug, you cannot choose Spell Specialization at level 1 which is why I take a metamagic feat before it is useful. You want to take Ear Piercing Scream at level 3, Hellfire Ray at level 13 (for two rays) and Ear Piercing Scream again at level 18 when Hellfire Ray maxes out.
 
-To take Completely Normal Spell at level 11, you will need to rush Mythic Rank 4 and possibly delay levelling up. As it happens, a Trickster can get Mythic Rank 4 fairly early in the chapter so this shouldn't be problematic. At Mythic Rank 7, you will receive a full Wizard spellbook, allowing you to double up on Hellfire Ray (and Storm Bolts and so forth).
+To take Completely Normal Spell at level 11, you will need to rush Mythic Rank 4 and possibly delay leveling up. As it happens, a Trickster can get Mythic Rank 4 fairly early in the chapter so this shouldn't be problematic. At Mythic Rank 7, you will receive a full Wizard spellbook, allowing you to double up on Hellfire Ray (and Storm Bolts and so forth).
 
 ### Demon Builds
 #### A Touch Too Much

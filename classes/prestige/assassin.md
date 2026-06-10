@@ -61,7 +61,7 @@ From 2nd level, an Assassin gains a +2 bonus to saving throws against mind-affec
 From 3rd level, an Assassin can create a copy of herself plus 1 additional copy per 3 additional class levels (maximum 3 at 9th level). This functions like the *Mirror Image* spell and while a copy is present on the battlefield, the Assassin deals sneak damage to all creatures. She can use this ability a number of times per day equal to 1 + her Intelligence modifier.
 
 #### Public Execution
-from 4th level, the Assassin makes a demoralise attempt against all enemies with 30' when she reduces a target to 0 HP. If the victim was under the effects of Mark of Death, the Assassin gains a +2 bonus to the check.
+from 4th level, the Assassin makes a demoralize attempt against all enemies with 30' when she reduces a target to 0 HP. If the victim was under the effects of Mark of Death, the Assassin gains a +2 bonus to the check.
 
 #### Hide In Plain Sight
 From 5th level, as Assassin can attempt to enter Stealth while being observed.

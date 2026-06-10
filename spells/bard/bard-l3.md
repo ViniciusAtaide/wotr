@@ -20,7 +20,7 @@ game_patch: 2.7.0
 - **Haste** *(Transmutation)* — _See Wizard spell list._
 - **Magic Fang, Greater** *(Transmutation)* — _See Druid spell list._ *(Beast Tamer only)*
 - **Overwhelming Grief** *(Enchantment)* — _See Wizard spell list._
-- **Purging Finale** *(Conjuration)* — T: One ally within close range — If a bardic performance is in effect, you can end the performance, clearing one of the following effects from the target: dazzled, exhausted, paralysed, shaken or stunned.
+- **Purging Finale** *(Conjuration)* — T: One ally within close range — If a bardic performance is in effect, you can end the performance, clearing one of the following effects from the target: dazzled, exhausted, paralyzed, shaken or stunned.
 - **Remove Curse** *(Abjuration)* — _See Wizard spell list._
 - **Reviving Finale** *(Conjuration)* — T: 20' burst on an ally area | Desc: Healing — Ends your active bardic performance; living allies in the area regain 2d6 HP + 1 per 2 caster levels. *(Description missing upstream; sourced from the WotR wiki, 2026-06-09.)*
 - **See Invisibility** *(Divination)* — _See Wizard spell list._

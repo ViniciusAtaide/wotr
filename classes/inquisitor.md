@@ -103,7 +103,7 @@ An Inquisitor's level progression is as follows:
 ^3 All other domains.
 
 #### Inquisitor Proficiencies
-An Inquisitor is proficient with all simple weapons, longbow, shortbow and the favoured weapon of his deity. He is also proficient with light armour, medium armour and shields.
+An Inquisitor is proficient with all simple weapons, longbow, shortbow and the favored weapon of his deity. He is also proficient with light armor, medium armor and shields.
 
 #### Stern Gaze
 An Inquisitor receives a morale bonus on all Perception and Persuasion (intimidation) checks equal to half his class level.
@@ -156,7 +156,7 @@ At 5th level, the Inquisitor can imbue his weapon with the Bane special ability 
 At 8th level, the Inquisitor can pronounce two judgments when he uses his ability. This only consumes one use.
 
 #### Stalwart
-At 11th level, if the character makes a Fortitude or Will save against an attack that normally deals half damage on a successful save, he instead takes no damage. This ability cannot be used if the Inquisitor is wearing heavy armour.
+At 11th level, if the character makes a Fortitude or Will save against an attack that normally deals half damage on a successful save, he instead takes no damage. This ability cannot be used if the Inquisitor is wearing heavy armor.
 
 #### Greater Bane
 At 12th level the bonus damage per hit increases to 4d6.
@@ -179,11 +179,11 @@ Good domains for the Inquisitor are Animal, Community, Liberation, Luck, Nobilit
 
 A Faith Hunter gives up the domain for not very much: a handful of uses of a cut-down Smite ability isn't a good trade. A Judge gives up even more: all teamwork feats and the Bane ability for a cut-down Mark of Justice. Note that Everlasting Judgment doesn't give you unlimited use of Aura of Judgment.
 
-A Living Grimoire loses the signature abilities of the base class and trades them for a weapon which will almost certainly be outclassed by weapons that he might otherwise equip. There are interesting synergies between spellcasting and attacking enemies with the book, but you're likely to be using an Inquisitor as an out-of-combat buffer rather than a DC caster. Overall, Living Grimoire feels like a joke class and only something that you'd play for flavour.
+A Living Grimoire loses the signature abilities of the base class and trades them for a weapon which will almost certainly be outclassed by weapons that he might otherwise equip. There are interesting synergies between spellcasting and attacking enemies with the book, but you're likely to be using an Inquisitor as an out-of-combat buffer rather than a DC caster. Overall, Living Grimoire feels like a joke class and only something that you'd play for flavor.
 
-A Monster Tactician plays differently - you'll basically be throwing disposable allies at your enemies. The number of times you can summon is a function of your Wisdom score so you want this to be maximised. Since Everlasting Judgment is a thing, losing the Judgment ability altogether is quite a blow. In addition to this, the Beast Tamer (Bard) has the same summoning capabilities but a better base class.
+A Monster Tactician plays differently - you'll basically be throwing disposable allies at your enemies. The number of times you can summon is a function of your Wisdom score so you want this to be maximized. Since Everlasting Judgment is a thing, losing the Judgment ability altogether is quite a blow. In addition to this, the Beast Tamer (Bard) has the same summoning capabilities but a better base class.
 
-A Sacred Huntsmaster fights on the frontline alongside a powered-up pet. This frees you to take a domain other than Animal without feeling like you're missing out and means that you don't have to take Boon Companion either. You're trading Judgment for Favored Enemy which is an unfavourable trade. This class is a good three level dip for a companion-focused build.
+A Sacred Huntsmaster fights on the frontline alongside a powered-up pet. This frees you to take a domain other than Animal without feeling like you're missing out and means that you don't have to take Boon Companion either. You're trading Judgment for Favored Enemy which is an unfavorable trade. This class is a good three level dip for a companion-focused build.
 
 A Sanctified Slayer is an improvement on the base class. You trade Judgment for Studied Target and (eventually) +6d6 sneak damage. Studied Target gives you the same attack bonus and damage bonus as Judgment and the sneak attack gives you a way to apply it without consuming an action since a Sanctified Slayer never gets the swift action upgrade for Studied Target. You also get four slayer talents. Unfortunately, these are way too late to be really useful and you are probably better off simply playing a Slayer.
 
@@ -399,7 +399,7 @@ His level progression is as follows:
 A user interface bug shows Judgment at 19th level. For a Monster Tactician, the Summon Monster ability replaces Judgment entirely.
 
 #### Summon Monster
-A Monster Tactician may cast a levelled Monster Summoning spell a number of times per day equal to 3 + his Wisdom modifier. The creatures remain for 1 minute / level. If you cast Monster Summoning again while previous summons are on the field, any existing summon monster ends. Summoned monster stats are shown here.
+A Monster Tactician may cast a leveled Monster Summoning spell a number of times per day equal to 3 + his Wisdom modifier. The creatures remain for 1 minute / level. If you cast Monster Summoning again while previous summons are on the field, any existing summon monster ends. Summoned monster stats are shown here.
 
 #### Summon Tactics
 At 5th level, summoned monsters are treated as if they knew all the Monster Tactician's teamwork feats.

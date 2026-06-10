@@ -67,7 +67,7 @@ The standard Fighter has the following level progression:
 | 20 | - | Bonus Combat Feat | Weapon Mastery |
 
 #### Fighter Proficiencies
-Fighters are proficient with all simple and martial weapons, all types of armour and shields (including tower shields).
+Fighters are proficient with all simple and martial weapons, all types of armor and shields (including tower shields).
 
 #### Bonus Combat Feat
 The Fighter may select any feat from the list of Combat Feats.
@@ -76,14 +76,14 @@ The Fighter may select any feat from the list of Combat Feats.
 At 2nd level, the Fighter gains a +1 bonus to Will saves against fear. This bonus increases by +1 for every four additional class levels (maximum +5 at 18th level).
 
 #### Armor Training
-Starting at 3rd level, a Fighter reduces his armour penalty by 1 and increases the maximum Dexterity bonus allowed by his armour by +1. Every four additional class levels, these bonuses increase by 1 (maximum -4 / +4 at 15th level).
+Starting at 3rd level, a Fighter reduces his armor penalty by 1 and increases the maximum Dexterity bonus allowed by his armor by +1. Every four additional class levels, these bonuses increase by 1 (maximum -4 / +4 at 15th level).
 
-A Fighter can move at normal speed while wearing medium armour. At 7th level, a Fighter can move at normal speed while wearing heavy armour.
+A Fighter can move at normal speed while wearing medium armor. At 7th level, a Fighter can move at normal speed while wearing heavy armor.
 
 #### Weapon Training
 At 5th level, a Fighter can select a group of weapons, gaining a +1 bonus to attack and damage rolls when using weapons from that group. Every four levels thereafter (up to level 17), the Fighter may choose an additional weapon group and gains +1 bonus to attack and damage rolls with this group. In addition, the bonuses for any previously selected groups increase by +1 each.
 
-The Fighter adds this bonus to any combat manoeuvre checks made with weapons from a given group and adds a bonus to his CMD when attempting to resist disarm attempts.
+The Fighter adds this bonus to any combat maneuver checks made with weapons from a given group and adds a bonus to his CMD when attempting to resist disarm attempts.
 
 Whenever you receive Weapon Training, you may select from the following list.
 
@@ -101,7 +101,7 @@ Whenever you receive Weapon Training, you may select from the following list.
 | 5 | Polearms | +1 with bardiche, fauchard, glaive |
 | 5 | Spears | +1 with javelin, longspear, shortspear, spear, trident |
 | 9 | Armed Bravery | The Fighter applies his Bravery bonus to all Will saving throws. |
-| 9 | Combat Maneuver Defense | The fighter applies his weapon training bonus to all combat manoeuvres attempted against him. |
+| 9 | Combat Maneuver Defense | The fighter applies his weapon training bonus to all combat maneuvers attempted against him. |
 | 9 | Effortless Dual-Wielding | All one-handed weapons from the group are considered light for purposes of two-weapon fighting. |
 | 9 | Fighter's Finesse | If the Fighter has taken the Weapon Finesse feat, he can treat all weapons from a group as finessable. |
 | 9 | Fighter's Reflexes | The Fighter applies his weapon training bonus to Reflex saves. |
@@ -109,7 +109,7 @@ Whenever you receive Weapon Training, you may select from the following list.
 | 9 | Trained Initiative | The Fighter applies his weapon training bonus to initiative checks. |
 
 #### Armor Mastery
-At 19th level, a Fighter gains DR 5/- when wearing armour or using a shield.
+At 19th level, a Fighter gains DR 5/- when wearing armor or using a shield.
 
 #### Weapon Mastery
 At 20th level, the Fighter chooses a specific weapon (such as a longsword). Any attacks made using that weapon automatically confirm critical hits and the critical multiplier increases by 1. The Fighter cannot be disarmed when wielding this type of weapon.
@@ -123,13 +123,13 @@ An Armiger trades two feats for an improved Bravery ability and minor benefits f
 
 A Defender of the Hearth's abilities cost one bonus feat and one one rank of Weapon Training which is a good trade even if the core ability reduces damage from being hit rather than avoiding being hit in the first place. You also lose the extremely powerful Weapon Mastery capstone ability but the replacement, Defender's Gift, is quite good. Equip a heavy shield (for Shield Block) and invest in TWF and Shield Bash for improved damage output.
 
-A Dragonheir Scion gives up the class superpowers for a draconic bloodline. The loss of Armor Training is somewhat compensated by natural armour bonuses gained through the bloodline but you may question whether blindsense to 60' is worth giving up Weapon Mastery for. The answer is: no, it really isn't.
+A Dragonheir Scion gives up the class superpowers for a draconic bloodline. The loss of Armor Training is somewhat compensated by natural armor bonuses gained through the bloodline but you may question whether blindsense to 60' is worth giving up Weapon Mastery for. The answer is: no, it really isn't.
 
 A Mutation Warrior swaps Armor Training for a Mutagen. Given that a mutagen gives you an AC boost on top of everything else, this isn't a bad trade at all. Note that the mutagen never becomes persistent and you will have to wait a long time - until 15th level to be precise - to get an upgrade. In the meantime, I prefer Preserve Organs to Feral Mutagen / Feral Wings.
 
 A Titan Fighter's signature feature is being able to dual-wield (however poorly) two-handed weapons. However, for most of the game you will have similar damage output to regular Fighter dual-wielding, say, longswords because a regular Fighter gets Effortless Dual Wielding and can benefit from Gloves of Dueling. It's only with Unstoppable Strike at 17th level that a Titan Fighter edges ahead and that's a long time to wait. Note that Titan Fighter makes a great 1-level dip for arcane casters, allowing them to dual-wield quarterstaffs.
 
-The Tower Shield Specialist is a strange class and the tower shield focus feels like the tail wagging the dog, although the armour boosts and 9th-level abilities make it defensively strong. However, losing Weapon Training and Weapon Mastery means that damage output suffers greatly.
+The Tower Shield Specializt is a strange class and the tower shield focus feels like the tail wagging the dog, although the armor boosts and 9th-level abilities make it defensively strong. However, losing Weapon Training and Weapon Mastery means that damage output suffers greatly.
 
 The Two-Handed Fighter on the other hand does what it says on the tin. It does big damage numbers consistently and reliably. However, it is defensively weak so you may want to use a reach weapon (Glaive or Fauchard).
 
@@ -218,7 +218,7 @@ An Armiger may choose from one of seven orders.
 At 1st level, you gain a +2 bonus to CMB and CMD. This increases by +1 at 5th and 9th levels.
 
 ##### Order of the Gate
-While wearing armour, the chance of arcane spell failure is reduced by 5% as 1st level, 10% at 5th and 20% at 9th.
+While wearing armor, the chance of arcane spell failure is reduced by 5% as 1st level, 10% at 5th and 20% at 9th.
 
 ##### Order of the Godclaw
 You gain an aura which lasts for 1 minute and grants all allies within 30' a +1 morale bonus to AC, attack and damage rolls against chaotic creatures. This bonus increases by +1 at 5th and 9th levels. You can use this ability three times per day.
@@ -302,7 +302,7 @@ His level progression is as follows:
 | 0 | - | Fighter Proficiencies | Draconic Bloodline |
 | 1 | Feat | Arcane Strike | - |
 | 2 | - | Bonus Combat Feat | Fearful Might |
-| 3 | Feat | - | Draconic Defences |
+| 3 | Feat | - | Draconic Defenses |
 | 4 | - | - | Draconic Strike |
 | 5 | Feat | - | Weapon Training |
 | 6 | - | - | Draconic Presence |
@@ -328,7 +328,7 @@ A Dragonheir Scion has a Draconic bloodline.
 At 2nd level, a Dragonheir Scion gains a +1 bonus on Intimidate skill checks. This increases by +1 every four additional class levels (max +5 at 18th level).
 
 #### Draconic Defenses
-At 3rd level, a Dragonheir Scion gains a +1 natural armour bonus to AC and energy resistance 5 against the bloodline's energy type. At 7th level, the AC bonus increases to +2 and the energy resistance to 10. At 13th level, these increase agains to +3 AC and energy resistance 20.
+At 3rd level, a Dragonheir Scion gains a +1 natural armor bonus to AC and energy resistance 5 against the bloodline's energy type. At 7th level, the AC bonus increases to +2 and the energy resistance to 10. At 13th level, these increase agains to +3 AC and energy resistance 20.
 
 #### Draconic Strike
 At 4th level, whenever the Dragonheir Scion damages a creature with Arcane Strike, the attack does an additional 1d4 damage of the bloodline's energy type.
@@ -380,7 +380,7 @@ At 7th level and every additional four levels, the Mutation Warrior unlocks a ne
 ### Titan Fighter
 The Titan Fighter archetype requires the *Dance of Masks* DLC.
 
-A Titan Fighter is a specialist in wielding the largest weapons.
+A Titan Fighter is a specializt in wielding the largest weapons.
 
 - Can wield two-handed weapons in one hand and gains bonuses to attack and damage
 - Can select bonus two-weapon fighting feats
@@ -427,8 +427,8 @@ From 9th level, while wielding a two-handed weapon in one hand, a Titan Fighter 
 #### Unstoppable Strike
 From 17th level, while wielding a two-handed weapon in one hand, a Titan Fighter adds twice his Strength modifier to weapon damage rolls.
 
-### Tower Shield Specialist
-The Tower Shield Specialist is a master of combat with the unwieldy tower shield.
+### Tower Shield Specializt
+The Tower Shield Specializt is a master of combat with the unwieldy tower shield.
 
 - Gains defensive abilities with tower shields
 - Loses Weapon Training.
@@ -442,7 +442,7 @@ He has the following level progression:
 | 2 | - | Bonus Combat Feat | Burst Barrier |
 | 3 | Feat | Armor Training | Tower Shield Training |
 | 4 | - | Bonus Combat Feat | - |
-| 5 | Feat | - | Tower Shield Specialist |
+| 5 | Feat | - | Tower Shield Specializt |
 | 6 | - | Bonus Combat Feat | - |
 | 7 | Feat | - | - |
 | 8 | - | Bonus Combat Feat | - |
@@ -460,25 +460,25 @@ He has the following level progression:
 | 20 | - | Bonus Combat Feat | Tower Shield Improved Evasion |
 
 #### Burst Barrier
-At 2nd level, the Specialist gains +1 to Reflex saves against area-of-effect spells and effects. This increases by +1 four every additional class levels (maximum +5 at 18th level).
+At 2nd level, the Specializt gains +1 to Reflex saves against area-of-effect spells and effects. This increases by +1 four every additional class levels (maximum +5 at 18th level).
 
 #### Tower Shield Training
-Starting at 3rd level, the Specialist reduces his armour penalty by -3 and increases the maximum Dexterity bonus allowed by his armour by +2 while employing a Tower Shield, improving the normal bonus provided by Armour Training. When not employing a Tower Shield, the normal Armour Training bonuses apply.
+Starting at 3rd level, the Specializt reduces his armor penalty by -3 and increases the maximum Dexterity bonus allowed by his armor by +2 while employing a Tower Shield, improving the normal bonus provided by Armor Training. When not employing a Tower Shield, the normal Armor Training bonuses apply.
 
-#### Tower Shield Specialist
-At 5th level, the Specialist does not incur the -2 penalty to attack rolls from employing a tower shield.
+#### Tower Shield Specializt
+At 5th level, the Specializt does not incur the -2 penalty to attack rolls from employing a tower shield.
 
 #### Tower Shield Defense
-At 9th level, the Specialist adds his shield bonus to touch AC when employing a tower shield.
+At 9th level, the Specializt adds his shield bonus to touch AC when employing a tower shield.
 
 #### Total Cover
-At 13th level, the Specialist cannot be flanked when employing a tower shield.
+At 13th level, the Specializt cannot be flanked when employing a tower shield.
 
 #### Tower Shield Evasion
-At 16th level and when using a tower shield, if the Specialist makes a Reflex save against an attack that normally deals half damage on a successful save, he instead takes no damage.
+At 16th level and when using a tower shield, if the Specializt makes a Reflex save against an attack that normally deals half damage on a successful save, he instead takes no damage.
 
 #### Tower Shield Improved Evasion
-At 20th level and when using a tower shield, if the Specialist fails a Reflex save against an attack that normally deals half damage on a successful save, he takes only half damage.
+At 20th level and when using a tower shield, if the Specializt fails a Reflex save against an attack that normally deals half damage on a successful save, he takes only half damage.
 
 ### Two-Handed Fighter
 The Two-Handed Fighter is an expert with the largest weapons.

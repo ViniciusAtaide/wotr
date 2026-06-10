@@ -74,7 +74,7 @@ The wearer receives a +5 sacred bonus on attack rolls and +10 sacred bonus on da
 If you import a *Lord of Nothing* save and defeat Sithhud, you will acquire a Shard of Sithhud's Sword. Storyteller can fashion it into one of two artifacts.
 
 #### Sword of Sithhud
-This is a +5 Frost longsword. On hit, an enemy must make a Fortitude save (DC 35) or bleed 1d4 Constitution damage per round. When confirming a critical hit against an enemy who is bleeding, the sword deals +3d10 unholy damage. Once per day, as a standard action, the wielder can protect themselves with glacial armour. This confers a +6 natural armour bonus to AC and DR 20/bludgeoning but breaks after preventing 60 points of damage.
+This is a +5 Frost longsword. On hit, an enemy must make a Fortitude save (DC 35) or bleed 1d4 Constitution damage per round. When confirming a critical hit against an enemy who is bleeding, the sword deals +3d10 unholy damage. Once per day, as a standard action, the wielder can protect themselves with glacial armor. This confers a +6 natural armor bonus to AC and DR 20/bludgeoning but breaks after preventing 60 points of damage.
 
 #### Amplified Rod of Mortiferous Blizzard
 Note that this requires the Rod of Moritiferous Blizzard that you receive from importing a *Through the Ashes* save. The wielder can change the energy damage of up to five spells per day to cold damage. If an enemy is damaged by an instant damage spell cast with the rod, they must pass a Reflex save (DC equal to the spell's DC) or become slowed for 1d6 rounds. For the same duration, the affected enemy emits a 15' aura. Enemies entering the area of effect must make a Reflex save (DC equal to the spell's DC) or become slowed for 1d6 rounds as well.
@@ -212,19 +212,19 @@ Most Relics are found in demon lairs during crusade mode, although you will also
 
 Notable options include:
 
-- Web Strider padded armour (Altar of the First Retriever): morale ability bonuses are rare and stack with enhancement bonuses from other gear.
+- Web Strider padded armor (Altar of the First Retriever): morale ability bonuses are rare and stack with enhancement bonuses from other gear.
 - Devouring Lust metamagic rod (The Attractive Impulse): effectively a Greater Maximize metamagic rod with twice as many uses which overcomes any elemental resistance.
 - Death's Consonant bardiche (The Branch of the Last Ash): allows a martial caster (Magus / Eldritch Knight) to ignore Strength. Note that you have to be able to overcome an 11-Strength army in Chapter 3 to obtain this early.
 - Coldbite light spiked shield (Chillroar's Hide and Tusks): combos with other sources of bonus cold damage (for example, Silver Dragon bloodline).
 - Voice of the Fearless amulet (The Dirty Squealer): allows you to build around *Ear Piercing Scream*; a Trickster can turn this into a cantrip and spam it all day long.
 - Bane of Spirit ring (Phylactery of Stevanius the Rotten): allows conversion of physical damage to force damage which helps greatly against enemies which are immune or resistant to physical damage (such as swarms).
 - Grave Singer (Unholy Symbol of Rovagug): has the joint-best best critical hit characteristics of any weapon (18 - 20 range, x3 multiplier); use the Greater Magic Weapon spell to increase its enhancement bonus.
-- Plague of Madness quarterstaff (Wicked Dope): allows you to cast, say, *Guidance*, three times outside combat and then open combat with an empowered and maximised *Chain Lightning*.
+- Plague of Madness quarterstaff (Wicked Dope): allows you to cast, say, *Guidance*, three times outside combat and then open combat with an empowered and maximized *Chain Lightning*.
 
 ### Altar of the First Retriever
 - Padded Armor**Zon-Kuthon's Suffocating Caress**
 Enhancement: +4
-The wearer suffers -2 penalties to attack rolls and Constitution. The armour provides electricity resistance 30. If the wearer suffers electrical damage their attacks in the next round deal an additional +1d12 electrical damage and any spells with the electricity descriptor are quickened.
+The wearer suffers -2 penalties to attack rolls and Constitution. The armor provides electricity resistance 30. If the wearer suffers electrical damage their attacks in the next round deal an additional +1d12 electrical damage and any spells with the electricity descriptor are quickened.
 - **Web Strider**
 Enhancement: +3
 The wearer gains a +2 morale bonus to Dexterity.
@@ -389,7 +389,7 @@ On first hit: target becomes marked with *Obedience*. If the marked opponent att
 - Ring**Bane of Flesh**
 1 / day: when the wielder's HP falls below 0, the ring restores HP equal to twice their character level and summons 1d4 + 2 skeletal champions for 2 minutes.
 - **Bane of Spirit**
-The wielder receives a +4 bonus to saves vs. mind-affecting effects, confusion, fear, death and compulsion effects but takes a -2 penalty to saves vs. poison, elemental, paralysing and movement impairing effects. As a swift action, the wielder can sacrifice HP equal to half their level to grant an ally a +2 bonus to attack rolls and convert their damage type to force for 1 round.
+The wielder receives a +4 bonus to saves vs. mind-affecting effects, confusion, fear, death and compulsion effects but takes a -2 penalty to saves vs. poison, elemental, paralyzing and movement impairing effects. As a swift action, the wielder can sacrifice HP equal to half their level to grant an ally a +2 bonus to attack rolls and convert their damage type to force for 1 round.
 
 - **Bane of Flesh**
 Enhancement: +2, Bleed
@@ -442,7 +442,7 @@ When casting a spell on an enemy, the target is entangled in a web for 1d4 round
 - **Ancestral Retribution**
 When fighting defensively, the first hit on an enemy pushes it away 10' and knocks it prone for 1 round.
 - **Planar Navigator**
-Summoning spells of 6th level and lower are maximised and the wearer gains a +1 insight bonus to attack rolls vs. outsiders.
+Summoning spells of 6th level and lower are maximized and the wearer gains a +1 insight bonus to attack rolls vs. outsiders.
 - **Clemency of Shadows**
 Allies within 30' gain an additional attack of opportunity. Critical hits from attacks of opportunity leave the target staggered. If an ally falls unconscious, a giant spider is summoned for 3 rounds.
 
@@ -469,11 +469,11 @@ Enhancement: +2, Radiant
 On crit: dispel one spell up to 5th level from the target.
 - **Scorpion's Kiss**
 Enhancement: +2, Corrosive, Corrosive Burst
-+3 bonus to attack rolls when performing an attack of opportunity and your critical threat range is doubled. If you land an AOO, the target is paralysed for 1 round (Fortitude DC 17). If an enemy hits you with an AOO, they suffer 2d6 acid damage (Reflex DC 15).
++3 bonus to attack rolls when performing an attack of opportunity and your critical threat range is doubled. If you land an AOO, the target is paralyzed for 1 round (Fortitude DC 17). If an enemy hits you with an AOO, they suffer 2d6 acid damage (Reflex DC 15).
 - **Grave Singer**
 Enhancement: +2
 Critical threat range is 18-20.
-1 / encounter: when paralysed, staggered, stunned, petrified or entangled, the effect is cancelled but the wielder receives the weapon's damage.
+1 / encounter: when paralyzed, staggered, stunned, petrified or entangled, the effect is canceled but the wielder receives the weapon's damage.
 
 ### Voice of the Cursed Bard
 - Amulet**Francest's Charming Voice**
